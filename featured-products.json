@@ -1,0 +1,90 @@
+[
+  {
+    "id": "acuarela-faber-castell-estuche-x-12-und",
+    "title": "Acuarela Faber Castell Estuche X 12 Und",
+    "short": "Colores vivos para arte y escuela.",
+    "price": "S/ 10.14",
+    "rating": "4.5",
+    "stock": 10,
+    "tag": "nuevo",
+    "category": "papeleria",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>"
+  },
+  {
+    "id": "acuarela-ove-grande-x-8-colores",
+    "title": "Acuarela Ove Grande X 8 Colores",
+    "short": "Colores vivos para arte y escuela.",
+    "price": "S/ 2.80",
+    "rating": "4.5",
+    "stock": 10,
+    "tag": "oferta",
+    "category": "papeleria",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>"
+  },
+  {
+    "id": "cuaderno-cuadriculado-justus",
+    "title": "Cuaderno Cuadriculado - Justus",
+    "short": "Ideal para apuntes y organizacion diaria.",
+    "price": "S/ 3.50",
+    "rating": "4.5",
+    "stock": 10,
+    "tag": "oferta",
+    "category": "cuadernos",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23ec6b5f'/><stop offset='1' stop-color='%23f5c534'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='90' y='80' width='220' height='240' rx='18' fill='%23ffffff'/><rect x='120' y='140' width='170' height='12' fill='%23ec6b5f'/><rect x='120' y='180' width='140' height='12' fill='%23f5c534'/></svg>"
+  },
+  {
+    "id": "cuaderno-rayado-justus",
+    "title": "Cuaderno Rayado - Justus",
+    "short": "Ideal para apuntes y organizacion diaria.",
+    "price": "S/ 3.50",
+    "rating": "4.5",
+    "stock": 10,
+    "tag": "oferta",
+    "category": "cuadernos",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f5c534'/><stop offset='1' stop-color='%235a79d6'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='90' y='80' width='220' height='240' rx='18' fill='%23ffffff'/><rect x='120' y='140' width='170' height='12' fill='%235a79d6'/><rect x='120' y='180' width='140' height='12' fill='%23f5c534'/></svg>"
+  },
+  {
+    "id": "archivador-plastificado-ove-a4-negro-con-lomo-ancho",
+    "title": "Archivador Plastificado Ove A4 Negro",
+    "short": "Producto esencial para estudio y oficina.",
+    "price": "S/ 3.80",
+    "rating": "4.5",
+    "stock": 10,
+    "tag": "oferta",
+    "category": "papeleria",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%235a79d6'/><stop offset='1' stop-color='%232f7f6c'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='90' y='80' width='220' height='240' rx='18' fill='%23ffffff'/><rect x='120' y='140' width='170' height='12' fill='%232f7f6c'/><rect x='120' y='180' width='140' height='12' fill='%235a79d6'/></svg>"
+  },
+  {
+    "id": "papel-bond-56-g-61-x-86-cm-rollo-x-50-und",
+    "title": "Papel Bond 56 G 61 X 86 Cm Rollo X 50 Und",
+    "short": "Producto esencial para estudio y oficina.",
+    "price": "S/ 0.15",
+    "rating": "4.5",
+    "stock": 10,
+    "tag": "oferta",
+    "category": "papeleria",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23fbe9dd'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='90' width='280' height='220' rx='18' fill='%23ffffff'/><rect x='110' y='140' width='200' height='12' fill='%23ec6b5f'/></svg>"
+  },
+  {
+    "id": "goma-en-barra-artesco-21-g",
+    "title": "Goma En Barra Artesco 21 G",
+    "short": "Borrado limpio para el estudio.",
+    "price": "S/ 1.50",
+    "rating": "4.5",
+    "stock": 10,
+    "tag": "oferta",
+    "category": "papeleria",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%235a79d6'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='120' y='90' width='160' height='220' rx='18' fill='%23ffffff'/><rect x='140' y='150' width='120' height='12' fill='%235a79d6'/></svg>"
+  },
+  {
+    "id": "plastilina-jumbo-artesco-x-12-und",
+    "title": "Plastilina Jumbo Artesco X 12 Und",
+    "short": "Producto esencial para estudio y oficina.",
+    "price": "S/ 3.01",
+    "rating": "4.5",
+    "stock": 10,
+    "tag": "oferta",
+    "category": "papeleria",
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23ec6b5f'/><stop offset='1' stop-color='%232f7f6c'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='90' y='80' width='220' height='240' rx='18' fill='%23ffffff'/><rect x='120' y='140' width='170' height='12' fill='%23ec6b5f'/><rect x='120' y='180' width='140' height='12' fill='%232f7f6c'/></svg>"
+  }
+]

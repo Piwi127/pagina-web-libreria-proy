@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Libreria Belen - Catalogo de Productos</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="marquee" aria-label="Beneficios">
+        <div class="marquee-track">
+          <span>Envios a todo el Peru</span>
+          <span>+500 disenos disponibles</span>
+          <span>Gift Card digital</span>
+          <span>Atencion por WhatsApp</span>
+          <span>Envios a todo el Peru</span>
+          <span>+500 disenos disponibles</span>
+        </div>
+      </div>
+      <div class="topbar">
+        <div class="brand">Libreria Belen</div>
+        <nav class="menu">
+          <a href="#">Inicio</a>
+          <a href="catalogo.html">Catalogo</a>
+          <a href="#offers">Ofertas</a>
+          <a href="#contacto">Contacto</a>
+        </nav>
+        <button class="cart" data-cart-toggle>
+          Carrito (<span data-cart-count>0</span>)
+        </button>
+      </div>
+      <div class="hero-search">
+        <div class="search-wrap">
+          <input
+            type="search"
+            placeholder="Buscar productos, autores o categorias"
+            aria-label="Buscar productos"
+            id="search-input"
+          />
+          <button type="button" id="search-button">Buscar</button>
+        </div>
+      </div>
+      <div class="hero-carousel full-width">
+        <div class="swiper hero-swiper" aria-label="Carrusel de anuncios">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide hero-slide">
+            <div class="hero-slide-content">
+              <span class="pill">Libreria Belen</span>
+              <h2>-15% en combos de lectura</h2>
+              <p>Arma tu pack de novelas y ahorra en tu proxima compra.</p>
+              <a class="btn-primary" href="catalogo.html#product-grid">Comprar ahora</a>
+            </div>
+            <div class="hero-slide-bg bg-warm" aria-hidden="true"></div>
+          </div>
+          <div class="swiper-slide hero-slide">
+            <div class="hero-slide-content">
+              <span class="pill">Personaliza</span>
+              <h2>Tu agenda con tu nombre</h2>
+              <p>Grabado y colores a eleccion, listo para regalar.</p>
+              <a
+                class="btn-primary"
+                href="https://wa.me/51947872207?text=Quiero%20personalizar%20una%20agenda"
+                target="_blank"
+                rel="noopener"
+              >
+                WhatsApp
+              </a>
+            </div>
+            <div class="hero-slide-bg bg-mint" aria-hidden="true"></div>
+          </div>
+          <div class="swiper-slide hero-slide">
+            <div class="hero-slide-content">
+              <span class="pill">Envios</span>
+              <h2>Despacho rapido a todo el Peru</h2>
+              <p>Seguimiento en cada etapa y entrega segura.</p>
+              <a class="btn-primary" href="#contacto">Ver tiempos</a>
+            </div>
+            <div class="hero-slide-bg bg-lavender" aria-hidden="true"></div>
+          </div>
+          <div class="swiper-slide hero-slide">
+            <div class="hero-slide-content">
+              <span class="pill">Temporada</span>
+              <h2>Regalos literarios</h2>
+              <p>Gift card y cajas listas para sorprender.</p>
+              <a class="btn-primary" href="catalogo.html">Regalar</a>
+            </div>
+            <div class="hero-slide-bg bg-peach" aria-hidden="true"></div>
+          </div>
+          </div>
+          <div class="hero-controls">
+            <button class="swiper-button-prev" aria-label="Anterior"></button>
+            <button class="swiper-button-next" aria-label="Siguiente"></button>
+            <div class="swiper-pagination" aria-hidden="true"></div>
+            <button class="hero-play" type="button" aria-pressed="false">
+              Pausar
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="hero-message">
+        <h1>Encuentra tu proximo libro favorito</h1>
+        <p>
+          Lecturas, agendas y detalles para estudio y regalo. Busca rapido y
+          agrega al carrito en segundos.
+        </p>
+        <div class="hero-cta">
+          <a class="btn-primary" href="catalogo.html#product-grid">Comprar ahora</a>
+          <a class="btn-ghost" href="catalogo.html">Ver catalogo</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="catalog reveal">
+      <div class="section-title">
+        <h2>Productos destacados</h2>
+        <span>Explora el carrusel</span>
+      </div>
+      <section class="product-carousel reveal">
+        <div class="section-title">
+          <h3>Explora en carrusel</h3>
+          <span>Productos al azar</span>
+        </div>
+        <div class="swiper product-swiper" aria-label="Carrusel de productos">
+          <div class="swiper-wrapper" id="product-swiper-wrapper"></div>
+          <p class="no-results" id="product-swiper-empty" hidden>
+            Sin productos para mostrar.
+          </p>
+          <div class="product-swiper-controls">
+            <button class="swiper-button-prev product-swiper-prev" aria-label="Anterior">
+              Anterior
+            </button>
+            <div class="swiper-pagination product-swiper-pagination" aria-hidden="true"></div>
+            <button class="swiper-button-next product-swiper-next" aria-label="Siguiente">
+              Siguiente
+            </button>
+          </div>
+          <div class="product-swiper-meta" id="product-swiper-count" aria-live="polite"></div>
+        </div>
+      </section>
+    </main>
+    <section class="campaigns reveal">
+      <div class="campaign-card">
+        <div>
+          <h3>Regalos con empaque premium</h3>
+          <p>Agrega tarjeta y envoltura especial sin costo extra.</p>
+          <button class="btn-ghost">Ver campanas</button>
+        </div>
+      </div>
+      <div class="campaign-card alt">
+        <div>
+          <h3>Estudio y productividad</h3>
+          <p>Combos para estudiantes y profesionales.</p>
+          <button class="btn-ghost">Descubrir</button>
+        </div>
+      </div>
+    </section>
+    <section class="offers reveal" id="offers">
+      <div class="section-title">
+        <h2>Ofertas especiales</h2>
+        <span>Promociones limitadas</span>
+      </div>
+      <div class="offers-grid" id="offers-grid"></div>
+      <p class="no-results" id="offers-empty" hidden>Sin ofertas para mostrar.</p>
+    </section>
+    <section class="contact reveal" id="contacto">
+      <div class="section-title">
+        <h2>Contacto</h2>
+        <span>Estamos para ayudarte</span>
+      </div>
+      <div class="contact-grid">
+        <div class="contact-card">
+          <h3>Escribenos</h3>
+          <p>Resolvemos dudas, pedidos y personalizaciones.</p>
+          <form class="contact-form">
+            <label>
+              Nombre completo
+              <input type="text" name="nombre" placeholder="Tu nombre" required />
+            </label>
+            <label>
+              Correo
+              <input type="email" name="correo" placeholder="correo@ejemplo.com" required />
+            </label>
+            <label>
+              Mensaje
+              <textarea rows="4" name="mensaje" placeholder="Cuentanos en que te ayudamos" required></textarea>
+            </label>
+            <button class="btn-primary" type="submit">Enviar mensaje</button>
+          </form>
+        </div>
+        <div class="contact-card">
+          <h3>Datos de la tienda</h3>
+          <div class="contact-info">
+            <p><strong>WhatsApp:</strong> +51 947 872 207</p>
+            <p><strong>Telefono:</strong> (01) 234 5678</p>
+            <p><strong>Correo:</strong> contacto@libreriabelen.pe</p>
+            <p><strong>Horario:</strong> Lun - Sab, 9:00 a 19:00</p>
+          </div>
+          <div class="contact-social">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">TikTok</a>
+          </div>
+          <div class="contact-map" aria-label="Ubicacion de Libreria Belen">
+            <div class="map-placeholder">Mapa de ubicacion</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="social-proof reveal">
+      <h3>Resenas reales</h3>
+      <div class="social-grid">
+        <article>
+          <p>"La agenda llego preciosa, super rapido."</p>
+          <span>- Sofia R.</span>
+        </article>
+        <article>
+          <p>"Me encantaron los cuadernos, muy buena calidad."</p>
+          <span>- Carlos M.</span>
+        </article>
+        <article>
+          <p>"Atencion por WhatsApp impecable, recomendados."</p>
+          <span>- Valentina P.</span>
+        </article>
+      </div>
+    </section>
+    <footer class="site-footer">
+      <div>
+        <h4>Libreria Belen</h4>
+        <p>Especialistas en lectura, estudio y regalos.</p>
+        <p>Horario: Lun - Sab, 9:00 a 19:00</p>
+      </div>
+      <div>
+        <h4>Metodos de pago</h4>
+        <p>Tarjetas, transferencia y efectivo.</p>
+      </div>
+      <div>
+        <h4>Redes</h4>
+        <a href="#">Instagram</a>
+        <a href="#">Facebook</a>
+        <a href="#">TikTok</a>
+      </div>
+    </footer>
+    <div class="promo-toast" id="promo-toast" role="status" aria-live="polite">
+      <div>
+        <strong>Personaliza tu pedido</strong>
+        <p>Escribenos y creamos algo unico para ti.</p>
+      </div>
+      <button type="button" data-toast-close aria-label="Cerrar">
+        ×
+      </button>
+    </div>
+    <div
+      class="promo-modal"
+      id="promo-modal"
+      role="dialog"
+      aria-modal="true"
+      aria-hidden="true"
+      aria-labelledby="promo-title"
+    >
+      <div class="promo-dialog">
+        <button class="promo-close" type="button" aria-label="Cerrar">
+          ×
+        </button>
+        <h3 id="promo-title">15% en tu primera compra</h3>
+        <p>Usa el cupon PRIMERA15 y recibe envio rapido.</p>
+        <div class="promo-actions">
+          <button class="btn-primary">Aplicar cupon</button>
+          <button class="btn-ghost" data-promo-dismiss>No gracias</button>
+        </div>
+      </div>
+    </div>
+    <aside class="cart-panel" id="cart-panel" aria-hidden="true">
+      <div class="cart-panel-content">
+        <div class="cart-panel-header">
+          <h3>Tu carrito</h3>
+          <button class="cart-close" type="button">Cerrar</button>
+        </div>
+        <div class="cart-items" id="cart-items"></div>
+        <div class="cart-footer">
+          <div class="cart-total">
+            Total <span id="cart-total">S/ 0.00</span>
+          </div>
+          <button class="cart-checkout" type="button" data-checkout>
+            Finalizar compra
+          </button>
+        </div>
+        <form class="checkout" id="checkout-form" hidden>
+          <h4>Datos para envio</h4>
+          <label>
+            Nombre completo
+            <input type="text" id="customer-name" required />
+          </label>
+          <label>
+            Direccion
+            <input type="text" id="customer-address" required />
+          </label>
+          <label>
+            Telefono
+            <input type="tel" id="customer-phone" required />
+          </label>
+          <label>
+            Nota adicional
+            <textarea id="customer-note" rows="3"></textarea>
+          </label>
+          <button class="checkout-send" type="button" data-send-whatsapp>
+            Enviar pedido por WhatsApp
+          </button>
+        </form>
+      </div>
+    </aside>
+    <a
+      class="whatsapp-float"
+      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20un%20producto."
+      target="_blank"
+      rel="noopener"
+      aria-label="Contactar por WhatsApp"
+    >
+      WhatsApp
+    </a>
+    <script defer src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script defer src="product-carousel.js"></script>
+    <script defer src="render-offers.js"></script>
+    <script defer src="cart.js"></script>
+    <script defer src="cards.js"></script>
+    <script defer src="ui.js"></script>
+  </body>
+</html>

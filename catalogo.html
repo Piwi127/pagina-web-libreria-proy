@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Libreria Belen - Catalogo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;600;700&display=swap"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero hero-small">
+      <div class="topbar">
+        <div class="brand">Libreria Belen</div>
+        <nav class="menu">
+          <a href="index.html">Inicio</a>
+          <a href="catalogo.html">Catalogo</a>
+          <a href="index.html#offers">Ofertas</a>
+          <a href="index.html#contacto">Contacto</a>
+        </nav>
+        <button class="cart" data-cart-toggle>
+          Carrito (<span data-cart-count>0</span>)
+        </button>
+      </div>
+      <div class="hero-content hero-center">
+        <h1>Catalogo completo</h1>
+        <p>Explora libros, agendas y regalos con filtros rapidos.</p>
+      </div>
+      <div class="hero-search">
+        <div class="search-wrap">
+          <input
+            type="search"
+            placeholder="Buscar por titulo, categoria o descripcion"
+            aria-label="Buscar productos"
+            id="search-input"
+          />
+          <button type="button" id="search-button">Buscar</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="catalog">
+      <div class="section-title">
+        <h2>Todos los productos</h2>
+        <span id="results-count">6 resultados</span>
+      </div>
+      <div class="filters">
+        <div class="chips" role="tablist" aria-label="Categorias">
+          <button class="chip active" data-category="all" type="button">
+            Todo
+          </button>
+          <button class="chip" data-category="cuadernos" type="button">
+            Cuadernos
+          </button>
+          <button class="chip" data-category="libros" type="button">
+            Libros
+          </button>
+          <button class="chip" data-category="guias" type="button">
+            Guias
+          </button>
+          <button class="chip" data-category="agendas" type="button">
+            Agendas
+          </button>
+          <button class="chip" data-category="regalos" type="button">
+            Regalos
+          </button>
+          <button class="chip" data-category="papeleria" type="button">
+            Papeleria
+          </button>
+        </div>
+        <div class="filter-controls">
+          <label>
+            Precio max
+            <input id="price-range" type="range" min="10" max="60" value="60" />
+            <span id="price-value">S/ 60</span>
+          </label>
+          <label>
+            Rating min
+            <select id="rating-filter">
+              <option value="0">Todos</option>
+              <option value="3.5">3.5+</option>
+              <option value="4">4.0+</option>
+              <option value="4.5">4.5+</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <section class="grid" id="product-grid"></section>
+      <p class="no-results" id="no-results" hidden>
+        No se encontraron productos con esa busqueda.
+      </p>
+    </main>
+
+    <aside class="cart-panel" id="cart-panel" aria-hidden="true">
+      <div class="cart-panel-content">
+        <div class="cart-panel-header">
+          <h3>Tu carrito</h3>
+          <button class="cart-close" type="button">Cerrar</button>
+        </div>
+        <div class="cart-items" id="cart-items"></div>
+        <div class="cart-footer">
+          <div class="cart-total">
+            Total <span id="cart-total">S/ 0.00</span>
+          </div>
+          <button class="cart-checkout" type="button" data-checkout>
+            Finalizar compra
+          </button>
+        </div>
+        <form class="checkout" id="checkout-form" hidden>
+          <h4>Datos para envio</h4>
+          <label>
+            Nombre completo
+            <input type="text" id="customer-name" required />
+          </label>
+          <label>
+            Direccion
+            <input type="text" id="customer-address" required />
+          </label>
+          <label>
+            Telefono
+            <input type="tel" id="customer-phone" required />
+          </label>
+          <label>
+            Nota adicional
+            <textarea id="customer-note" rows="3"></textarea>
+          </label>
+          <button class="checkout-send" type="button" data-send-whatsapp>
+            Enviar pedido por WhatsApp
+          </button>
+        </form>
+      </div>
+    </aside>
+    <a
+      class="whatsapp-float"
+      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20un%20producto."
+      target="_blank"
+      rel="noopener"
+      aria-label="Contactar por WhatsApp"
+    >
+      WhatsApp
+    </a>
+
+    <footer class="site-footer">
+      <div>
+        <h4>Libreria Belen</h4>
+        <p>Especialistas en lectura, estudio y regalos.</p>
+        <p>Horario: Lun - Sab, 9:00 a 19:00</p>
+      </div>
+      <div>
+        <h4>Metodos de pago</h4>
+        <p>Tarjetas, transferencia y efectivo.</p>
+      </div>
+      <div>
+        <h4>Redes</h4>
+        <a href="index.html">Instagram</a>
+        <a href="index.html">Facebook</a>
+        <a href="index.html">TikTok</a>
+      </div>
+    </footer>
+
+    <script defer src="products.js"></script>
+    <script defer src="render-products.js"></script>
+    <script defer src="search.js"></script>
+    <script defer src="cart.js"></script>
+    <script defer src="cards.js"></script>
+  </body>
+</html>

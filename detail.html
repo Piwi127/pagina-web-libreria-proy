@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Libreria Belen - Detalle de producto</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;600;700&display=swap"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero hero-small">
+      <div class="topbar">
+        <div class="brand">Libreria Belen</div>
+        <nav class="menu">
+          <a href="index.html">Inicio</a>
+          <a href="catalogo.html">Catalogo</a>
+          <a href="index.html#offers">Ofertas</a>
+          <a href="index.html#contacto">Contacto</a>
+        </nav>
+        <button class="cart" data-cart-toggle>
+          Carrito (<span data-cart-count>0</span>)
+        </button>
+      </div>
+      <div class="hero-content">
+        <h1>Detalle del producto</h1>
+        <p>Conoce cada detalle antes de agregarlo al carrito.</p>
+      </div>
+    </header>
+
+    <main class="detail">
+      <section class="detail-card">
+        <div class="detail-gallery">
+          <img id="detail-image" alt="" loading="lazy" decoding="async" />
+          <div class="detail-thumbs" id="detail-thumbs"></div>
+        </div>
+        <div class="detail-info">
+          <div class="detail-header">
+            <p class="detail-tag" id="detail-tag">Producto destacado</p>
+            <span class="detail-stock" id="detail-stock">En stock</span>
+          </div>
+          <h2 id="detail-title">Producto</h2>
+          <div class="detail-rating" id="detail-rating">Rating 0.0</div>
+          <p id="detail-description">
+            Descripcion completa del producto.
+          </p>
+          <ul id="detail-list" class="detail-list"></ul>
+          <div class="detail-variants">
+            <label>
+              Color
+              <select id="detail-color"></select>
+            </label>
+            <label>
+              Tamano
+              <select id="detail-size"></select>
+            </label>
+          </div>
+          <div class="detail-actions">
+            <span id="detail-price" class="price">S/ 0.00</span>
+            <button data-add-to-cart type="button">Agregar al carrito</button>
+          </div>
+        </div>
+      </section>
+      <section class="detail-reviews">
+        <h3>Resenas de clientes</h3>
+        <div id="detail-reviews"></div>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <div>
+        <h4>Libreria Belen</h4>
+        <p>Especialistas en lectura, estudio y regalos.</p>
+        <p>Horario: Lun - Sab, 9:00 a 19:00</p>
+      </div>
+      <div>
+        <h4>Metodos de pago</h4>
+        <p>Tarjetas, transferencia y efectivo.</p>
+      </div>
+      <div>
+        <h4>Redes</h4>
+        <a href="index.html">Instagram</a>
+        <a href="index.html">Facebook</a>
+        <a href="index.html">TikTok</a>
+      </div>
+    </footer>
+    <aside class="cart-panel" id="cart-panel" aria-hidden="true">
+      <div class="cart-panel-content">
+        <div class="cart-panel-header">
+          <h3>Tu carrito</h3>
+          <button class="cart-close" type="button">Cerrar</button>
+        </div>
+        <div class="cart-items" id="cart-items"></div>
+        <div class="cart-footer">
+          <div class="cart-total">
+            Total <span id="cart-total">S/ 0.00</span>
+          </div>
+          <button class="cart-checkout" type="button" data-checkout>
+            Finalizar compra
+          </button>
+        </div>
+        <form class="checkout" id="checkout-form" hidden>
+          <h4>Datos para envio</h4>
+          <label>
+            Nombre completo
+            <input type="text" id="customer-name" required />
+          </label>
+          <label>
+            Direccion
+            <input type="text" id="customer-address" required />
+          </label>
+          <label>
+            Telefono
+            <input type="tel" id="customer-phone" required />
+          </label>
+          <label>
+            Nota adicional
+            <textarea id="customer-note" rows="3"></textarea>
+          </label>
+          <button class="checkout-send" type="button" data-send-whatsapp>
+            Enviar pedido por WhatsApp
+          </button>
+        </form>
+      </div>
+    </aside>
+    <a
+      class="whatsapp-float"
+      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20un%20producto."
+      target="_blank"
+      rel="noopener"
+      aria-label="Contactar por WhatsApp"
+    >
+      WhatsApp
+    </a>
+
+    <script defer src="products.js"></script>
+    <script>
+      window.addEventListener("DOMContentLoaded", () => {
+      const products = window.PRODUCTS || {};
+      const params = new URLSearchParams(window.location.search);
+      const requestedId = params.get("id");
+      const productKeys = Object.keys(products);
+      const fallbackId = productKeys[0];
+      const productId =
+        requestedId && products[requestedId] ? requestedId : fallbackId;
+      const product = productId ? products[productId] : null;
+
+      if (!product) {
+        const main = document.querySelector("main");
+        if (main) {
+          main.innerHTML = `<p class="no-results">Producto no encontrado. <a href="catalogo.html">Volver al catalogo</a>.</p>`;
+        }
+        console.warn("Producto no encontrado para id", requestedId);
+        return;
+      }
+
+      const image = document.getElementById("detail-image");
+      const title = document.getElementById("detail-title");
+      const description = document.getElementById("detail-description");
+      const price = document.getElementById("detail-price");
+      const list = document.getElementById("detail-list");
+      const thumbs = document.getElementById("detail-thumbs");
+      const rating = document.getElementById("detail-rating");
+      const stock = document.getElementById("detail-stock");
+      const tag = document.getElementById("detail-tag");
+      const colorSelect = document.getElementById("detail-color");
+      const sizeSelect = document.getElementById("detail-size");
+      const reviews = document.getElementById("detail-reviews");
+
+      image.src = product.image;
+      image.alt = product.title;
+      title.textContent = product.title;
+      description.textContent = product.description;
+      price.textContent = product.price;
+      rating.textContent = `Rating ${product.rating}`;
+      stock.textContent = product.stock <= 3 ? "Stock bajo" : "En stock";
+      stock.className = product.stock <= 3 ? "detail-stock low" : "detail-stock";
+      tag.textContent = product.tag === "oferta" ? "Oferta" : "Nuevo";
+      tag.className = product.tag === "oferta" ? "detail-tag sale" : "detail-tag";
+      list.innerHTML = "";
+      if (Array.isArray(product.details)) {
+        product.details.forEach((item) => {
+          const li = document.createElement("li");
+          li.textContent = item;
+          list.appendChild(li);
+        });
+      }
+
+      if (thumbs) {
+        thumbs.innerHTML = "";
+        (product.gallery || [product.image]).forEach((src, index) => {
+          const button = document.createElement("button");
+          button.type = "button";
+          button.className = index === 0 ? "thumb active" : "thumb";
+          button.style.backgroundImage = `url("${src}")`;
+          button.addEventListener("click", () => {
+            image.src = src;
+            thumbs.querySelectorAll(".thumb").forEach((t) =>
+              t.classList.remove("active")
+            );
+            button.classList.add("active");
+          });
+          thumbs.appendChild(button);
+        });
+      }
+
+      const fillSelect = (select, values) => {
+        if (!select) return;
+        select.innerHTML = "";
+        values.forEach((value) => {
+          const option = document.createElement("option");
+          option.value = value;
+          option.textContent = value;
+          select.appendChild(option);
+        });
+      };
+
+      fillSelect(colorSelect, product.colors || []);
+      fillSelect(sizeSelect, product.sizes || []);
+
+      const addButton = document.querySelector("[data-add-to-cart]");
+      const updateVariant = () => {
+        if (!addButton) return;
+        const color = colorSelect ? colorSelect.value : "";
+        const size = sizeSelect ? sizeSelect.value : "";
+        const parts = [];
+        if (color) parts.push(`Color: ${color}`);
+        if (size) parts.push(`Tamano: ${size}`);
+        addButton.dataset.variant = parts.join(" | ");
+      };
+
+      if (colorSelect) {
+        colorSelect.addEventListener("change", updateVariant);
+      }
+      if (sizeSelect) {
+        sizeSelect.addEventListener("change", updateVariant);
+      }
+      updateVariant();
+
+      if (reviews) {
+        reviews.innerHTML = "";
+        if (Array.isArray(product.reviews)) {
+          product.reviews.forEach((review) => {
+            const card = document.createElement("div");
+            card.className = "review-card";
+            card.innerHTML = `<strong>${review.name}</strong><p>${review.text}</p>`;
+            reviews.appendChild(card);
+          });
+        }
+      }
+
+      if (addButton) {
+        addButton.dataset.id = productId || "producto";
+        addButton.dataset.title = product.title;
+        addButton.dataset.price = product.price.replace("S/ ", "");
+      }
+      });
+    </script>
+    <script defer src="cart.js"></script>
+  </body>
+</html>
