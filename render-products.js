@@ -7,37 +7,77 @@
     const tagText = product.tag === "oferta" ? "Oferta" : "Nuevo";
     const stockText = product.stock <= 3 ? "Stock bajo" : "En stock";
     const stockClass = product.stock <= 3 ? "stock low" : "stock";
+    const priceText = String(product.price || "S/ 0.00");
 
     const article = document.createElement("article");
     article.className = "card";
     article.dataset.id = id;
     article.dataset.title = product.title;
-    article.dataset.price = product.price.replace("S/ ", "");
+    article.dataset.price = priceText.replace("S/ ", "");
     article.dataset.category = product.category || "";
     article.dataset.rating = product.rating || "0";
     article.dataset.stock = String(product.stock || 0);
     article.dataset.tag = product.tag || "";
 
-    const linkButton = product.link
-      ? `<a class="btn-ghost" href="${product.link}" target="_blank" rel="noopener">Ver proveedor</a>`
-      : "";
+    const badge = document.createElement("span");
+    badge.className = `badge ${tagClass}`;
+    badge.textContent = tagText;
 
-    article.innerHTML = `
-      <span class="badge ${tagClass}">${tagText}</span>
-      <img src="${product.image}" alt="${product.title}" loading="lazy" decoding="async" />
-      <span class="quick-view">Vista rapida</span>
-      <h3>${product.title}</h3>
-      <p>${product.short || ""}</p>
-      <div class="meta">
-        <span>Rating ${product.rating}</span>
-        <span class="${stockClass}">${stockText}</span>
-      </div>
-      <div class="price-row">
-        <span class="price">${product.price}</span>
-        <button data-add-to-cart>Agregar al carrito</button>
-      </div>
-      ${linkButton}
-    `;
+    const image = document.createElement("img");
+    image.src = product.image;
+    image.alt = product.title;
+    image.loading = "lazy";
+    image.decoding = "async";
+
+    const quickView = document.createElement("span");
+    quickView.className = "quick-view";
+    quickView.textContent = "Vista rapida";
+
+    const title = document.createElement("h3");
+    title.textContent = product.title;
+
+    const description = document.createElement("p");
+    description.textContent = product.short || "";
+
+    const meta = document.createElement("div");
+    meta.className = "meta";
+    const rating = document.createElement("span");
+    rating.textContent = `Rating ${product.rating}`;
+    const stock = document.createElement("span");
+    stock.className = stockClass;
+    stock.textContent = stockText;
+    meta.append(rating, stock);
+
+    const priceRow = document.createElement("div");
+    priceRow.className = "price-row";
+    const price = document.createElement("span");
+    price.className = "price";
+    price.textContent = priceText;
+    const button = document.createElement("button");
+    button.type = "button";
+    button.dataset.addToCart = "";
+    button.textContent = "Agregar al carrito";
+    priceRow.append(price, button);
+
+    article.append(
+      badge,
+      image,
+      quickView,
+      title,
+      description,
+      meta,
+      priceRow
+    );
+
+    if (product.link) {
+      const link = document.createElement("a");
+      link.className = "btn-ghost";
+      link.href = product.link;
+      link.target = "_blank";
+      link.rel = "noopener";
+      link.textContent = "Ver proveedor";
+      article.appendChild(link);
+    }
 
     return article;
   };
@@ -52,9 +92,11 @@
     }
 
     grid.innerHTML = "";
+    const fragment = document.createDocumentFragment();
     entries.forEach(([id, product]) => {
-      grid.appendChild(createCard(id, product));
+      fragment.appendChild(createCard(id, product));
     });
+    grid.appendChild(fragment);
     document.dispatchEvent(new Event("products:rendered"));
     return true;
   };

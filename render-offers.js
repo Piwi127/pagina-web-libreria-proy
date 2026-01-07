@@ -11,20 +11,32 @@
       return;
     }
     if (empty) empty.hidden = true;
+    const fragment = document.createDocumentFragment();
     offers.forEach((offer) => {
       const message = encodeURIComponent(
         `Hola, quiero la oferta: ${offer.title}`
       );
       const article = document.createElement("article");
       article.className = "offer-card";
-      article.innerHTML = `
-        <h3>${offer.title}</h3>
-        <p>${offer.description}</p>
-        <div class="offer-price">${offer.price}</div>
-        <a class="btn-primary" href="https://wa.me/${WHATSAPP_NUMBER}?text=${message}" target="_blank" rel="noopener">Aprovechar</a>
-      `;
-      grid.appendChild(article);
+
+      const title = document.createElement("h3");
+      title.textContent = offer.title;
+      const description = document.createElement("p");
+      description.textContent = offer.description;
+      const price = document.createElement("div");
+      price.className = "offer-price";
+      price.textContent = offer.price;
+      const link = document.createElement("a");
+      link.className = "btn-primary";
+      link.href = `https://wa.me/${WHATSAPP_NUMBER}?text=${message}`;
+      link.target = "_blank";
+      link.rel = "noopener";
+      link.textContent = "Aprovechar";
+
+      article.append(title, description, price, link);
+      fragment.appendChild(article);
     });
+    grid.appendChild(fragment);
   };
 
   const load = async () => {

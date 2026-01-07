@@ -20,13 +20,6 @@
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "");
 
-  const getCardText = (card) => {
-    const title = card.dataset.title || "";
-    const description = card.querySelector("p")?.textContent || "";
-    const category = card.dataset.category || "";
-    return normalize(`${title} ${description} ${category}`);
-  };
-
   const getPrice = (card) => Number(card.dataset.price || 0);
   const getRating = (card) => Number(card.dataset.rating || 0);
 
@@ -42,12 +35,35 @@
     activeCategory = chip.dataset.category || "all";
   };
 
+  let cards = [];
+  let cardCache = new Map();
+
+  const buildCardCache = () => {
+    cards = Array.from(document.querySelectorAll(".card"));
+    cardCache = new Map();
+    cards.forEach((card) => {
+      const title = card.dataset.title || "";
+      const description = card.querySelector("p")?.textContent || "";
+      const category = card.dataset.category || "";
+      cardCache.set(card, {
+        text: normalize(`${title} ${description} ${category}`),
+        price: getPrice(card),
+        rating: getRating(card),
+        category,
+      });
+    });
+  };
+
   const updatePriceLimits = () => {
     if (!priceRange || !priceValue) return;
-    const cards = Array.from(document.querySelectorAll(".card"));
     if (cards.length === 0) return;
     const maxPrice = Math.ceil(
-      Math.max(...cards.map((card) => getPrice(card) || 0))
+      Math.max(
+        ...cards.map((card) => {
+          const data = cardCache.get(card);
+          return data ? data.price : getPrice(card) || 0;
+        })
+      )
     );
     if (!Number.isFinite(maxPrice) || maxPrice <= 0) return;
     if (
@@ -62,7 +78,6 @@
   };
 
   const filterCards = () => {
-    const cards = Array.from(document.querySelectorAll(".card"));
     const query = normalize(input.value.trim());
     const maxPrice = Number(priceRange ? priceRange.value : 9999);
     const minRating = Number(ratingFilter ? ratingFilter.value : 0);
@@ -75,12 +90,24 @@
     }
 
     cards.forEach((card) => {
-      const haystack = getCardText(card);
-      const matchSearch = query === "" || haystack.includes(query);
+      const data =
+        cardCache.get(card) ||
+        (() => {
+          const title = card.dataset.title || "";
+          const description = card.querySelector("p")?.textContent || "";
+          const category = card.dataset.category || "";
+          return {
+            text: normalize(`${title} ${description} ${category}`),
+            price: getPrice(card),
+            rating: getRating(card),
+            category,
+          };
+        })();
+      const matchSearch = query === "" || data.text.includes(query);
       const matchCategory =
-        activeCategory === "all" || card.dataset.category === activeCategory;
-      const matchPrice = getPrice(card) <= maxPrice;
-      const matchRating = getRating(card) >= minRating;
+        activeCategory === "all" || data.category === activeCategory;
+      const matchPrice = data.price <= maxPrice;
+      const matchRating = data.rating >= minRating;
       const match = matchSearch && matchCategory && matchPrice && matchRating;
 
       card.style.display = match ? "" : "none";
@@ -120,10 +147,12 @@
     }
   });
 
+  buildCardCache();
   updatePriceLimits();
   filterCards();
 
   document.addEventListener("products:rendered", () => {
+    buildCardCache();
     updatePriceLimits();
     filterCards();
   });
