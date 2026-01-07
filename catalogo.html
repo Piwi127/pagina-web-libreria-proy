@@ -94,6 +94,16 @@
       <p class="no-results" id="no-results" hidden>
         No se encontraron productos con esa busqueda.
       </p>
+      <div class="pagination" id="pagination" aria-label="Paginacion" hidden>
+        <button class="page-btn" data-page="prev" type="button">
+          Anterior
+        </button>
+        <div class="page-numbers" id="page-numbers" role="list"></div>
+        <button class="page-btn" data-page="next" type="button">
+          Siguiente
+        </button>
+      </div>
+      <p class="page-status" id="page-status" aria-live="polite"></p>
     </main>
 
     <aside class="cart-panel" id="cart-panel" aria-hidden="true">
