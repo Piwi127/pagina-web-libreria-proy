@@ -4,6 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Libreria Belen - Catalogo</title>
+    <meta
+      name="description"
+      content="Explora el catalogo completo de Libreria Belen con filtros de categoria, precio y rating."
+    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -11,6 +15,15 @@
       href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;600;700&display=swap"
     />
     <link rel="stylesheet" href="styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Catalogo Libreria Belen",
+        "description": "Catalogo con libros, agendas, papeleria y regalos.",
+        "url": "https://libreriabelen.pe/catalogo.html"
+      }
+    </script>
   </head>
   <body>
     <header class="hero hero-small">
@@ -143,6 +156,26 @@
             Enviar pedido por WhatsApp
           </button>
         </form>
+        <div class="payment-section" id="payment-section" hidden>
+          <h4>Resumen y pago</h4>
+          <div class="order-summary" id="order-summary"></div>
+          <button class="btn-ghost" type="button" id="download-pdf">
+            Descargar PDF
+          </button>
+          <div class="qr-grid">
+            <div class="qr-card">
+              <span>Yape</span>
+              <div class="qr-placeholder">Sube QR de Yape</div>
+            </div>
+            <div class="qr-card">
+              <span>Plin</span>
+              <div class="qr-placeholder">Sube QR de Plin</div>
+            </div>
+          </div>
+          <p class="payment-note">
+            Luego de pagar, adjunta el comprobante por WhatsApp.
+          </p>
+        </div>
       </div>
     </aside>
     <a

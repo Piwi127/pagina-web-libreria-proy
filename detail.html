@@ -4,6 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Libreria Belen - Detalle de producto</title>
+    <meta
+      name="description"
+      content="Detalle de producto con informacion, variantes y compras por WhatsApp."
+    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -11,6 +15,7 @@
       href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;600;700&display=swap"
     />
     <link rel="stylesheet" href="styles.css" />
+    <script type="application/ld+json" id="product-jsonld"></script>
   </head>
   <body>
     <header class="hero hero-small">
@@ -48,6 +53,8 @@
           <p id="detail-description">
             Descripcion completa del producto.
           </p>
+          <p id="detail-synopsis" class="detail-synopsis" hidden></p>
+          <dl class="detail-specs" id="detail-specs"></dl>
           <ul id="detail-list" class="detail-list"></ul>
           <div class="detail-variants">
             <label>
@@ -62,6 +69,15 @@
           <div class="detail-actions">
             <span id="detail-price" class="price">S/ 0.00</span>
             <button data-add-to-cart type="button">Agregar al carrito</button>
+            <a
+              class="btn-ghost"
+              id="detail-whatsapp"
+              href="#"
+              target="_blank"
+              rel="noopener"
+            >
+              Consultar por WhatsApp
+            </a>
           </div>
         </div>
       </section>
@@ -124,6 +140,26 @@
             Enviar pedido por WhatsApp
           </button>
         </form>
+        <div class="payment-section" id="payment-section" hidden>
+          <h4>Resumen y pago</h4>
+          <div class="order-summary" id="order-summary"></div>
+          <button class="btn-ghost" type="button" id="download-pdf">
+            Descargar PDF
+          </button>
+          <div class="qr-grid">
+            <div class="qr-card">
+              <span>Yape</span>
+              <div class="qr-placeholder">Sube QR de Yape</div>
+            </div>
+            <div class="qr-card">
+              <span>Plin</span>
+              <div class="qr-placeholder">Sube QR de Plin</div>
+            </div>
+          </div>
+          <p class="payment-note">
+            Luego de pagar, adjunta el comprobante por WhatsApp.
+          </p>
+        </div>
       </div>
     </aside>
     <a
@@ -137,6 +173,7 @@
     </a>
 
     <script defer src="products.js"></script>
+    <script defer src="product-specs.js"></script>
     <script>
       window.addEventListener("DOMContentLoaded", () => {
       const products = window.PRODUCTS || {};
@@ -147,6 +184,12 @@
       const productId =
         requestedId && products[requestedId] ? requestedId : fallbackId;
       const product = productId ? products[productId] : null;
+      const specs =
+        (window.PRODUCT_SPECS && window.PRODUCT_SPECS[productId]) || {};
+      const merged = { ...product, ...specs };
+      if (specs.gallery && specs.gallery.length) {
+        merged.gallery = specs.gallery;
+      }
 
       if (!product) {
         const main = document.querySelector("main");
@@ -160,6 +203,7 @@
       const image = document.getElementById("detail-image");
       const title = document.getElementById("detail-title");
       const description = document.getElementById("detail-description");
+      const synopsis = document.getElementById("detail-synopsis");
       const price = document.getElementById("detail-price");
       const list = document.getElementById("detail-list");
       const thumbs = document.getElementById("detail-thumbs");
@@ -170,19 +214,28 @@
       const sizeSelect = document.getElementById("detail-size");
       const reviews = document.getElementById("detail-reviews");
 
-      image.src = product.image;
-      image.alt = product.title;
-      title.textContent = product.title;
-      description.textContent = product.description;
-      price.textContent = product.price;
-      rating.textContent = `Rating ${product.rating}`;
-      stock.textContent = product.stock <= 3 ? "Stock bajo" : "En stock";
-      stock.className = product.stock <= 3 ? "detail-stock low" : "detail-stock";
-      tag.textContent = product.tag === "oferta" ? "Oferta" : "Nuevo";
-      tag.className = product.tag === "oferta" ? "detail-tag sale" : "detail-tag";
+      image.src = merged.image;
+      image.alt = merged.title;
+      title.textContent = merged.title;
+      description.textContent = merged.description;
+      if (synopsis) {
+        synopsis.textContent = merged.synopsis || "";
+        synopsis.hidden = !merged.synopsis;
+      }
+      price.textContent = merged.price;
+      rating.textContent = `Rating ${merged.rating}`;
+      stock.textContent = merged.stock <= 3 ? "Stock bajo" : "En stock";
+      stock.className = merged.stock <= 3 ? "detail-stock low" : "detail-stock";
+      tag.textContent = merged.tag === "oferta" ? "Oferta" : "Nuevo";
+      tag.className = merged.tag === "oferta" ? "detail-tag sale" : "detail-tag";
+      document.title = `${merged.title} - Libreria Belen`;
+      const metaDescription = document.querySelector('meta[name="description"]');
+      if (metaDescription) {
+        metaDescription.content = `${merged.title}. ${merged.description}`;
+      }
       list.innerHTML = "";
-      if (Array.isArray(product.details)) {
-        product.details.forEach((item) => {
+      if (Array.isArray(merged.details)) {
+        merged.details.forEach((item) => {
           const li = document.createElement("li");
           li.textContent = item;
           list.appendChild(li);
@@ -191,7 +244,7 @@
 
       if (thumbs) {
         thumbs.innerHTML = "";
-        (product.gallery || [product.image]).forEach((src, index) => {
+        (merged.gallery || [merged.image]).forEach((src, index) => {
           const button = document.createElement("button");
           button.type = "button";
           button.className = index === 0 ? "thumb active" : "thumb";
@@ -218,18 +271,40 @@
         });
       };
 
-      fillSelect(colorSelect, product.colors || []);
-      fillSelect(sizeSelect, product.sizes || []);
+      fillSelect(colorSelect, merged.colors || []);
+      fillSelect(sizeSelect, merged.sizes || []);
 
       const addButton = document.querySelector("[data-add-to-cart]");
+      const whatsappButton = document.getElementById("detail-whatsapp");
+      const WHATSAPP_NUMBER = "51947872207";
+      const buildWhatsappMessage = () => {
+        const color = colorSelect ? colorSelect.value : "";
+        const size = sizeSelect ? sizeSelect.value : "";
+        const variantParts = [];
+        if (color) variantParts.push(`Color: ${color}`);
+        if (size) variantParts.push(`Tamano: ${size}`);
+        const lines = [
+          `Hola, quiero informacion sobre: ${merged.title}`,
+          `Precio: ${merged.price}`,
+          variantParts.length ? `Variante: ${variantParts.join(" | ")}` : "",
+          `Link: ${window.location.href}`,
+        ].filter(Boolean);
+        return encodeURIComponent(lines.join("\n"));
+      };
+      const updateWhatsappLink = () => {
+        if (!whatsappButton) return;
+        whatsappButton.href = `https://wa.me/${WHATSAPP_NUMBER}?text=${buildWhatsappMessage()}`;
+      };
       const updateVariant = () => {
-        if (!addButton) return;
         const color = colorSelect ? colorSelect.value : "";
         const size = sizeSelect ? sizeSelect.value : "";
         const parts = [];
         if (color) parts.push(`Color: ${color}`);
         if (size) parts.push(`Tamano: ${size}`);
-        addButton.dataset.variant = parts.join(" | ");
+        if (addButton) {
+          addButton.dataset.variant = parts.join(" | ");
+        }
+        updateWhatsappLink();
       };
 
       if (colorSelect) {
@@ -242,8 +317,8 @@
 
       if (reviews) {
         reviews.innerHTML = "";
-        if (Array.isArray(product.reviews)) {
-          product.reviews.forEach((review) => {
+        if (Array.isArray(merged.reviews)) {
+          merged.reviews.forEach((review) => {
             const card = document.createElement("div");
             card.className = "review-card";
             card.innerHTML = `<strong>${review.name}</strong><p>${review.text}</p>`;
@@ -254,8 +329,74 @@
 
       if (addButton) {
         addButton.dataset.id = productId || "producto";
-        addButton.dataset.title = product.title;
-        addButton.dataset.price = product.price.replace("S/ ", "");
+        addButton.dataset.title = merged.title;
+        addButton.dataset.price = merged.price.replace("S/ ", "");
+      }
+
+      const specsContainer = document.getElementById("detail-specs");
+      if (specsContainer) {
+        const specEntries = [
+          ["Sinopsis", merged.synopsis],
+          ["ISBN", merged.isbn],
+          ["Paginas", merged.pages ? String(merged.pages) : ""],
+          ["Tamano", merged.size],
+          ["Editorial", merged.publisher],
+          ["Fecha", merged.publishedAt],
+        ].filter(([, value]) => value);
+        specsContainer.innerHTML = "";
+        specEntries.forEach(([label, value]) => {
+          const dt = document.createElement("dt");
+          dt.textContent = label;
+          const dd = document.createElement("dd");
+          dd.textContent = value;
+          specsContainer.append(dt, dd);
+        });
+      }
+
+      const jsonLd = document.getElementById("product-jsonld");
+      if (jsonLd) {
+        const imageList = [merged.image].concat(merged.gallery || []).filter(Boolean);
+        const priceValue = Number(String(merged.price || "").replace(/[^0-9.]/g, ""));
+        const additionalProperty = [
+          merged.isbn
+            ? { "@type": "PropertyValue", "name": "ISBN", "value": merged.isbn }
+            : null,
+          merged.pages
+            ? { "@type": "PropertyValue", "name": "Paginas", "value": merged.pages }
+            : null,
+          merged.size
+            ? { "@type": "PropertyValue", "name": "Tamano", "value": merged.size }
+            : null,
+          merged.publisher
+            ? { "@type": "PropertyValue", "name": "Editorial", "value": merged.publisher }
+            : null,
+          merged.publishedAt
+            ? { "@type": "PropertyValue", "name": "Fecha", "value": merged.publishedAt }
+            : null,
+        ].filter(Boolean);
+        const productJson = {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": merged.title,
+          "description": merged.description,
+          "image": imageList,
+          "sku": merged.isbn || productId,
+          "brand": {
+            "@type": "Brand",
+            "name": merged.publisher || "Libreria Belen"
+          },
+          "offers": {
+            "@type": "Offer",
+            "priceCurrency": "PEN",
+            "price": Number.isFinite(priceValue) ? priceValue.toFixed(2) : "0.00",
+            "availability": merged.stock > 0
+              ? "https://schema.org/InStock"
+              : "https://schema.org/OutOfStock",
+            "url": window.location.href
+          },
+          "additionalProperty": additionalProperty
+        };
+        jsonLd.textContent = JSON.stringify(productJson);
       }
       });
     </script>

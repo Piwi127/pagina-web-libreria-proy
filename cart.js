@@ -12,6 +12,9 @@
   const closeButton = panel.querySelector(".cart-close");
   const checkoutButton = panel.querySelector(".cart-checkout");
   const checkoutForm = document.getElementById("checkout-form");
+  const paymentSection = document.getElementById("payment-section");
+  const orderSummary = document.getElementById("order-summary");
+  const downloadPdfButton = document.getElementById("download-pdf");
   const sendWhatsappButton = panel.querySelector("[data-send-whatsapp]");
   const customerName = document.getElementById("customer-name");
   const customerAddress = document.getElementById("customer-address");
@@ -100,6 +103,7 @@
   const updateCartUI = (items) => {
     updateCount(items);
     renderCart(items);
+    renderSummary(items);
   };
 
   const addToCart = (item) => {
@@ -201,6 +205,10 @@
   if (checkoutButton && checkoutForm) {
     checkoutButton.addEventListener("click", () => {
       checkoutForm.hidden = !checkoutForm.hidden;
+      if (paymentSection) {
+        paymentSection.hidden = checkoutForm.hidden;
+      }
+      renderSummary(loadCart());
     });
   }
 
@@ -242,6 +250,131 @@
       window.open(url, "_blank", "noopener");
     });
   }
+
+  function renderSummary(items) {
+    if (!orderSummary) return;
+    orderSummary.innerHTML = "";
+    if (!items || items.length === 0) {
+      const empty = document.createElement("p");
+      empty.textContent = "No hay productos en el pedido.";
+      orderSummary.appendChild(empty);
+      if (downloadPdfButton) downloadPdfButton.disabled = true;
+      return;
+    }
+
+    items.forEach((item) => {
+      const row = document.createElement("div");
+      row.className = "order-item";
+      const variantText = item.variant ? ` (${item.variant})` : "";
+      row.innerHTML = `
+        <strong>${item.title}${variantText}</strong>
+        <span>${item.qty} x ${formatMoney(item.price)}</span>
+      `;
+      orderSummary.appendChild(row);
+    });
+
+    const total = items.reduce((sum, item) => sum + item.price * item.qty, 0);
+    const totalLine = document.createElement("p");
+    totalLine.textContent = `Total: ${formatMoney(total)}`;
+    orderSummary.appendChild(totalLine);
+
+    const customerLines = [];
+    if (customerName?.value) customerLines.push(`Nombre: ${customerName.value}`);
+    if (customerPhone?.value) customerLines.push(`Telefono: ${customerPhone.value}`);
+    if (customerAddress?.value)
+      customerLines.push(`Direccion: ${customerAddress.value}`);
+    if (customerNote?.value) customerLines.push(`Nota: ${customerNote.value}`);
+    customerLines.forEach((line) => {
+      const info = document.createElement("p");
+      info.textContent = line;
+      orderSummary.appendChild(info);
+    });
+
+    if (downloadPdfButton) downloadPdfButton.disabled = false;
+  }
+
+  const buildPrintableHtml = (items) => {
+    const total = items.reduce((sum, item) => sum + item.price * item.qty, 0);
+    const rows = items
+      .map((item) => {
+        const variantText = item.variant ? ` (${item.variant})` : "";
+        return `<tr>
+          <td>${item.title}${variantText}</td>
+          <td>${item.qty}</td>
+          <td>${formatMoney(item.price)}</td>
+          <td>${formatMoney(item.price * item.qty)}</td>
+        </tr>`;
+      })
+      .join("");
+    const customerInfo = [
+      customerName?.value ? `Nombre: ${customerName.value}` : "",
+      customerPhone?.value ? `Telefono: ${customerPhone.value}` : "",
+      customerAddress?.value ? `Direccion: ${customerAddress.value}` : "",
+      customerNote?.value ? `Nota: ${customerNote.value}` : "",
+    ]
+      .filter(Boolean)
+      .map((line) => `<p>${line}</p>`)
+      .join("");
+
+    return `
+      <html>
+        <head>
+          <meta charset="utf-8" />
+          <title>Pedido - Libreria Belen</title>
+          <style>
+            body { font-family: Arial, sans-serif; padding: 24px; color: #2f2621; }
+            h1 { font-size: 20px; margin-bottom: 6px; }
+            table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+            th, td { border-bottom: 1px solid #e0d1be; padding: 8px; text-align: left; }
+            th { background: #f5efe6; }
+            .total { font-weight: 700; margin-top: 12px; }
+            .qr-row { display: flex; gap: 16px; margin-top: 16px; }
+            .qr-box { border: 2px dashed #d1b79f; padding: 24px; width: 45%; text-align: center; }
+          </style>
+        </head>
+        <body>
+          <h1>Pedido - Libreria Belen</h1>
+          ${customerInfo}
+          <table>
+            <thead>
+              <tr>
+                <th>Producto</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+                <th>Subtotal</th>
+              </tr>
+            </thead>
+            <tbody>${rows}</tbody>
+          </table>
+          <p class="total">Total: ${formatMoney(total)}</p>
+          <div class="qr-row">
+            <div class="qr-box">QR Yape</div>
+            <div class="qr-box">QR Plin</div>
+          </div>
+        </body>
+      </html>
+    `;
+  };
+
+  if (downloadPdfButton) {
+    downloadPdfButton.addEventListener("click", () => {
+      const items = loadCart();
+      if (items.length === 0) return;
+      const printWindow = window.open("", "_blank");
+      if (!printWindow) return;
+      printWindow.document.write(buildPrintableHtml(items));
+      printWindow.document.close();
+      printWindow.focus();
+      printWindow.print();
+    });
+  }
+
+  [customerName, customerAddress, customerPhone, customerNote].forEach(
+    (field) => {
+      if (!field) return;
+      field.addEventListener("input", () => renderSummary(loadCart()));
+    }
+  );
 
   if (whatsappLink) {
     whatsappLink.href = `https://wa.me/${WHATSAPP_NUMBER}?text=Hola%2C%20quiero%20informacion%20sobre%20un%20producto.`;

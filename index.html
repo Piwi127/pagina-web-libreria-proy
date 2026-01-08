@@ -4,6 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Libreria Belen - Catalogo de Productos</title>
+    <meta
+      name="description"
+      content="Libreria Belen: libros, agendas y papeleria con envios a todo el Peru. Compra en linea y consulta por WhatsApp."
+    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
@@ -16,6 +20,28 @@
       href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
     />
     <link rel="stylesheet" href="styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "name": "Libreria Belen",
+            "url": "https://libreriabelen.pe",
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "telephone": "+51 947 872 207",
+              "contactType": "customer service"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "name": "Libreria Belen",
+            "url": "https://libreriabelen.pe"
+          }
+        ]
+      }
+    </script>
   </head>
   <body>
     <header class="hero">
@@ -318,6 +344,26 @@
             Enviar pedido por WhatsApp
           </button>
         </form>
+        <div class="payment-section" id="payment-section" hidden>
+          <h4>Resumen y pago</h4>
+          <div class="order-summary" id="order-summary"></div>
+          <button class="btn-ghost" type="button" id="download-pdf">
+            Descargar PDF
+          </button>
+          <div class="qr-grid">
+            <div class="qr-card">
+              <span>Yape</span>
+              <div class="qr-placeholder">Sube QR de Yape</div>
+            </div>
+            <div class="qr-card">
+              <span>Plin</span>
+              <div class="qr-placeholder">Sube QR de Plin</div>
+            </div>
+          </div>
+          <p class="payment-note">
+            Luego de pagar, adjunta el comprobante por WhatsApp.
+          </p>
+        </div>
       </div>
     </aside>
     <a
