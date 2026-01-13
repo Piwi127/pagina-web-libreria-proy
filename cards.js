@@ -8,6 +8,10 @@
       return;
     }
 
+    if (target.closest("a, button, input, select, textarea, [role='button']")) {
+      return;
+    }
+
     const card = target.closest(".card");
     if (!card) return;
     const id = card.dataset.id;

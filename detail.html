@@ -184,13 +184,6 @@
       const productId =
         requestedId && products[requestedId] ? requestedId : fallbackId;
       const product = productId ? products[productId] : null;
-      const specs =
-        (window.PRODUCT_SPECS && window.PRODUCT_SPECS[productId]) || {};
-      const merged = { ...product, ...specs };
-      if (specs.gallery && specs.gallery.length) {
-        merged.gallery = specs.gallery;
-      }
-
       if (!product) {
         const main = document.querySelector("main");
         if (main) {
@@ -198,6 +191,12 @@
         }
         console.warn("Producto no encontrado para id", requestedId);
         return;
+      }
+      const specs =
+        (window.PRODUCT_SPECS && window.PRODUCT_SPECS[productId]) || {};
+      const merged = { ...product, ...specs };
+      if (specs.gallery && specs.gallery.length) {
+        merged.gallery = specs.gallery;
       }
 
       const image = document.getElementById("detail-image");

@@ -69,16 +69,6 @@
       priceRow
     );
 
-    if (product.link) {
-      const link = document.createElement("a");
-      link.className = "btn-ghost";
-      link.href = product.link;
-      link.target = "_blank";
-      link.rel = "noopener";
-      link.textContent = "Ver proveedor";
-      article.appendChild(link);
-    }
-
     return article;
   };
 

@@ -42,7 +42,11 @@
   };
 
   const saveCart = (items) => {
-    localStorage.setItem(CART_KEY, JSON.stringify(items));
+    try {
+      localStorage.setItem(CART_KEY, JSON.stringify(items));
+    } catch (error) {
+      console.warn("No se pudo guardar el carrito", error);
+    }
   };
 
   const getCount = (items) =>

@@ -128,7 +128,11 @@
     const timer = setTimeout(() => {
       if (shown) return;
       shown = true;
-      localStorage.setItem(modalKey, String(Date.now()));
+      try {
+        localStorage.setItem(modalKey, String(Date.now()));
+      } catch (error) {
+        console.warn("No se pudo guardar estado del modal", error);
+      }
       openModal();
     }, 9000);
 
@@ -139,7 +143,11 @@
         100;
       if (scrollPct > 40) {
         shown = true;
-        localStorage.setItem(modalKey, String(Date.now()));
+        try {
+          localStorage.setItem(modalKey, String(Date.now()));
+        } catch (error) {
+          console.warn("No se pudo guardar estado del modal", error);
+        }
         openModal();
         window.removeEventListener("scroll", onScroll);
         clearTimeout(timer);
