@@ -28,7 +28,9 @@
   <body>
     <header class="hero hero-small">
       <div class="topbar">
-        <div class="brand">Libreria Belen</div>
+        <div class="brand">
+          <img src="Imagenes/logo.png" alt="Libreria Belen" />
+        </div>
         <nav class="menu">
           <a href="index.html">Inicio</a>
           <a href="catalogo.html">Catalogo</a>
@@ -58,65 +60,27 @@
 
     <main class="catalog">
       <div class="section-title">
-        <h2>Todos los productos</h2>
-        <span id="results-count">6 resultados</span>
+        <h2>Catalogo en actualizacion</h2>
+        <span>Estamos ajustando precios</span>
       </div>
-      <div class="filters">
-        <div class="chips" role="tablist" aria-label="Categorias">
-          <button class="chip active" data-category="all" type="button">
-            Todo
-          </button>
-          <button class="chip" data-category="cuadernos" type="button">
-            Cuadernos
-          </button>
-          <button class="chip" data-category="libros" type="button">
-            Libros
-          </button>
-          <button class="chip" data-category="guias" type="button">
-            Guias
-          </button>
-          <button class="chip" data-category="agendas" type="button">
-            Agendas
-          </button>
-          <button class="chip" data-category="regalos" type="button">
-            Regalos
-          </button>
-          <button class="chip" data-category="papeleria" type="button">
-            Papeleria
-          </button>
+      <section class="catalog-notice" aria-live="polite">
+        <img src="Imagenes/ANUNCIO1.png" alt="Anuncio importante de Libreria Belen" />
+        <div class="catalog-notice-content">
+          <h3>Muy pronto volvemos con precios finales</h3>
+          <p>
+            Estamos actualizando nuestro catalogo para reflejar los precios
+            finales y nuevas promociones. Gracias por tu paciencia.
+          </p>
+          <a
+            class="btn-primary"
+            href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20el%20catalogo%20y%20precios%20actualizados."
+            target="_blank"
+            rel="noopener"
+          >
+            Consultar por WhatsApp
+          </a>
         </div>
-        <div class="filter-controls">
-          <label>
-            Precio max
-            <input id="price-range" type="range" min="10" max="60" value="60" />
-            <span id="price-value">S/ 60</span>
-          </label>
-          <label>
-            Rating min
-            <select id="rating-filter">
-              <option value="0">Todos</option>
-              <option value="3.5">3.5+</option>
-              <option value="4">4.0+</option>
-              <option value="4.5">4.5+</option>
-            </select>
-          </label>
-        </div>
-      </div>
-
-      <section class="grid" id="product-grid"></section>
-      <p class="no-results" id="no-results" hidden>
-        No se encontraron productos con esa busqueda.
-      </p>
-      <div class="pagination" id="pagination" aria-label="Paginacion" hidden>
-        <button class="page-btn" data-page="prev" type="button">
-          Anterior
-        </button>
-        <div class="page-numbers" id="page-numbers" role="list"></div>
-        <button class="page-btn" data-page="next" type="button">
-          Siguiente
-        </button>
-      </div>
-      <p class="page-status" id="page-status" aria-live="polite"></p>
+      </section>
     </main>
 
     <aside class="cart-panel" id="cart-panel" aria-hidden="true">
@@ -206,10 +170,6 @@
       </div>
     </footer>
 
-    <script defer src="products.js"></script>
-    <script defer src="render-products.js"></script>
-    <script defer src="search.js"></script>
     <script defer src="cart.js"></script>
-    <script defer src="cards.js"></script>
   </body>
 </html>

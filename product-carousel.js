@@ -59,7 +59,7 @@
     priceRow.className = "price-row";
     const price = document.createElement("span");
     price.className = "price";
-    price.textContent = priceText;
+    price.textContent = "Muy pronto";
     const button = document.createElement("button");
     button.type = "button";
     button.dataset.addToCart = "";
