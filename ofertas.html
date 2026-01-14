@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Libreria Belen - Catalogo</title>
+    <title>Libreria Belen - Ofertas</title>
     <meta
       name="description"
-      content="Explora el catalogo completo de Libreria Belen con filtros de categoria, precio y rating."
+      content="Ofertas y promociones especiales de Libreria Belen."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -15,15 +15,6 @@
       href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;600;700&display=swap"
     />
     <link rel="stylesheet" href="styles.css" />
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "CollectionPage",
-        "name": "Catalogo Libreria Belen",
-        "description": "Catalogo con libros, agendas, papeleria y regalos.",
-        "url": "https://libreriabelen.pe/catalogo.html"
-      }
-    </script>
   </head>
   <body>
     <header class="hero hero-small">
@@ -42,46 +33,39 @@
         </button>
       </div>
       <div class="hero-content hero-center">
-        <h1>Catalogo completo</h1>
-        <p>Explora libros, agendas y regalos con filtros rapidos.</p>
-      </div>
-      <div class="hero-search">
-        <div class="search-wrap">
-          <input
-            type="search"
-            placeholder="Buscar por titulo, categoria o descripcion"
-            aria-label="Buscar productos"
-            id="search-input"
-          />
-          <button type="button" id="search-button">Buscar</button>
-        </div>
+        <h1>Ofertas especiales</h1>
+        <p>Promociones activas por tiempo limitado.</p>
       </div>
     </header>
 
-    <main class="catalog">
+    <main class="offers reveal">
       <div class="section-title">
-        <h2>Catalogo en actualizacion</h2>
-        <span>Estamos ajustando precios</span>
+        <h2>Promociones disponibles</h2>
+        <span>Actualizadas cada semana</span>
       </div>
-      <section class="catalog-notice" aria-live="polite">
-        <img src="Imagenes/ANUNCIO1.png" alt="Anuncio importante de Libreria Belen" />
-        <div class="catalog-notice-content">
-          <h3>Muy pronto volvemos con precios finales</h3>
-          <p>
-            Estamos actualizando nuestro catalogo para reflejar los precios
-            finales y nuevas promociones. Gracias por tu paciencia.
-          </p>
-          <a
-            class="btn-primary"
-            href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20el%20catalogo%20y%20precios%20actualizados."
-            target="_blank"
-            rel="noopener"
-          >
-            Consultar por WhatsApp
-          </a>
-        </div>
-      </section>
+      <div class="offers-grid" id="offers-grid"></div>
+      <p class="no-results" id="offers-empty" hidden>
+        Sin ofertas para mostrar.
+      </p>
     </main>
+
+    <footer class="site-footer">
+      <div>
+        <h4>Libreria Belen</h4>
+        <p>Especialistas en lectura, estudio y regalos.</p>
+        <p>Horario: Lun - Sab, 9:00 a 19:00</p>
+      </div>
+      <div>
+        <h4>Metodos de pago</h4>
+        <p>Tarjetas, transferencia y efectivo.</p>
+      </div>
+      <div>
+        <h4>Redes</h4>
+        <a href="index.html">Instagram</a>
+        <a href="index.html">Facebook</a>
+        <a href="index.html">TikTok</a>
+      </div>
+    </footer>
 
     <aside class="cart-panel" id="cart-panel" aria-hidden="true">
       <div class="cart-panel-content">
@@ -144,7 +128,7 @@
     </aside>
     <a
       class="whatsapp-float"
-      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20un%20producto."
+      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20ofertas."
       target="_blank"
       rel="noopener"
       aria-label="Contactar por WhatsApp"
@@ -152,24 +136,7 @@
       WhatsApp
     </a>
 
-    <footer class="site-footer">
-      <div>
-        <h4>Libreria Belen</h4>
-        <p>Especialistas en lectura, estudio y regalos.</p>
-        <p>Horario: Lun - Sab, 9:00 a 19:00</p>
-      </div>
-      <div>
-        <h4>Metodos de pago</h4>
-        <p>Tarjetas, transferencia y efectivo.</p>
-      </div>
-      <div>
-        <h4>Redes</h4>
-        <a href="index.html">Instagram</a>
-        <a href="index.html">Facebook</a>
-        <a href="index.html">TikTok</a>
-      </div>
-    </footer>
-
+    <script defer src="render-offers.js"></script>
     <script defer src="cart.js"></script>
   </body>
 </html>

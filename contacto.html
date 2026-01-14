@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Libreria Belen - Catalogo</title>
+    <title>Libreria Belen - Contacto</title>
     <meta
       name="description"
-      content="Explora el catalogo completo de Libreria Belen con filtros de categoria, precio y rating."
+      content="Contacta con Libreria Belen para dudas, pedidos y personalizaciones."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -15,15 +15,6 @@
       href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;600;700&display=swap"
     />
     <link rel="stylesheet" href="styles.css" />
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "CollectionPage",
-        "name": "Catalogo Libreria Belen",
-        "description": "Catalogo con libros, agendas, papeleria y regalos.",
-        "url": "https://libreriabelen.pe/catalogo.html"
-      }
-    </script>
   </head>
   <body>
     <header class="hero hero-small">
@@ -42,46 +33,73 @@
         </button>
       </div>
       <div class="hero-content hero-center">
-        <h1>Catalogo completo</h1>
-        <p>Explora libros, agendas y regalos con filtros rapidos.</p>
-      </div>
-      <div class="hero-search">
-        <div class="search-wrap">
-          <input
-            type="search"
-            placeholder="Buscar por titulo, categoria o descripcion"
-            aria-label="Buscar productos"
-            id="search-input"
-          />
-          <button type="button" id="search-button">Buscar</button>
-        </div>
+        <h1>Contacto</h1>
+        <p>Escribenos y resolvemos tus dudas en minutos.</p>
       </div>
     </header>
 
-    <main class="catalog">
+    <main class="contact reveal">
       <div class="section-title">
-        <h2>Catalogo en actualizacion</h2>
-        <span>Estamos ajustando precios</span>
+        <h2>Estamos para ayudarte</h2>
+        <span>Respuestas rapidas y personalizadas</span>
       </div>
-      <section class="catalog-notice" aria-live="polite">
-        <img src="Imagenes/ANUNCIO1.png" alt="Anuncio importante de Libreria Belen" />
-        <div class="catalog-notice-content">
-          <h3>Muy pronto volvemos con precios finales</h3>
-          <p>
-            Estamos actualizando nuestro catalogo para reflejar los precios
-            finales y nuevas promociones. Gracias por tu paciencia.
-          </p>
-          <a
-            class="btn-primary"
-            href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20el%20catalogo%20y%20precios%20actualizados."
-            target="_blank"
-            rel="noopener"
-          >
-            Consultar por WhatsApp
-          </a>
+      <div class="contact-grid">
+        <div class="contact-card">
+          <h3>Escribenos</h3>
+          <p>Resolvemos dudas, pedidos y personalizaciones.</p>
+          <form class="contact-form">
+            <label>
+              Nombre completo
+              <input type="text" name="nombre" placeholder="Tu nombre" required />
+            </label>
+            <label>
+              Correo
+              <input type="email" name="correo" placeholder="correo@ejemplo.com" required />
+            </label>
+            <label>
+              Mensaje
+              <textarea rows="4" name="mensaje" placeholder="Cuentanos en que te ayudamos" required></textarea>
+            </label>
+            <button class="btn-primary" type="submit">Enviar mensaje</button>
+          </form>
         </div>
-      </section>
+        <div class="contact-card">
+          <h3>Datos de la tienda</h3>
+          <div class="contact-info">
+            <p><strong>WhatsApp:</strong> +51 947 872 207</p>
+            <p><strong>Telefono:</strong> (01) 234 5678</p>
+            <p><strong>Correo:</strong> contacto@libreriabelen.pe</p>
+            <p><strong>Horario:</strong> Lun - Sab, 9:00 a 19:00</p>
+          </div>
+          <div class="contact-social">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">TikTok</a>
+          </div>
+          <div class="contact-map" aria-label="Ubicacion de Libreria Belen">
+            <div class="map-placeholder">Mapa de ubicacion</div>
+          </div>
+        </div>
+      </div>
     </main>
+
+    <footer class="site-footer">
+      <div>
+        <h4>Libreria Belen</h4>
+        <p>Especialistas en lectura, estudio y regalos.</p>
+        <p>Horario: Lun - Sab, 9:00 a 19:00</p>
+      </div>
+      <div>
+        <h4>Metodos de pago</h4>
+        <p>Tarjetas, transferencia y efectivo.</p>
+      </div>
+      <div>
+        <h4>Redes</h4>
+        <a href="index.html">Instagram</a>
+        <a href="index.html">Facebook</a>
+        <a href="index.html">TikTok</a>
+      </div>
+    </footer>
 
     <aside class="cart-panel" id="cart-panel" aria-hidden="true">
       <div class="cart-panel-content">
@@ -144,7 +162,7 @@
     </aside>
     <a
       class="whatsapp-float"
-      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20un%20producto."
+      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20contacto."
       target="_blank"
       rel="noopener"
       aria-label="Contactar por WhatsApp"
@@ -152,24 +170,7 @@
       WhatsApp
     </a>
 
-    <footer class="site-footer">
-      <div>
-        <h4>Libreria Belen</h4>
-        <p>Especialistas en lectura, estudio y regalos.</p>
-        <p>Horario: Lun - Sab, 9:00 a 19:00</p>
-      </div>
-      <div>
-        <h4>Metodos de pago</h4>
-        <p>Tarjetas, transferencia y efectivo.</p>
-      </div>
-      <div>
-        <h4>Redes</h4>
-        <a href="index.html">Instagram</a>
-        <a href="index.html">Facebook</a>
-        <a href="index.html">TikTok</a>
-      </div>
-    </footer>
-
     <script defer src="cart.js"></script>
+    <script defer src="ui.js"></script>
   </body>
 </html>

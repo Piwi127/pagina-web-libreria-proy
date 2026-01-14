@@ -60,14 +60,7 @@
     const price = document.createElement("span");
     price.className = "price";
     price.textContent = "Muy pronto";
-    const button = document.createElement("button");
-    button.type = "button";
-    button.dataset.addToCart = "";
-    button.dataset.id = id;
-    button.dataset.title = product.title;
-    button.dataset.price = priceText.replace("S/ ", "");
-    button.textContent = "Agregar";
-    priceRow.append(price, button);
+    priceRow.append(price);
 
     card.append(
       badge,

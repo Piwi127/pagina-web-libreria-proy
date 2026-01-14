@@ -26,8 +26,8 @@
         <nav class="menu">
           <a href="index.html">Inicio</a>
           <a href="catalogo.html">Catalogo</a>
-          <a href="index.html#offers">Ofertas</a>
-          <a href="index.html#contacto">Contacto</a>
+          <a href="ofertas.html">Ofertas</a>
+          <a href="contacto.html">Contacto</a>
         </nav>
         <button class="cart" data-cart-toggle>
           Carrito (<span data-cart-count>0</span>)
@@ -223,7 +223,8 @@
         synopsis.textContent = merged.synopsis || "";
         synopsis.hidden = !merged.synopsis;
       }
-      price.textContent = merged.price;
+      const displayPrice = "Muy pronto";
+      price.textContent = displayPrice;
       rating.textContent = `Rating ${merged.rating}`;
       stock.textContent = merged.stock <= 3 ? "Stock bajo" : "En stock";
       stock.className = merged.stock <= 3 ? "detail-stock low" : "detail-stock";
@@ -286,7 +287,7 @@
         if (size) variantParts.push(`Tamano: ${size}`);
         const lines = [
           `Hola, quiero informacion sobre: ${merged.title}`,
-          `Precio: ${merged.price}`,
+          `Precio: ${displayPrice}`,
           variantParts.length ? `Variante: ${variantParts.join(" | ")}` : "",
           `Link: ${window.location.href}`,
         ].filter(Boolean);
@@ -331,7 +332,9 @@
       if (addButton) {
         addButton.dataset.id = productId || "producto";
         addButton.dataset.title = merged.title;
-        addButton.dataset.price = merged.price.replace("S/ ", "");
+        addButton.dataset.price = "0";
+        addButton.disabled = true;
+        addButton.textContent = "Muy pronto";
       }
 
       const specsContainer = document.getElementById("detail-specs");
