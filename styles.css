@@ -341,7 +341,8 @@ img {
   display: flex;
   align-items: center;
   gap: 10px;
-  padding: 12px 4px 4px;
+  padding: 12px 0 4px;
+  width: 100%;
 }
 
 .hero-message {
@@ -379,12 +380,25 @@ img {
 .hero-play {
   margin-left: auto;
   border: 1px solid rgba(15, 118, 110, 0.18);
-  background: linear-gradient(135deg, #ffffff, #edf4f2);
+  background: linear-gradient(135deg, #ffffff, #e9f5f1);
   padding: 8px 14px;
   border-radius: var(--r-pill);
   font-weight: 700;
   cursor: pointer;
   box-shadow: var(--shadow-xs);
+  transition: transform var(--t-fast) var(--ease-out),
+    box-shadow var(--t-fast) var(--ease-out),
+    background var(--t-fast) var(--ease-out);
+}
+
+.hero-controls .swiper-pagination {
+  margin: 0 auto;
+}
+
+.hero-play:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 22px rgba(16, 16, 18, 0.14);
+  background: linear-gradient(135deg, #ffffff, #def1ec);
 }
 
 .hero-play:disabled {
@@ -398,14 +412,25 @@ img {
   width: 34px;
   height: 34px;
   border-radius: var(--r-pill);
-  background: rgba(255, 255, 255, 0.9);
+  background: linear-gradient(135deg, #ffffff, #eef6f3);
   color: var(--ink);
-  border: 1px solid rgba(15, 118, 110, 0.16);
+  border: 1px solid rgba(15, 118, 110, 0.2);
+  box-shadow: 0 10px 18px rgba(16, 16, 18, 0.12);
+  transition: transform var(--t-fast) var(--ease-out),
+    box-shadow var(--t-fast) var(--ease-out),
+    background var(--t-fast) var(--ease-out);
 }
 
 .swiper-button-prev::after,
 .swiper-button-next::after {
   font-size: 14px;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 14px 24px rgba(16, 16, 18, 0.16);
+  background: linear-gradient(135deg, #ffffff, #e6f2ee);
 }
 
 .swiper-pagination-bullet {
