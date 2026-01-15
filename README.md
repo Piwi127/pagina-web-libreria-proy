@@ -14,14 +14,14 @@ Proyecto front-end en HTML, CSS y JavaScript para una libreria con catalogo, car
 - Carrito persistente en `localStorage` con control de cantidades.
 - Checkout basico que envia el pedido por WhatsApp.
 - Carrusel de productos destacados con Swiper.
-- Ofertas cargadas desde `offers.json`.
+- Ofertas cargadas desde `assets/data/offers.json`.
 - Vista rapida y navegacion al detalle desde las tarjetas.
 
 ## Datos
 
-- `products.js`: catalogo completo de productos y metadatos.
-- `featured-products.json`: productos destacados para el home.
-- `offers.json`: ofertas y promociones.
+- `assets/js/products.js`: catalogo completo de productos y metadatos.
+- `assets/data/featured-products.json`: productos destacados para el home.
+- `assets/data/offers.json`: ofertas y promociones.
 
 ## Tecnologias
 
@@ -36,8 +36,8 @@ No requiere build. Abre `index.html` en el navegador.
 ## Estructura
 
 - `index.html`, `catalogo.html`, `detail.html`: vistas principales.
-- `styles.css`: estilos globales.
-- `render-products.js`, `product-carousel.js`, `render-offers.js`: render de cards, carruseles y ofertas.
-- `search.js`: busqueda y filtros.
-- `cart.js`: carrito y checkout por WhatsApp.
-- `cards.js`: navegacion al detalle desde tarjetas.
+- `assets/css/styles.css`: estilos globales.
+- `assets/js/render-products.js`, `assets/js/product-carousel.js`, `assets/js/render-offers.js`: render de cards, carruseles y ofertas.
+- `assets/js/search.js`: busqueda y filtros.
+- `assets/js/cart.js`: carrito y checkout por WhatsApp.
+- `assets/js/cards.js`: navegacion al detalle desde tarjetas.

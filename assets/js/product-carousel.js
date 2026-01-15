@@ -152,7 +152,7 @@
         return;
       }
       const script = document.createElement("script");
-      script.src = "products.js";
+      script.src = "assets/js/products.js";
       script.defer = true;
       script.onload = () => {
         productsScriptLoaded = true;

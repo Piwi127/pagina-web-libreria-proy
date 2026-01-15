@@ -8,7 +8,7 @@
       "publisher": "Faber Castell",
       "publishedAt": "2024-01-15",
       "gallery": [
-        "Imagenes/imagen2.png"
+        "assets/img/imagen2.png"
       ]
     },
     "acuarela-ove-grande-x-8-colores": {
@@ -19,7 +19,7 @@
       "publisher": "Ove",
       "publishedAt": "2023-11-20",
       "gallery": [
-        "Imagenes/imagen2.png"
+        "assets/img/imagen2.png"
       ]
     },
     "acuarelas-artesco-12-colores": {
@@ -30,7 +30,7 @@
       "publisher": "Artesco",
       "publishedAt": "2023-09-05",
       "gallery": [
-        "Imagenes/imagen2.png"
+        "assets/img/imagen2.png"
       ]
     }
   };

@@ -41,7 +41,7 @@
 
   const load = async () => {
     try {
-      const response = await fetch("offers.json", { cache: "no-store" });
+      const response = await fetch("assets/data/offers.json", { cache: "no-store" });
       if (!response.ok) throw new Error("No se pudo cargar ofertas");
       const data = await response.json();
       render(data);
