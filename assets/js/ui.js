@@ -368,20 +368,4 @@
     });
   }
 
-  const fallbackForm = document.querySelector(".contact-form");
-  if (fallbackForm && fallbackForm.id !== "contactForm") {
-    fallbackForm.addEventListener("submit", (event) => {
-      event.preventDefault();
-      const formData = new FormData(fallbackForm);
-      const nombre = (formData.get("nombre") || "").toString().trim();
-      const correo = (formData.get("correo") || "").toString().trim();
-      const mensaje = (formData.get("mensaje") || "").toString().trim();
-      const lines = [];
-      if (nombre) lines.push(`Nombre: ${nombre}`);
-      if (correo) lines.push(`Correo: ${correo}`);
-      if (mensaje) lines.push(`Mensaje: ${mensaje}`);
-      const body = encodeURIComponent(lines.join("\n"));
-      window.location.href = `mailto:contacto@libreriabelen.pe?subject=Consulta%20desde%20la%20web&body=${body}`;
-    });
-  }
 })();
