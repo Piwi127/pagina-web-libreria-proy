@@ -24,10 +24,10 @@
       autoplay: prefersReduced.matches
         ? false
         : {
-            delay: 5200,
-            disableOnInteraction: false,
-            pauseOnMouseEnter: true,
-          },
+          delay: 5200,
+          disableOnInteraction: false,
+          pauseOnMouseEnter: true,
+        },
       pagination: {
         el: ".swiper-pagination",
         clickable: true,
@@ -180,16 +180,23 @@
   const setupReveal = () => {
     const targets = document.querySelectorAll(".reveal");
     if (targets.length === 0) return;
+
     const observer = new IntersectionObserver(
       (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
+        // Sort entries by their DOM position to ensure consistent stagger order
+        const visibleEntries = entries.filter(e => e.isIntersecting)
+          .sort((a, b) => {
+            return (a.target.compareDocumentPosition(b.target) & Node.DOCUMENT_POSITION_FOLLOWING) ? -1 : 1;
+          });
+
+        visibleEntries.forEach((entry, index) => {
+          setTimeout(() => {
             entry.target.classList.add("is-visible");
-            observer.unobserve(entry.target);
-          }
+          }, index * 120); // 120ms stagger delay
+          observer.unobserve(entry.target);
         });
       },
-      { threshold: 0.15 }
+      { threshold: 0.12, rootMargin: "0px 0px -50px 0px" }
     );
     targets.forEach((target) => observer.observe(target));
   };
@@ -230,11 +237,11 @@
   let playBound = false;
 
   if (heroPlay && swiper && swiper.autoplay) {
-  if (prefersReduced.matches) {
-    heroPlay.disabled = true;
-    heroPlay.textContent = "Autoplay desactivado";
-  } else {
-    setPlayState(swiper.autoplay.running);
+    if (prefersReduced.matches) {
+      heroPlay.disabled = true;
+      heroPlay.textContent = "Autoplay desactivado";
+    } else {
+      setPlayState(swiper.autoplay.running);
       if (!playBound) {
         heroPlay.addEventListener("click", toggleAutoplay);
         playBound = true;
