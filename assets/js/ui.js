@@ -322,11 +322,57 @@
     }
   });
 
-  const contactForm = document.querySelector(".contact-form");
-  if (contactForm && contactForm.id !== "contactForm") {
-    contactForm.addEventListener("submit", (event) => {
+  const ENDPOINT =
+    "https://script.google.com/macros/s/AKfycbzRA2BQ2OgHVKehslT4KqlMdSaczfg73nQTQL7lCLH106yxw_QHBx70TL5Tmsr5yEHa0g/exec";
+
+  const contactForm = document.getElementById("contactForm");
+  const contactStatus = document.getElementById("contactStatus");
+
+  if (contactForm && contactStatus) {
+    contactForm.addEventListener("submit", async (event) => {
       event.preventDefault();
-      const formData = new FormData(contactForm);
+      contactStatus.textContent = "Enviando...";
+
+      if (contactForm.empresa.value) {
+        contactStatus.textContent = "¡Listo!";
+        contactForm.reset();
+        return;
+      }
+
+      const payload = {
+        nombre: contactForm.nombre.value.trim(),
+        correo: contactForm.correo.value.trim(),
+        mensaje: contactForm.mensaje.value.trim(),
+        pagina: location.href,
+      };
+
+      try {
+        const res = await fetch(ENDPOINT, {
+          method: "POST",
+          headers: { "Content-Type": "text/plain;charset=utf-8" },
+          body: JSON.stringify(payload),
+        });
+
+        const data = await res.json();
+
+        if (data.ok) {
+          contactStatus.textContent = "¡Mensaje enviado! Gracias 🙂";
+          contactForm.reset();
+        } else {
+          contactStatus.textContent = "Ocurrió un error. Intenta otra vez.";
+        }
+      } catch (error) {
+        contactStatus.textContent =
+          "No se pudo enviar. Revisa tu conexión e intenta de nuevo.";
+      }
+    });
+  }
+
+  const fallbackForm = document.querySelector(".contact-form");
+  if (fallbackForm && fallbackForm.id !== "contactForm") {
+    fallbackForm.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const formData = new FormData(fallbackForm);
       const nombre = (formData.get("nombre") || "").toString().trim();
       const correo = (formData.get("correo") || "").toString().trim();
       const mensaje = (formData.get("mensaje") || "").toString().trim();

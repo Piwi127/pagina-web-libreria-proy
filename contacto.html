@@ -48,21 +48,23 @@
         <div class="contact-card">
           <h3>Escribenos</h3>
           <p>Resolvemos dudas, pedidos y personalizaciones.</p>
-          <form class="contact-form">
+          <form class="contact-form" id="contactForm">
             <label>
               Nombre completo
-              <input type="text" name="nombre" placeholder="Tu nombre" required />
+              <input type="text" name="nombre" placeholder="Nombre completo" required />
             </label>
             <label>
               Correo
-              <input type="email" name="correo" placeholder="correo@ejemplo.com" required />
+              <input type="email" name="correo" placeholder="Correo" required />
             </label>
             <label>
               Mensaje
-              <textarea rows="4" name="mensaje" placeholder="Cuentanos en que te ayudamos" required></textarea>
+              <textarea rows="4" name="mensaje" placeholder="Mensaje" required></textarea>
             </label>
+            <input type="text" name="empresa" style="display:none" tabindex="-1" autocomplete="off" />
             <button class="btn-primary" type="submit">Enviar mensaje</button>
           </form>
+          <p id="contactStatus"></p>
         </div>
         <div class="contact-card">
           <h3>Datos de la tienda</h3>

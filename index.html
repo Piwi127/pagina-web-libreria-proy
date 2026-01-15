@@ -399,52 +399,5 @@
     <script defer src="assets/js/cart.js"></script>
     <script defer src="assets/js/cards.js"></script>
     <script defer src="assets/js/ui.js"></script>
-    <script>
-      const ENDPOINT =
-        "https://script.google.com/macros/s/AKfycbzRA2BQ2OgHVKehslT4KqlMdSaczfg73nQTQL7lCLH106yxw_QHBx70TL5Tmsr5yEHa0g/exec";
-
-      const form = document.getElementById("contactForm");
-      const statusEl = document.getElementById("contactStatus");
-
-      if (form && statusEl) {
-        form.addEventListener("submit", async (e) => {
-          e.preventDefault();
-          statusEl.textContent = "Enviando...";
-
-          if (form.empresa.value) {
-            statusEl.textContent = "¡Listo!";
-            form.reset();
-            return;
-          }
-
-          const payload = {
-            nombre: form.nombre.value.trim(),
-            correo: form.correo.value.trim(),
-            mensaje: form.mensaje.value.trim(),
-            pagina: location.href,
-          };
-
-          try {
-            const res = await fetch(ENDPOINT, {
-              method: "POST",
-              headers: { "Content-Type": "text/plain;charset=utf-8" },
-              body: JSON.stringify(payload),
-            });
-
-            const data = await res.json();
-
-            if (data.ok) {
-              statusEl.textContent = "¡Mensaje enviado! Gracias 🙂";
-              form.reset();
-            } else {
-              statusEl.textContent = "Ocurrió un error. Intenta otra vez.";
-            }
-          } catch (err) {
-            statusEl.textContent =
-              "No se pudo enviar. Revisa tu conexión e intenta de nuevo.";
-          }
-        });
-      }
-    </script>
   </body>
 </html>
