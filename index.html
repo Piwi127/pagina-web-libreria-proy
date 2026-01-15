@@ -209,21 +209,23 @@
         <div class="contact-card">
           <h3>Escribenos</h3>
           <p>Resolvemos dudas, pedidos y personalizaciones.</p>
-          <form class="contact-form">
+          <form class="contact-form" id="contactForm">
             <label>
               Nombre completo
-              <input type="text" name="nombre" placeholder="Tu nombre" required />
+              <input type="text" name="nombre" placeholder="Nombre completo" required />
             </label>
             <label>
               Correo
-              <input type="email" name="correo" placeholder="correo@ejemplo.com" required />
+              <input type="email" name="correo" placeholder="Correo" required />
             </label>
             <label>
               Mensaje
-              <textarea rows="4" name="mensaje" placeholder="Cuentanos en que te ayudamos" required></textarea>
+              <textarea rows="4" name="mensaje" placeholder="Mensaje" required></textarea>
             </label>
+            <input type="text" name="empresa" style="display:none" tabindex="-1" autocomplete="off" />
             <button class="btn-primary" type="submit">Enviar mensaje</button>
           </form>
+          <p id="contactStatus"></p>
         </div>
         <div class="contact-card">
           <h3>Datos de la tienda</h3>
@@ -397,5 +399,52 @@
     <script defer src="assets/js/cart.js"></script>
     <script defer src="assets/js/cards.js"></script>
     <script defer src="assets/js/ui.js"></script>
+    <script>
+      const ENDPOINT =
+        "https://script.google.com/macros/s/AKfycbzoxXcCLT6_T95PURMXV36XXlv_FZXF27XusaP_z7g9N2iITrvP_l4YcD5BiZpzo2FwkA/exec";
+
+      const form = document.getElementById("contactForm");
+      const statusEl = document.getElementById("contactStatus");
+
+      if (form && statusEl) {
+        form.addEventListener("submit", async (e) => {
+          e.preventDefault();
+          statusEl.textContent = "Enviando...";
+
+          if (form.empresa.value) {
+            statusEl.textContent = "¡Listo!";
+            form.reset();
+            return;
+          }
+
+          const payload = {
+            nombre: form.nombre.value.trim(),
+            correo: form.correo.value.trim(),
+            mensaje: form.mensaje.value.trim(),
+            pagina: location.href,
+          };
+
+          try {
+            const res = await fetch(ENDPOINT, {
+              method: "POST",
+              headers: { "Content-Type": "text/plain;charset=utf-8" },
+              body: JSON.stringify(payload),
+            });
+
+            const data = await res.json();
+
+            if (data.ok) {
+              statusEl.textContent = "¡Mensaje enviado! Gracias 🙂";
+              form.reset();
+            } else {
+              statusEl.textContent = "Ocurrió un error. Intenta otra vez.";
+            }
+          } catch (err) {
+            statusEl.textContent =
+              "No se pudo enviar. Revisa tu conexión e intenta de nuevo.";
+          }
+        });
+      }
+    </script>
   </body>
 </html>
