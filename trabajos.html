@@ -14,6 +14,10 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Manrope:wght@400;600;700&display=swap"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -40,40 +44,204 @@
     </header>
 
     <main class="highlight-section reveal">
+      <section class="research-hero" aria-label="Publicidad de maquetas escolares">
+        <div class="swiper research-swiper" aria-label="Carrusel de trabajos">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <img
+                src="Imagenes/se hacen maquetas.png"
+                alt="Publicidad de maquetas escolares"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                src="Imagenes/publicidad de trabajos de investigación.png"
+                alt="Publicidad de trabajos de investigacion"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+          </div>
+          <div class="research-controls">
+            <button class="swiper-button-prev research-prev" aria-label="Anterior"></button>
+            <div class="swiper-pagination research-pagination" aria-hidden="true"></div>
+            <button class="swiper-button-next research-next" aria-label="Siguiente"></button>
+          </div>
+        </div>
+      </section>
       <div class="section-title">
         <h2>Servicios disponibles</h2>
         <span>Organizacion, fuentes y materiales</span>
       </div>
+      <p class="section-intro">
+        Te acompanamos desde la idea inicial hasta la presentacion final. Nuestro
+        equipo revisa cada detalle para que el trabajo cumpla con los criterios de
+        tu institucion, la fecha de entrega y el formato solicitado.
+      </p>
       <div class="research-grid">
         <article class="research-card">
           <h3>Proyectos escolares</h3>
-          <p>Guias, laminas y recursos para presentaciones claras y creativas.</p>
+          <p>
+            Guias, laminas y recursos para presentaciones claras y creativas, con
+            enfoque en aprendizaje practico y materiales faciles de conseguir.
+          </p>
+          <p>
+            Incluye asesoramiento en maquetas, infografias, exposiciones y
+            organizacion de la informacion.
+          </p>
+          <ul>
+            <li>Idea, objetivos, hipotesis y cronograma.</li>
+            <li>Materiales, presupuesto estimado y armado guiado.</li>
+            <li>Diapositivas y fichas de exposicion.</li>
+          </ul>
+          <button
+            class="btn-ghost research-cta"
+            type="button"
+            data-research-open
+            data-form="proyectos"
+            data-title="Proyectos escolares"
+            data-desc="Cuentalos detalles del proyecto y armamos una propuesta completa."
+          >
+            Solicitar propuesta
+          </button>
         </article>
         <article class="research-card">
           <h3>Trabajos de tesis</h3>
-          <p>Asesoria en estructura, fuentes, citas y soporte de materiales.</p>
+          <p>
+            Asesoria en estructura, fuentes, citas y soporte de materiales,
+            cuidando la coherencia metodologica y las normas academicas.
+          </p>
+          <p>
+            Revisamos capitulos, referencias, tablas, anexos y entregas parciales.
+          </p>
+          <ul>
+            <li>Marco teorico, metodologico y estado del arte.</li>
+            <li>Normas APA, Vancouver, IEEE u otras.</li>
+            <li>Correccion de estilo y antiplagio.</li>
+          </ul>
+          <button
+            class="btn-ghost research-cta"
+            type="button"
+            data-research-open
+            data-form="tesis"
+            data-title="Trabajos de tesis"
+            data-desc="Define el avance y el formato que necesitas para tu tesis."
+          >
+            Solicitar propuesta
+          </button>
         </article>
         <article class="research-card">
           <h3>Trabajos academicos</h3>
-          <p>Apoyo en investigacion, bibliografia y organizacion del contenido.</p>
+          <p>
+            Apoyo en investigacion, bibliografia y organizacion del contenido para
+            monografias, ensayos, informes y proyectos universitarios.
+          </p>
+          <p>
+            Optimizamos la redaccion, el estilo y la presentacion final.
+          </p>
+          <ul>
+            <li>Busqueda de fuentes confiables y actualizadas.</li>
+            <li>Esquema, indices y resumen ejecutivo.</li>
+            <li>Revision de citas, cuadros y graficos.</li>
+          </ul>
+          <button
+            class="btn-ghost research-cta"
+            type="button"
+            data-research-open
+            data-form="academicos"
+            data-title="Trabajos academicos"
+            data-desc="Comparte el curso y el tipo de trabajo para ajustarlo a tu necesidad."
+          >
+            Solicitar propuesta
+          </button>
         </article>
       </div>
       <div class="section-title">
         <h2>Como trabajamos</h2>
         <span>Proceso claro y ordenado</span>
       </div>
+      <p class="section-intro">
+        Nuestro proceso es simple: entendemos tu necesidad, proponemos un plan y
+        entregamos un resultado listo para presentar. Cada etapa se adapta a tu
+        tiempo, presupuesto y exigencias academicas.
+      </p>
       <div class="research-grid">
         <article class="research-card">
           <h3>Requisitos</h3>
-          <p>Envianos el tema, nivel, fecha y requerimientos del trabajo.</p>
+          <p>
+            Envianos el tema, nivel, fecha y requerimientos del trabajo. Recibiras
+            una confirmacion con la lista exacta de datos necesarios.
+          </p>
+          <p>
+            Analizamos el alcance y te sugerimos mejoras para el enfoque.
+          </p>
+          <ul>
+            <li>Brief detallado con objetivos y resultados esperados.</li>
+            <li>Documentos base, fuentes y plantillas.</li>
+            <li>Canales de comunicacion y fechas clave.</li>
+          </ul>
+          <button
+            class="btn-ghost research-cta"
+            type="button"
+            data-research-open
+            data-form="requisitos"
+            data-title="Requisitos iniciales"
+            data-desc="Completa la ficha y empezamos a trabajar con la informacion correcta."
+          >
+            Completar requisitos
+          </button>
         </article>
         <article class="research-card">
           <h3>Propuesta</h3>
-          <p>Te compartimos un plan con tiempos, materiales y recomendaciones.</p>
+          <p>
+            Te compartimos un plan con tiempos, materiales y recomendaciones.
+            Definimos entregables, presupuesto y canales de revision.
+          </p>
+          <p>
+            Ajustamos la propuesta con tus comentarios antes de iniciar.
+          </p>
+          <ul>
+            <li>Linea de tiempo y hitos de entrega.</li>
+            <li>Versiones y revisiones incluidas.</li>
+            <li>Recomendaciones de formato y presentacion.</li>
+          </ul>
+          <button
+            class="btn-ghost research-cta"
+            type="button"
+            data-research-open
+            data-form="propuesta"
+            data-title="Propuesta y plan"
+            data-desc="Indicanos tus tiempos y preferencias para afinar la propuesta."
+          >
+            Ver propuesta
+          </button>
         </article>
         <article class="research-card">
           <h3>Entrega</h3>
-          <p>Presentamos avances y cerramos con el formato solicitado.</p>
+          <p>
+            Presentamos avances y cerramos con el formato solicitado. Validamos
+            ortografia, estilo y coherencia final.
+          </p>
+          <p>
+            Coordinamos la entrega digital o fisica segun tu necesidad.
+          </p>
+          <ul>
+            <li>Archivos editables, PDF y anexos.</li>
+            <li>Checklist de requisitos cumplidos.</li>
+            <li>Soporte posterior a la entrega.</li>
+          </ul>
+          <button
+            class="btn-ghost research-cta"
+            type="button"
+            data-research-open
+            data-form="entrega"
+            data-title="Entrega y seguimiento"
+            data-desc="Define formato, fecha y medios para la entrega final."
+          >
+            Planificar entrega
+          </button>
         </article>
       </div>
       <a
@@ -85,6 +253,355 @@
         Consultar por WhatsApp
       </a>
     </main>
+
+    <div
+      class="research-modal"
+      id="research-modal"
+      role="dialog"
+      aria-modal="true"
+      aria-hidden="true"
+      aria-labelledby="research-modal-title"
+    >
+      <div class="research-dialog">
+        <button class="research-close" type="button" aria-label="Cerrar">
+          ×
+        </button>
+        <div class="research-modal-header">
+          <h3 id="research-modal-title" data-modal-title>Formulario</h3>
+          <p data-modal-desc>Completa el formulario para comenzar.</p>
+        </div>
+        <div class="research-form-panels">
+          <section class="research-form-panel" data-form-panel="proyectos">
+            <form class="research-form">
+              <div class="form-row">
+                <label>
+                  Nombre completo
+                  <input type="text" name="nombre" placeholder="Tu nombre" required />
+                </label>
+                <label>
+                  Telefono de contacto
+                  <input type="tel" name="telefono" placeholder="+51 999 999 999" required />
+                </label>
+              </div>
+              <div class="form-row">
+                <label>
+                  Grado o nivel
+                  <select name="nivel" required>
+                    <option value="">Seleccionar</option>
+                    <option value="primaria">Primaria</option>
+                    <option value="secundaria">Secundaria</option>
+                    <option value="pre">Pre-universitario</option>
+                    <option value="otro">Otro</option>
+                  </select>
+                </label>
+                <label>
+                  Area o curso
+                  <input type="text" name="curso" placeholder="Ciencia, Historia, etc." required />
+                </label>
+              </div>
+              <label>
+                Tema del proyecto
+                <input type="text" name="tema" placeholder="Ej. Ecosistemas marinos" required />
+              </label>
+              <label>
+                Objetivo principal
+                <textarea name="objetivo" rows="3" placeholder="Que debe demostrar el proyecto" required></textarea>
+              </label>
+              <div class="form-row">
+                <label>
+                  Fecha de entrega
+                  <input type="date" name="fecha_entrega" required />
+                </label>
+                <label>
+                  Formato preferido
+                  <select name="formato" required>
+                    <option value="">Seleccionar</option>
+                    <option value="maqueta">Maqueta</option>
+                    <option value="exposicion">Exposicion</option>
+                    <option value="informe">Informe escrito</option>
+                    <option value="mixto">Mixto</option>
+                  </select>
+                </label>
+              </div>
+              <label>
+                Materiales disponibles
+                <textarea name="materiales" rows="3" placeholder="Carton, cartulina, impresiones, etc."></textarea>
+              </label>
+              <label>
+                Presupuesto aproximado (S/)
+                <input type="number" name="presupuesto" min="0" step="1" placeholder="Ej. 80" />
+              </label>
+              <label>
+                Comentarios adicionales
+                <textarea name="comentarios" rows="3" placeholder="Detalles, referencias o links"></textarea>
+              </label>
+              <button class="btn-primary" type="submit">Enviar solicitud</button>
+            </form>
+          </section>
+          <section class="research-form-panel" data-form-panel="tesis">
+            <form class="research-form">
+              <div class="form-row">
+                <label>
+                  Nombre completo
+                  <input type="text" name="nombre" required />
+                </label>
+                <label>
+                  Correo institucional
+                  <input type="email" name="correo" placeholder="correo@universidad.edu" required />
+                </label>
+              </div>
+              <div class="form-row">
+                <label>
+                  Universidad
+                  <input type="text" name="universidad" required />
+                </label>
+                <label>
+                  Carrera / Facultad
+                  <input type="text" name="carrera" required />
+                </label>
+              </div>
+              <label>
+                Tema de tesis
+                <input type="text" name="tema" required />
+              </label>
+              <div class="form-row">
+                <label>
+                  Avance actual
+                  <select name="avance" required>
+                    <option value="">Seleccionar</option>
+                    <option value="idea">Idea inicial</option>
+                    <option value="marco">Marco teorico</option>
+                    <option value="metodologia">Metodologia</option>
+                    <option value="analisis">Analisis de datos</option>
+                    <option value="final">Version final</option>
+                  </select>
+                </label>
+                <label>
+                  Norma solicitada
+                  <select name="norma" required>
+                    <option value="">Seleccionar</option>
+                    <option value="apa">APA</option>
+                    <option value="vancouver">Vancouver</option>
+                    <option value="ieee">IEEE</option>
+                    <option value="otra">Otra</option>
+                  </select>
+                </label>
+              </div>
+              <label>
+                Capitulo o seccion a trabajar
+                <input type="text" name="capitulo" placeholder="Ej. Capitulo II" required />
+              </label>
+              <label>
+                Fecha limite
+                <input type="date" name="fecha_entrega" required />
+              </label>
+              <label>
+                Necesidades especificas
+                <textarea name="necesidades" rows="4" placeholder="Requiere correccion, tablas, anexos, etc." required></textarea>
+              </label>
+              <label>
+                Documentos disponibles
+                <textarea name="documentos" rows="3" placeholder="Links a documentos o avances"></textarea>
+              </label>
+              <button class="btn-primary" type="submit">Enviar solicitud</button>
+            </form>
+          </section>
+          <section class="research-form-panel" data-form-panel="academicos">
+            <form class="research-form">
+              <div class="form-row">
+                <label>
+                  Nombre completo
+                  <input type="text" name="nombre" required />
+                </label>
+                <label>
+                  Telefono
+                  <input type="tel" name="telefono" required />
+                </label>
+              </div>
+              <div class="form-row">
+                <label>
+                  Curso o asignatura
+                  <input type="text" name="curso" required />
+                </label>
+                <label>
+                  Tipo de trabajo
+                  <select name="tipo" required>
+                    <option value="">Seleccionar</option>
+                    <option value="ensayo">Ensayo</option>
+                    <option value="monografia">Monografia</option>
+                    <option value="informe">Informe</option>
+                    <option value="proyecto">Proyecto</option>
+                  </select>
+                </label>
+              </div>
+              <label>
+                Tema y enfoque
+                <input type="text" name="tema" required />
+              </label>
+              <div class="form-row">
+                <label>
+                  Extension (paginas)
+                  <input type="number" name="paginas" min="1" step="1" required />
+                </label>
+                <label>
+                  Fecha de entrega
+                  <input type="date" name="fecha_entrega" required />
+                </label>
+              </div>
+              <label>
+                Bibliografia solicitada
+                <textarea name="bibliografia" rows="3" placeholder="Autores, links o fuentes clave"></textarea>
+              </label>
+              <label>
+                Requisitos de formato
+                <textarea name="formato" rows="3" placeholder="Norma, tipo de letra, interlineado, etc." required></textarea>
+              </label>
+              <label>
+                Observaciones adicionales
+                <textarea name="comentarios" rows="3" placeholder="Cualquier detalle extra"></textarea>
+              </label>
+              <button class="btn-primary" type="submit">Enviar solicitud</button>
+            </form>
+          </section>
+          <section class="research-form-panel" data-form-panel="requisitos">
+            <form class="research-form">
+              <div class="form-row">
+                <label>
+                  Nombre del solicitante
+                  <input type="text" name="nombre" required />
+                </label>
+                <label>
+                  Medio de contacto
+                  <select name="contacto" required>
+                    <option value="">Seleccionar</option>
+                    <option value="whatsapp">WhatsApp</option>
+                    <option value="correo">Correo</option>
+                    <option value="telefono">Llamada</option>
+                  </select>
+                </label>
+              </div>
+              <label>
+                Tipo de trabajo requerido
+                <select name="tipo_trabajo" required>
+                  <option value="">Seleccionar</option>
+                  <option value="proyecto">Proyecto escolar</option>
+                  <option value="tesis">Tesis</option>
+                  <option value="academico">Trabajo academico</option>
+                  <option value="otro">Otro</option>
+                </select>
+              </label>
+              <label>
+                Tema principal
+                <input type="text" name="tema" required />
+              </label>
+              <div class="form-row">
+                <label>
+                  Fecha limite
+                  <input type="date" name="fecha_limite" required />
+                </label>
+                <label>
+                  Presupuesto estimado (S/)
+                  <input type="number" name="presupuesto" min="0" step="1" required />
+                </label>
+              </div>
+              <label>
+                Entregables esperados
+                <textarea name="entregables" rows="3" placeholder="Formato, anexos, presentacion, etc." required></textarea>
+              </label>
+              <label>
+                Archivos o referencias
+                <textarea name="referencias" rows="3" placeholder="Links o documentos base"></textarea>
+              </label>
+              <button class="btn-primary" type="submit">Guardar requisitos</button>
+            </form>
+          </section>
+          <section class="research-form-panel" data-form-panel="propuesta">
+            <form class="research-form">
+              <label>
+                Nombre completo
+                <input type="text" name="nombre" required />
+              </label>
+              <div class="form-row">
+                <label>
+                  Fecha ideal de entrega
+                  <input type="date" name="fecha_entrega" required />
+                </label>
+                <label>
+                  Frecuencia de avances
+                  <select name="frecuencia" required>
+                    <option value="">Seleccionar</option>
+                    <option value="diario">Diario</option>
+                    <option value="semanal">Semanal</option>
+                    <option value="quincenal">Quincenal</option>
+                  </select>
+                </label>
+              </div>
+              <label>
+                Prioridad principal
+                <select name="prioridad" required>
+                  <option value="">Seleccionar</option>
+                  <option value="tiempo">Tiempo de entrega</option>
+                  <option value="detalle">Nivel de detalle</option>
+                  <option value="presupuesto">Presupuesto</option>
+                </select>
+              </label>
+              <label>
+                Canales para revision
+                <input type="text" name="canales" placeholder="WhatsApp, correo, llamada" required />
+              </label>
+              <label>
+                Observaciones para la propuesta
+                <textarea name="observaciones" rows="4" placeholder="Requerimientos especiales o criterios de evaluacion" required></textarea>
+              </label>
+              <button class="btn-primary" type="submit">Enviar preferencias</button>
+            </form>
+          </section>
+          <section class="research-form-panel" data-form-panel="entrega">
+            <form class="research-form">
+              <div class="form-row">
+                <label>
+                  Nombre completo
+                  <input type="text" name="nombre" required />
+                </label>
+                <label>
+                  Correo para envio
+                  <input type="email" name="correo" required />
+                </label>
+              </div>
+              <div class="form-row">
+                <label>
+                  Formato de entrega
+                  <select name="formato" required>
+                    <option value="">Seleccionar</option>
+                    <option value="pdf">PDF</option>
+                    <option value="word">Word editable</option>
+                    <option value="impreso">Impreso</option>
+                    <option value="combo">Combo completo</option>
+                  </select>
+                </label>
+                <label>
+                  Fecha de entrega
+                  <input type="date" name="fecha_entrega" required />
+                </label>
+              </div>
+              <label>
+                Lugar o direccion de entrega
+                <input type="text" name="direccion" placeholder="Direccion o punto de encuentro" />
+              </label>
+              <label>
+                Checklist final
+                <textarea name="checklist" rows="4" placeholder="Elementos que deseas validar antes de cerrar" required></textarea>
+              </label>
+              <label>
+                Comentarios finales
+                <textarea name="comentarios" rows="3" placeholder="Instrucciones o detalles extra"></textarea>
+              </label>
+              <button class="btn-primary" type="submit">Confirmar entrega</button>
+            </form>
+          </section>
+        </div>
+      </div>
+    </div>
 
     <footer class="site-footer">
       <div>
@@ -173,6 +690,79 @@
       WhatsApp
     </a>
 
+    <script defer src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script defer src="cart.js"></script>
+    <script>
+      window.addEventListener("DOMContentLoaded", () => {
+        if (typeof Swiper !== "undefined") {
+          new Swiper(".research-swiper", {
+            loop: true,
+            speed: 600,
+            autoHeight: true,
+            autoplay: {
+              delay: 5000,
+              disableOnInteraction: false,
+              pauseOnMouseEnter: true
+            },
+            pagination: {
+              el: ".research-pagination",
+              clickable: true
+            },
+            navigation: {
+              nextEl: ".research-next",
+              prevEl: ".research-prev"
+            }
+          });
+        }
+
+        const modal = document.getElementById("research-modal");
+        const modalTitle = modal.querySelector("[data-modal-title]");
+        const modalDesc = modal.querySelector("[data-modal-desc]");
+        const panels = modal.querySelectorAll("[data-form-panel]");
+        const closeButton = modal.querySelector(".research-close");
+        const openButtons = document.querySelectorAll("[data-research-open]");
+
+        const setActivePanel = (panelId) => {
+          panels.forEach((panel) => {
+            const isActive = panel.dataset.formPanel === panelId;
+            panel.classList.toggle("is-active", isActive);
+          });
+        };
+
+        const openModal = (button) => {
+          const panelId = button.dataset.form;
+          modalTitle.textContent = button.dataset.title || "Formulario";
+          modalDesc.textContent =
+            button.dataset.desc || "Completa el formulario para comenzar.";
+          setActivePanel(panelId);
+          modal.classList.add("show");
+          modal.setAttribute("aria-hidden", "false");
+
+          const focusTarget = modal.querySelector(
+            ".research-form-panel.is-active input, .research-form-panel.is-active select, .research-form-panel.is-active textarea"
+          );
+          if (focusTarget) focusTarget.focus();
+        };
+
+        const closeModal = () => {
+          modal.classList.remove("show");
+          modal.setAttribute("aria-hidden", "true");
+        };
+
+        openButtons.forEach((button) => {
+          button.addEventListener("click", () => openModal(button));
+        });
+
+        closeButton.addEventListener("click", closeModal);
+        modal.addEventListener("click", (event) => {
+          if (event.target === modal) closeModal();
+        });
+        document.addEventListener("keydown", (event) => {
+          if (event.key === "Escape" && modal.classList.contains("show")) {
+            closeModal();
+          }
+        });
+      });
+    </script>
   </body>
 </html>
