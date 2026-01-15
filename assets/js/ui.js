@@ -194,8 +194,35 @@
     targets.forEach((target) => observer.observe(target));
   };
 
+  const setupParallax = () => {
+    const layers = document.querySelectorAll("[data-parallax]");
+    if (layers.length === 0 || prefersReduced.matches) return;
+    let ticking = false;
+
+    const update = () => {
+      const scrollY = window.scrollY || window.pageYOffset;
+      layers.forEach((layer) => {
+        const speed = Number(layer.dataset.parallax || "0.08");
+        const offset = Math.min(scrollY * speed, 60);
+        layer.style.transform = `translate3d(0, ${offset}px, 0)`;
+      });
+      ticking = false;
+    };
+
+    const onScroll = () => {
+      if (!ticking) {
+        ticking = true;
+        requestAnimationFrame(update);
+      }
+    };
+
+    update();
+    window.addEventListener("scroll", onScroll, { passive: true });
+  };
+
   initSwiper();
   setupReveal();
+  setupParallax();
   scheduleModal();
   scheduleToast();
   setupExitIntent();

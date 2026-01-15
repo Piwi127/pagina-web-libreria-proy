@@ -703,6 +703,15 @@ textarea:focus-visible {
   border: 1px solid rgba(15, 118, 110, 0.1);
   display: grid;
   gap: 10px;
+  transition: transform var(--t-med) var(--ease-soft),
+    box-shadow var(--t-med) var(--ease-soft),
+    border-color var(--t-med) var(--ease-soft);
+}
+
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  border-color: rgba(15, 118, 110, 0.2);
 }
 
 .research-card h3 {
@@ -1290,6 +1299,8 @@ textarea:focus-visible {
   gap: 12px;
   animation: fadeIn 0.8s ease forwards;
   opacity: 0;
+  transition: transform var(--t-med) var(--ease-soft),
+    box-shadow var(--t-med) var(--ease-soft);
 }
 
 .card {
@@ -1878,10 +1889,54 @@ textarea:focus-visible {
   text-decoration: none;
   box-shadow: 0 14px 28px rgba(7, 40, 22, 0.25);
   z-index: 9;
+  animation: whatsappPulse 2.8s ease-in-out infinite;
+  isolation: isolate;
+}
+
+.whatsapp-float::after {
+  content: "";
+  position: absolute;
+  inset: -8px;
+  border-radius: inherit;
+  border: 2px solid rgba(37, 211, 102, 0.45);
+  opacity: 0;
+  animation: whatsappRing 2.8s ease-out infinite;
+  pointer-events: none;
 }
 
 .whatsapp-float:hover {
   background: #1ebe5d;
+}
+
+[data-parallax] {
+  will-change: transform;
+}
+
+@keyframes whatsappPulse {
+  0%,
+  100% {
+    transform: translateY(0);
+    box-shadow: 0 14px 28px rgba(7, 40, 22, 0.25);
+  }
+  50% {
+    transform: translateY(-2px);
+    box-shadow: 0 18px 34px rgba(7, 40, 22, 0.3);
+  }
+}
+
+@keyframes whatsappRing {
+  0% {
+    opacity: 0.35;
+    transform: scale(0.95);
+  }
+  60% {
+    opacity: 0;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.2);
+  }
 }
 
 .site-footer {
