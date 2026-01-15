@@ -435,6 +435,20 @@ img {
   box-shadow: 0 18px 30px rgba(35, 22, 14, 0.12);
 }
 
+.hero-message-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 14px;
+  border-radius: var(--r-pill);
+  background: rgba(13, 97, 90, 0.12);
+  color: var(--accent-dark);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+}
+
 .hero-message h1 {
   text-shadow: 0 18px 32px rgba(45, 28, 18, 0.18);
 }
@@ -450,10 +464,27 @@ img {
   color: var(--muted);
 }
 
-.hero-message p {
-  margin: 0 0 18px;
+.hero-message-body {
+  margin: 10px 0 18px;
   color: var(--muted);
   font-size: 1.1rem;
+}
+
+.hero-message-highlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 12px;
+  justify-content: center;
+  margin-bottom: 18px;
+}
+
+.hero-message-highlights span {
+  padding: 6px 12px;
+  border-radius: var(--r-pill);
+  background: rgba(249, 115, 22, 0.12);
+  color: #9a3412;
+  font-weight: 700;
+  font-size: 0.9rem;
 }
 
 .hero-play {
@@ -700,6 +731,134 @@ textarea:focus-visible {
   margin: 0 0 18px;
   color: var(--muted);
   font-size: 1.02rem;
+}
+
+.featured-spotlight {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
+  gap: 24px;
+  align-items: center;
+  padding: 24px;
+  margin-bottom: 28px;
+  border-radius: var(--r-xl);
+  background: linear-gradient(135deg, rgba(255, 250, 243, 0.95), rgba(255, 255, 255, 0.95));
+  border: 1px solid rgba(249, 115, 22, 0.18);
+  box-shadow: var(--shadow-md), 0 16px 30px rgba(249, 115, 22, 0.12);
+  position: relative;
+  overflow: hidden;
+}
+
+.featured-spotlight::before {
+  content: "";
+  position: absolute;
+  top: -80px;
+  right: -60px;
+  width: 220px;
+  height: 220px;
+  background: radial-gradient(circle, rgba(249, 115, 22, 0.22), transparent 70%);
+  pointer-events: none;
+}
+
+.featured-spotlight-content h3 {
+  margin: 10px 0 12px;
+  font-size: clamp(1.5rem, 2.8vw, 2.1rem);
+}
+
+.featured-spotlight-content p {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.featured-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border-radius: var(--r-pill);
+  background: rgba(249, 115, 22, 0.2);
+  color: #9a3412;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+.featured-spotlight-media {
+  margin: 0;
+  position: relative;
+}
+
+.featured-spotlight-trigger {
+  border: none;
+  padding: 0;
+  background: transparent;
+  width: 100%;
+  cursor: zoom-in;
+}
+
+.featured-spotlight-trigger:focus-visible {
+  outline: 2px solid var(--accent-2);
+  outline-offset: 4px;
+  border-radius: var(--r-lg);
+}
+
+.featured-spotlight-media img {
+  width: 100%;
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid rgba(15, 118, 110, 0.12);
+  transform: translateY(-8px);
+}
+
+.image-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.65);
+  display: grid;
+  place-items: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--t-med) var(--ease-out);
+  z-index: 25;
+}
+
+.image-modal.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.image-modal-dialog {
+  background: var(--surface);
+  padding: 20px;
+  border-radius: var(--r-lg);
+  width: min(920px, 92vw);
+  max-height: 90vh;
+  overflow: auto;
+  box-shadow: var(--shadow-lg);
+  position: relative;
+  border: 1px solid rgba(15, 118, 110, 0.12);
+  display: grid;
+  gap: 12px;
+}
+
+.image-modal-dialog img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--r-md);
+}
+
+.image-modal-close {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  border: none;
+  background: rgba(15, 118, 110, 0.12);
+  border-radius: var(--r-pill);
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  font-weight: 700;
 }
 
 .campaigns {
@@ -2144,6 +2303,14 @@ textarea:focus-visible {
     flex-wrap: wrap;
   }
 
+  .featured-spotlight {
+    grid-template-columns: 1fr;
+  }
+
+  .featured-spotlight-media img {
+    transform: translateY(0);
+  }
+
   .cart-panel-content {
     width: min(360px, 94vw);
     padding: 20px;
@@ -2166,6 +2333,14 @@ textarea:focus-visible {
   .catalog-notice {
     padding: 20px;
     text-align: center;
+  }
+
+  .featured-spotlight {
+    text-align: center;
+  }
+
+  .featured-spotlight .btn-primary {
+    justify-self: center;
   }
 
   .search-wrap {
@@ -2201,6 +2376,10 @@ textarea:focus-visible {
 
   .hero-message {
     text-align: left;
+  }
+
+  .hero-message-highlights {
+    justify-content: flex-start;
   }
 
   .hero-cta {

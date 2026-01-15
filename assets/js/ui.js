@@ -3,12 +3,20 @@
   const prefersReduced = window.matchMedia("(prefers-reduced-motion: reduce)");
   const heroPlay = document.querySelector(".hero-play");
   const modal = document.getElementById("promo-modal");
+  const imageModal = document.getElementById("image-modal");
   const toast = document.getElementById("promo-toast");
   const modalClose = modal ? modal.querySelector(".promo-close") : null;
   const modalDismiss = modal
     ? modal.querySelector("[data-promo-dismiss]")
     : null;
   const toastClose = toast ? toast.querySelector("[data-toast-close]") : null;
+  const imageModalClose = imageModal
+    ? imageModal.querySelector(".image-modal-close")
+    : null;
+  const imageModalImg = imageModal ? imageModal.querySelector("img") : null;
+  const featuredImageTrigger = document.querySelector(
+    ".featured-spotlight-trigger"
+  );
 
   let swiper = null;
 
@@ -110,6 +118,22 @@
     modal.classList.remove("show");
     modal.setAttribute("aria-hidden", "true");
     document.removeEventListener("keydown", trapFocus);
+  };
+
+  const openImageModal = (img) => {
+    if (!imageModal || !imageModalImg || !img) return;
+    imageModalImg.src = img.src;
+    imageModalImg.alt = img.alt || "Anuncio destacado";
+    imageModal.classList.add("show");
+    imageModal.setAttribute("aria-hidden", "false");
+  };
+
+  const closeImageModal = () => {
+    if (!imageModal || !imageModalImg) return;
+    imageModal.classList.remove("show");
+    imageModal.setAttribute("aria-hidden", "true");
+    imageModalImg.src = "";
+    imageModalImg.alt = "";
   };
 
   const modalKey = "promo-modal-last";
@@ -257,8 +281,23 @@
 
   if (modalClose) modalClose.addEventListener("click", closeModal);
   if (modalDismiss) modalDismiss.addEventListener("click", closeModal);
+  if (imageModal) {
+    imageModal.addEventListener("click", (event) => {
+      if (event.target === imageModal) closeImageModal();
+    });
+  }
+  if (imageModalClose) imageModalClose.addEventListener("click", closeImageModal);
+  if (featuredImageTrigger) {
+    featuredImageTrigger.addEventListener("click", () => {
+      const img = featuredImageTrigger.querySelector("img");
+      openImageModal(img);
+    });
+  }
   document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") closeModal();
+    if (event.key === "Escape") {
+      closeModal();
+      closeImageModal();
+    }
   });
 
   prefersReduced.addEventListener("change", () => {
