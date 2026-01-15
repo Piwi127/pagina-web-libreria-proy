@@ -323,7 +323,7 @@
   });
 
   const contactForm = document.querySelector(".contact-form");
-  if (contactForm) {
+  if (contactForm && contactForm.id !== "contactForm") {
     contactForm.addEventListener("submit", (event) => {
       event.preventDefault();
       const formData = new FormData(contactForm);
