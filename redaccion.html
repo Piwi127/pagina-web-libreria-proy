@@ -22,13 +22,19 @@
         <div class="brand">
           <img src="assets/img/logonuevo.png" alt="Libreria Belen" />
         </div>
-        <nav class="menu">
+        <nav class="menu" aria-label="Menu principal">
           <a href="index.html">Inicio</a>
           <a href="catalogo.html">Catalogo</a>
           <a href="ofertas.html">Ofertas</a>
           <a href="contacto.html">Contacto</a>
-          <a href="redaccion.html">Redaccion de documentos</a>
-          <a href="trabajos.html">Trabajos e investigaciones</a>
+          <details class="menu-dropdown">
+            <summary>Trabajos</summary>
+            <div class="dropdown">
+              <a href="redaccion.html">Redaccion de documentos</a>
+              <a href="trabajos.html">Trabajos e investigaciones</a>
+              <a href="otros-trabajos.html">Otros trabajos</a>
+            </div>
+          </details>
         </nav>
         <button class="cart" data-cart-toggle>
           Carrito (<span data-cart-count>0</span>)
