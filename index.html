@@ -85,8 +85,19 @@
             placeholder="Buscar productos, autores o categorias"
             aria-label="Buscar productos"
             id="search-input"
+            autocomplete="off"
+            aria-autocomplete="list"
+            aria-controls="search-suggest"
+            aria-expanded="false"
           />
           <button type="button" id="search-button">Buscar</button>
+          <div
+            class="search-suggest"
+            id="search-suggest"
+            role="listbox"
+            aria-label="Sugerencias de productos"
+            hidden
+          ></div>
         </div>
       </div>
       <div class="hero-carousel full-width" data-parallax="0.04">
@@ -117,7 +128,7 @@
       </div>
       <div class="hero-message" data-parallax="0.08">
         <span class="hero-message-eyebrow">Libreria Belen</span>
-        <h1>Encuentra tu proximo libro favorito</h1>
+        <h1>Tu regreso a clases, mas facil y con mas actitud</h1>
         <p class="hero-message-body">
           Lecturas, agendas y detalles para estudio y regalo. Todo en un solo
           lugar, con respuesta rapida por WhatsApp.
@@ -248,7 +259,12 @@
             <a href="#">TikTok</a>
           </div>
           <div class="contact-map" aria-label="Ubicacion de Libreria Belen">
-            <div class="map-placeholder">Mapa de ubicacion</div>
+            <iframe
+              title="Mapa de Libreria Belen"
+              src="https://www.google.com/maps?q=-12.044385,-77.011314&output=embed"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            ></iframe>
           </div>
         </div>
       </div>
@@ -403,6 +419,7 @@
     <script defer src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script defer src="assets/js/product-carousel.js"></script>
     <script defer src="assets/js/render-offers.js"></script>
+    <script defer src="assets/js/search-suggest.js"></script>
     <script defer src="assets/js/cart.js"></script>
     <script defer src="assets/js/cards.js"></script>
     <script defer src="assets/js/ui.js?v=20260115"></script>
