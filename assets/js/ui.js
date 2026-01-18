@@ -20,6 +20,54 @@
 
   let swiper = null;
 
+  const setupMenuToggle = () => {
+    const toggles = document.querySelectorAll(".menu-toggle");
+    if (toggles.length === 0) return;
+
+    toggles.forEach((toggle) => {
+      const topbar = toggle.closest(".topbar");
+      const menu = topbar
+        ? topbar.querySelector(".menu")
+        : document.querySelector(".menu");
+      if (!menu) return;
+
+      const closeMenu = () => {
+        menu.classList.remove("open");
+        toggle.setAttribute("aria-expanded", "false");
+      };
+
+      toggle.addEventListener("click", () => {
+        const isOpen = menu.classList.toggle("open");
+        toggle.setAttribute("aria-expanded", String(isOpen));
+      });
+
+      menu.addEventListener("click", (event) => {
+        if (event.target.closest("a")) {
+          closeMenu();
+        }
+      });
+
+      document.addEventListener("click", (event) => {
+        const target = event.target;
+        if (!(target instanceof HTMLElement)) return;
+        if (menu.contains(target) || toggle.contains(target)) return;
+        closeMenu();
+      });
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape") {
+          closeMenu();
+        }
+      });
+
+      window.addEventListener("resize", () => {
+        if (window.innerWidth > 900) {
+          closeMenu();
+        }
+      });
+    });
+  };
+
   const initSwiper = () => {
     if (typeof Swiper === "undefined") return;
     swiper = new Swiper(".hero-swiper", {
@@ -254,6 +302,7 @@
   initSwiper();
   setupReveal();
   setupParallax();
+  setupMenuToggle();
   scheduleModal();
   scheduleToast();
   setupExitIntent();

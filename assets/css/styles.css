@@ -170,6 +170,7 @@ img {
   align-items: center;
   justify-content: space-between;
   gap: 16px;
+  flex-wrap: wrap;
   margin-bottom: 40px;
   padding: 12px 24px;
   border-radius: var(--r-pill);
@@ -313,6 +314,7 @@ img {
   box-shadow: var(--shadow-md);
   padding: 16px;
   border: 1px solid rgba(15, 118, 110, 0.12);
+  width: 100%;
 }
 
 .hero-carousel.full-width {
@@ -323,6 +325,7 @@ img {
 
 .hero-swiper {
   position: relative;
+  width: 100%;
 }
 
 .hero-slide {
@@ -330,13 +333,16 @@ img {
   overflow: hidden;
   min-height: 0;
   position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
 }
 
 .hero-slide img {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
   border-radius: 0;
+  object-fit: cover;
 }
 
 .hero-swiper .swiper-slide {
@@ -606,6 +612,35 @@ img {
   padding: 10px 0;
   border-bottom: 1px solid rgba(15, 23, 42, 0.12);
   background: transparent;
+}
+
+.menu-toggle {
+  border: 1px solid rgba(15, 118, 110, 0.2);
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--accent-dark);
+  padding: 10px 16px;
+  border-radius: var(--r-pill);
+  font-weight: 800;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: none;
+  box-shadow: var(--shadow-sm);
+}
+
+.menu-toggle::before {
+  content: "";
+  width: 18px;
+  height: 2px;
+  background: currentColor;
+  display: inline-block;
+  border-radius: 999px;
+  box-shadow: 0 6px 0 currentColor, 0 12px 0 currentColor;
+}
+
+.menu-toggle:focus-visible {
+  outline: 2px solid var(--accent-2);
+  outline-offset: 2px;
 }
 
 .menu a,
@@ -1189,6 +1224,11 @@ textarea:focus-visible {
 
 .product-swiper {
   padding: 10px 6px 30px;
+  width: 100%;
+}
+
+.product-swiper .swiper-slide {
+  height: auto;
 }
 
 .product-swiper .card {
@@ -2492,12 +2532,35 @@ textarea:focus-visible {
     align-items: flex-start;
   }
 
+  .menu {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.92);
+    border-radius: 18px;
+    border: 1px solid rgba(15, 118, 110, 0.12);
+  }
+
+  .menu.open {
+    display: flex;
+  }
+
+  .menu-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
   .cart {
     align-self: flex-end;
   }
 
   .hero-slide {
     min-height: 280px;
+    aspect-ratio: 4 / 3;
   }
 
   .hero-slide-content {
@@ -2532,7 +2595,13 @@ textarea:focus-visible {
   }
 
   .hero-message {
-    padding: 14px 16px;
+    padding: 16px 18px;
+    text-align: center;
+    border-radius: 22px;
+  }
+
+  .brand img {
+    height: clamp(72px, 18vw, 120px);
   }
 
   .catalog-notice {
@@ -2579,16 +2648,19 @@ textarea:focus-visible {
     padding: 22px;
   }
 
-  .hero-message {
-    text-align: left;
-  }
-
   .hero-message-highlights {
-    justify-content: flex-start;
+    justify-content: center;
   }
 
   .hero-cta {
-    justify-content: flex-start;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .hero-cta .btn-primary,
+  .hero-cta .btn-ghost {
+    width: 100%;
+    justify-content: center;
   }
 
   .menu {
@@ -2607,6 +2679,11 @@ textarea:focus-visible {
 @media (max-width: 520px) {
   .topbar {
     gap: 12px;
+  }
+
+  .menu a,
+  .menu summary {
+    font-size: 0.85rem;
   }
 
   .menu {
@@ -2640,7 +2717,8 @@ textarea:focus-visible {
   }
 
   .hero-slide {
-    min-height: 240px;
+    min-height: 220px;
+    aspect-ratio: 1 / 1;
   }
 
   .hero-slide-content {
@@ -2650,6 +2728,18 @@ textarea:focus-visible {
   .hero-controls {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .hero-message h1 {
+    font-size: clamp(1.8rem, 7vw, 2.4rem);
+  }
+
+  .hero-message-body {
+    font-size: 1rem;
+  }
+
+  .hero-message-highlights span {
+    font-size: 0.82rem;
   }
 
   .product-swiper-controls {
@@ -2687,6 +2777,22 @@ textarea:focus-visible {
   .cart-footer {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .contact-map iframe {
+    height: 200px;
+  }
+
+  .search-suggest {
+    max-height: 260px;
+  }
+
+  .search-suggest-item {
+    grid-template-columns: 40px 1fr;
+  }
+
+  .search-suggest-cta {
+    display: none;
   }
 }
 
