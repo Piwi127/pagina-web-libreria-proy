@@ -34,11 +34,17 @@
       const closeMenu = () => {
         menu.classList.remove("open");
         toggle.setAttribute("aria-expanded", "false");
+        if (topbar) {
+          topbar.classList.remove("menu-open");
+        }
       };
 
       toggle.addEventListener("click", () => {
         const isOpen = menu.classList.toggle("open");
         toggle.setAttribute("aria-expanded", String(isOpen));
+        if (topbar) {
+          topbar.classList.toggle("menu-open", isOpen);
+        }
       });
 
       menu.addEventListener("click", (event) => {

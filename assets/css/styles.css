@@ -2591,7 +2591,32 @@ textarea:focus-visible {
   }
 
   .topbar {
-    padding: 8px 12px;
+    padding: 10px 14px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: nowrap;
+  }
+
+  .topbar .brand {
+    transition: opacity var(--t-med) var(--ease-out),
+      transform var(--t-med) var(--ease-out);
+  }
+
+  .topbar.menu-open .brand {
+    opacity: 0;
+    transform: translateY(-6px) scale(0.98);
+  }
+
+  .topbar .cart {
+    transition: opacity var(--t-med) var(--ease-out),
+      transform var(--t-med) var(--ease-out);
+  }
+
+  .topbar.menu-open .cart {
+    opacity: 0;
+    transform: translateY(-6px) scale(0.98);
   }
 
   .hero-message {
@@ -2602,6 +2627,44 @@ textarea:focus-visible {
 
   .brand img {
     height: clamp(72px, 18vw, 120px);
+  }
+
+  .menu-toggle {
+    padding: 10px 14px;
+    font-size: 0.85rem;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #ffffff, #e9f5f1);
+    border-color: rgba(13, 97, 90, 0.25);
+    box-shadow: var(--shadow-md);
+    text-transform: uppercase;
+  }
+
+  .menu-toggle::before {
+    width: 16px;
+    height: 2px;
+    box-shadow: 0 5px 0 currentColor, 0 10px 0 currentColor;
+  }
+
+  .cart {
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #0d615a, #0a4f49);
+    border-color: rgba(13, 97, 90, 0.4);
+    box-shadow: 0 12px 22px rgba(13, 97, 90, 0.3);
+  }
+
+  .cart span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 26px;
+    padding: 2px 8px;
+    margin-left: 6px;
+    border-radius: var(--r-pill);
+    background: rgba(255, 255, 255, 0.18);
+    border: 1px solid rgba(255, 255, 255, 0.32);
+    font-weight: 800;
   }
 
   .catalog-notice {
@@ -2679,6 +2742,18 @@ textarea:focus-visible {
 @media (max-width: 520px) {
   .topbar {
     gap: 12px;
+  }
+
+  .menu-toggle,
+  .cart {
+    padding: 8px 12px;
+    font-size: 0.82rem;
+    border-radius: 14px;
+  }
+
+  .cart span {
+    min-width: 22px;
+    padding: 2px 6px;
   }
 
   .menu a,
