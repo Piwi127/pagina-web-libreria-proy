@@ -2502,7 +2502,8 @@ textarea:focus-visible {
   .cart {
     position: fixed;
     right: 22px;
-    bottom: 92px;
+    top: 4px;
+    bottom: auto;
     z-index: 980;
   }
 
@@ -2548,13 +2549,12 @@ textarea:focus-visible {
   }
 
   .topbar .brand {
-    transition: opacity var(--t-med) var(--ease-out),
-      transform var(--t-med) var(--ease-out);
+    display: none;
   }
 
   .topbar.menu-open .brand {
-    opacity: 0;
-    transform: translateY(-6px) scale(0.98);
+    opacity: 1;
+    transform: none;
   }
 
   .topbar .cart {
@@ -2701,7 +2701,8 @@ textarea:focus-visible {
 
   .cart {
     right: 16px;
-    bottom: 86px;
+    top: 0;
+    bottom: auto;
   }
 
   .cart span {
