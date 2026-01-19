@@ -132,30 +132,6 @@ img {
   pointer-events: none;
 }
 
-.marquee {
-  background: rgba(255, 246, 234, 0.8);
-  border-radius: var(--r-pill);
-  padding: 8px 12px;
-  margin-bottom: 18px;
-  overflow: hidden;
-  box-shadow: var(--shadow-xs);
-  border: 1px solid rgba(236, 107, 95, 0.15);
-  backdrop-filter: blur(6px);
-}
-
-.marquee-track {
-  display: flex;
-  gap: 32px;
-  align-items: center;
-  font-weight: 700;
-  color: var(--muted);
-  animation: marquee 24s linear infinite;
-}
-
-.marquee-track span {
-  white-space: nowrap;
-}
-
 /* Glass Utility */
 .glass-panel {
   background: var(--surface-glass);
@@ -2457,31 +2433,6 @@ textarea:focus-visible {
   }
 }
 
-.site-footer {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 24px;
-  padding: 40px 6vw 60px;
-  background: #0b3d37;
-  color: #f8fafc;
-}
-
-.site-footer h4 {
-  margin: 0 0 8px;
-}
-
-.site-footer a {
-  color: #d2f5f0;
-  text-decoration: none;
-  display: block;
-  margin-bottom: 6px;
-}
-
-.site-footer p {
-  margin: 0 0 8px;
-  color: #cfe6e2;
-}
-
 @keyframes rise {
   from {
     transform: translateY(14px);
@@ -2506,16 +2457,6 @@ textarea:focus-visible {
   }
 }
 
-@keyframes marquee {
-  0% {
-    transform: translateX(0);
-  }
-
-  100% {
-    transform: translateX(-50%);
-  }
-}
-
 @keyframes news-marquee {
   0% {
     transform: translateX(0);
@@ -2527,6 +2468,10 @@ textarea:focus-visible {
 }
 
 @media (max-width: 900px) {
+  body {
+    background-attachment: scroll;
+  }
+
   .topbar {
     flex-direction: column;
     align-items: flex-start;
