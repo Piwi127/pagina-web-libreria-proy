@@ -2500,7 +2500,10 @@ textarea:focus-visible {
   }
 
   .cart {
-    align-self: flex-end;
+    position: fixed;
+    right: 22px;
+    bottom: 92px;
+    z-index: 980;
   }
 
   .hero-slide {
@@ -2560,8 +2563,8 @@ textarea:focus-visible {
   }
 
   .topbar.menu-open .cart {
-    opacity: 0;
-    transform: translateY(-6px) scale(0.98);
+    opacity: 1;
+    transform: none;
   }
 
   .hero-message {
@@ -2694,6 +2697,11 @@ textarea:focus-visible {
     padding: 8px 12px;
     font-size: 0.82rem;
     border-radius: 14px;
+  }
+
+  .cart {
+    right: 16px;
+    bottom: 86px;
   }
 
   .cart span {
