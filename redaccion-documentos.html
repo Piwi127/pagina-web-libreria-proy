@@ -19,7 +19,20 @@
     <meta name="theme-color" content="#0D615A" />
     <link rel="apple-touch-icon" href="assets/img/icon.svg" />
   </head>
-  <body>
+  <body class="maintenance">
+  <div class="maintenance-overlay" role="dialog" aria-modal="true" aria-live="polite">
+    <video class="maintenance-video" autoplay muted loop playsinline>
+      <source src="assets/video/video-pagina-en-mantenimiento.mp4" type="video/mp4" />
+      Tu navegador no soporta el video de mantenimiento.
+    </video>
+    <div class="maintenance-scrim" aria-hidden="true"></div>
+    <div class="maintenance-content">
+      <img class="maintenance-logo" src="assets/img/logonuevo.png" alt="Libreria Belen" />
+      <h1>Estamos en mantenimiento</h1>
+      <p>Volvemos pronto. Mientras tanto, puedes escribirnos por WhatsApp.</p>
+      <a class="btn-primary" href="https://wa.me/51947872207" target="_blank" rel="noopener">Contactar por WhatsApp</a>
+    </div>
+  </div>
     <header class="hero hero-small">
       <div class="topbar">
         <div class="brand">
@@ -203,6 +216,7 @@
     <script defer src="assets/js/pwa.js"></script>
 </body>
 </html>
+
 
 
 
