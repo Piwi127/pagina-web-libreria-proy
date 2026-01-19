@@ -1,0 +1,17 @@
+{
+  "name": "Libreria Belen",
+  "short_name": "Belen",
+  "description": "Libreria Belen: libros, agendas y papeleria con envios a todo el Peru.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F9F8F6",
+  "theme_color": "#0D615A",
+  "icons": [
+    {
+      "src": "assets/img/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
