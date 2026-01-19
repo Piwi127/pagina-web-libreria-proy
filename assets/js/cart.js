@@ -145,7 +145,23 @@
     updateCartUI(items);
   };
 
+  const closeMenuIfOpen = () => {
+    const openMenus = document.querySelectorAll(".menu.open");
+    if (openMenus.length === 0) return;
+    openMenus.forEach((menu) => {
+      menu.classList.remove("open");
+      const topbar = menu.closest(".topbar");
+      if (!topbar) return;
+      topbar.classList.remove("menu-open");
+      const toggle = topbar.querySelector(".menu-toggle");
+      if (toggle) {
+        toggle.setAttribute("aria-expanded", "false");
+      }
+    });
+  };
+
   const openCart = () => {
+    closeMenuIfOpen();
     panel.classList.add("open");
     panel.setAttribute("aria-hidden", "false");
   };

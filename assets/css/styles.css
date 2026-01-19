@@ -2156,7 +2156,7 @@ textarea:focus-visible {
   display: none;
   align-items: stretch;
   justify-content: flex-end;
-  z-index: 10;
+  z-index: 1000;
 }
 
 .cart-panel.open {
