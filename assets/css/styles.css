@@ -118,6 +118,7 @@ img {
 
 .hero-small {
   padding-bottom: 40px;
+  overflow: visible;
 }
 
 .hero::after {
@@ -771,7 +772,7 @@ textarea:focus-visible {
   border: 1px solid rgba(13, 97, 90, 0.1);
   transition: transform 0.3s var(--ease-out), box-shadow 0.3s var(--ease-out);
   position: relative;
-  z-index: 10;
+  z-index: 150;
 }
 
 .search-wrap:focus-within {
@@ -817,6 +818,7 @@ textarea:focus-visible {
   top: calc(100% + 10px);
   left: 0;
   right: 0;
+  z-index: 160;
   background: rgba(255, 255, 255, 0.96);
   border-radius: 20px;
   border: 1px solid rgba(15, 118, 110, 0.14);

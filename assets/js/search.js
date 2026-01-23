@@ -4,6 +4,7 @@
   const noResults = document.getElementById("no-results");
   const resultsCount = document.getElementById("results-count");
   const pagination = document.getElementById("pagination");
+  const grid = document.getElementById("product-grid");
   const pageNumbers = document.getElementById("page-numbers");
   const pageStatus = document.getElementById("page-status");
   const pageButtons = pagination
@@ -216,10 +217,18 @@
   }
 
   input.addEventListener("input", () => filterCards(true));
-  button.addEventListener("click", () => filterCards(true));
+  const scrollToGrid = () => {
+    if (!grid) return;
+    grid.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+  button.addEventListener("click", () => {
+    filterCards(true);
+    scrollToGrid();
+  });
   input.addEventListener("keydown", (event) => {
     if (event.key === "Enter") {
       filterCards(true);
+      scrollToGrid();
     }
   });
 

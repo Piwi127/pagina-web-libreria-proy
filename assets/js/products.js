@@ -1,4 +1,4 @@
-(() => {
+﻿(() => {
   const PRODUCTS = {
   "acuarela-faber-castell-estuche-x-12-und": {
     "title": "Acuarela Faber Castell Estuche X 12 Und",
@@ -32,7 +32,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Acuarela%20Faber%20Castell%20Estuche%20X%2012%20Und.jpg",
     "gallery": []
   },
   "acuarela-ove-grande-x-8-colores": {
@@ -67,7 +67,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Acuarela%20Ove%20Grande%20X%208%20Colores.jpg",
     "gallery": []
   },
   "acuarelas-artesco-12-colores": {
@@ -102,7 +102,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Acuarelas%20Artesco%2012%20Colores.jpg",
     "gallery": []
   },
   "alfileres-artesco-28-mm-caja-x-50-gr": {
@@ -137,7 +137,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Alfileres%20Artesco%2028%20Mm%20Caja%20X%2050%20Gr.jpg",
     "gallery": []
   },
   "archivador-plastificado-ove-a4-negro-con-lomo-ancho": {
@@ -172,7 +172,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Archivador%20Plastificado%20Ove%20A4%20Negro%20Con%20Lomo%20Ancho.jpg",
     "gallery": []
   },
   "block-cuadriculado-justus-a4-5-perforaciones-50-hojas": {
@@ -207,7 +207,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Block%20Cuadriculado%20Justus%20A4%205%20Perforaciones%2050%20Hojas.jpg",
     "gallery": []
   },
   "block-de-dibujo-anillado-20h-justus": {
@@ -242,7 +242,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Block%20De%20Dibujo%20Anillado%2020H%20Justus.jpg",
     "gallery": []
   },
   "block-de-dibujo-empastado-ove-24-x-31-5-cm-20-hojas": {
@@ -277,11 +277,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Block%20De%20Dibujo%20Empastado%20Ove%2024%20X%2031.5%20Cm%2020%20Hojas.jpg",
     "gallery": []
   },
   "block-escolar-80h-period-cuadr-libra": {
-    "title": "Block Escolar 80H Period Cuadr Libra",
+    "title": "Block De Papel Bond Cuadriculado Libra 56 G 80 Hojas",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.18",
@@ -312,11 +312,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Block%20De%20Papel%20Bond%20Cuadriculado%20Libra%2056%20G%2080%20Hojas.jpg",
     "gallery": []
   },
-  "bolagrafo-faber-castell-060-azul": {
-    "title": "BolAgrafo Faber Castell 060 Azul",
+  "Bolígrafo-faber-castell-060-azul": {
+    "title": "Bolígrafo Faber Castell 060 Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.87",
@@ -347,11 +347,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Azul.jpg",
     "gallery": []
   },
-  "bolagrafo-faber-castell-060-negro": {
-    "title": "BolAgrafo Faber Castell 060 Negro",
+  "Bolígrafo-faber-castell-060-negro": {
+    "title": "Bolígrafo Faber Castell 060 Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.87",
@@ -382,11 +382,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Negro.jpg",
     "gallery": []
   },
-  "bolagrafo-faber-castell-060-rojo": {
-    "title": "BolAgrafo Faber Castell 060 Rojo",
+  "Bolígrafo-faber-castell-060-rojo": {
+    "title": "Bolígrafo Faber Castell 060 Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.87",
@@ -417,11 +417,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Rojo.jpg",
     "gallery": []
   },
-  "bolagrafo-faber-castell-trilux-031-punta-fina-azul-x-1-und": {
-    "title": "BolAgrafo Faber Castell Trilux 031 Punta Fina Azul X 1 Und",
+  "Bolígrafo-faber-castell-trilux-031-punta-fina-azul-x-1-und": {
+    "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Azul X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.42",
@@ -455,8 +455,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-faber-castell-trilux-031-punta-fina-negro-x-1-und": {
-    "title": "BolAgrafo Faber Castell Trilux 031 Punta Fina Negro X 1 Und",
+  "Bolígrafo-faber-castell-trilux-031-punta-fina-negro-x-1-und": {
+    "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Negro X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.42",
@@ -490,8 +490,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-faber-castell-trilux-031-punta-fina-rojo-x-1-und": {
-    "title": "BolAgrafo Faber Castell Trilux 031 Punta Fina Rojo X 1 Und",
+  "Bolígrafo-faber-castell-trilux-031-punta-fina-rojo-x-1-und": {
+    "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Rojo X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.42",
@@ -525,8 +525,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-pilot-bp-sf-punta-fina-azul-x-1-und": {
-    "title": "BolAgrafo Pilot Bp-Sf Punta Fina Azul X 1 Und",
+  "Bolígrafo-pilot-bp-sf-punta-fina-azul-x-1-und": {
+    "title": "Bolígrafo Pilot Bp-Sf Punta Fina Azul X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.14",
@@ -560,8 +560,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-pilot-bp-sf-punta-fina-negro-x-1-und": {
-    "title": "BolAgrafo Pilot Bp-Sf Punta Fina Negro X 1 Und",
+  "Bolígrafo-pilot-bp-sf-punta-fina-negro-x-1-und": {
+    "title": "Bolígrafo Pilot Bp-Sf Punta Fina Negro X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.14",
@@ -595,8 +595,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-pilot-bp-sf-punta-fina-rojo-x-1-und": {
-    "title": "BolAgrafo Pilot Bp-Sf Punta Fina Rojo X 1 Und",
+  "Bolígrafo-pilot-bp-sf-punta-fina-rojo-x-1-und": {
+    "title": "Bolígrafo Pilot Bp-Sf Punta Fina Rojo X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.14",
@@ -630,8 +630,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-pilot-bp-sf-punta-fina-verde-x-1-und": {
-    "title": "BolAgrafo Pilot Bp-Sf Punta Fina Verde X 1 Und",
+  "Bolígrafo-pilot-bp-sf-punta-fina-verde-x-1-und": {
+    "title": "Bolígrafo Pilot Bp-Sf Punta Fina Verde X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.14",
@@ -665,8 +665,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-stabilo-marathon-azul-retractil": {
-    "title": "BolAgrafo Stabilo Marathon Azul RetrActil",
+  "Bolígrafo-stabilo-marathon-azul-retractil": {
+    "title": "Bolígrafo Stabilo Marathon Azul RetrActil",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.31",
@@ -700,8 +700,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-stabilo-marathon-negro-retractil": {
-    "title": "BolAgrafo Stabilo Marathon Negro RetrActil",
+  "Bolígrafo-stabilo-marathon-negro-retractil": {
+    "title": "Bolígrafo Stabilo Marathon Negro RetrActil",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.31",
@@ -735,8 +735,8 @@
     "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
     "gallery": []
   },
-  "bolagrafo-stabilo-marathon-rojo-retractil": {
-    "title": "BolAgrafo Stabilo Marathon Rojo RetrActil",
+  "Bolígrafo-stabilo-marathon-rojo-retractil": {
+    "title": "Bolígrafo Stabilo Marathon Rojo RetrActil",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.31",
@@ -6356,3 +6356,4 @@
   window.PRODUCTS = PRODUCTS;
   window.OFFERS = OFFERS;
 })();
+

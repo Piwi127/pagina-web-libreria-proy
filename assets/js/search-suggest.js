@@ -57,11 +57,13 @@
 
   const hideSuggest = () => {
     suggest.hidden = true;
+    suggest.style.display = "none";
     input.setAttribute("aria-expanded", "false");
   };
 
   const showSuggest = () => {
     suggest.hidden = false;
+    suggest.style.display = "grid";
     input.setAttribute("aria-expanded", "true");
   };
 
@@ -199,11 +201,20 @@
   };
 
   input.addEventListener("input", handleInput);
+  input.addEventListener("focus", handleInput);
+  input.addEventListener("search", handleInput);
+  input.addEventListener("blur", () => {
+    setTimeout(hideSuggest, 120);
+  });
   input.addEventListener("keydown", handleKeyDown);
   if (button) {
-    button.addEventListener("click", handleInput);
+    button.addEventListener("click", () => {
+      handleInput();
+      hideSuggest();
+    });
   }
   document.addEventListener("click", handleOutsideClick);
+  window.addEventListener("scroll", hideSuggest, { passive: true });
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);

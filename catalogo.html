@@ -28,20 +28,7 @@
     <meta name="theme-color" content="#0D615A" />
     <link rel="apple-touch-icon" href="assets/img/icon.svg" />
   </head>
-  <body class="maintenance">
-  <div class="maintenance-overlay" role="dialog" aria-modal="true" aria-live="polite">
-    <video class="maintenance-video" autoplay muted loop playsinline>
-      <source src="assets/video/video-pagina-en-mantenimiento.mp4" type="video/mp4" />
-      Tu navegador no soporta el video de mantenimiento.
-    </video>
-    <div class="maintenance-scrim" aria-hidden="true"></div>
-    <div class="maintenance-content">
-      <img class="maintenance-logo" src="assets/img/logonuevo.png" alt="Libreria Belen" />
-      <h1>Estamos en mantenimiento</h1>
-      <p>Volvemos pronto. Mientras tanto, puedes escribirnos por WhatsApp.</p>
-      <a class="btn-primary" href="https://wa.me/51947872207" target="_blank" rel="noopener">Contactar por WhatsApp</a>
-    </div>
-  </div>
+  <body>
     <header class="hero hero-small">
       <div class="topbar">
         <div class="brand">
@@ -77,35 +64,60 @@
             placeholder="Buscar por titulo, categoria o descripcion"
             aria-label="Buscar productos"
             id="search-input"
+            autocomplete="off"
+            aria-autocomplete="list"
+            aria-controls="search-suggest"
+            aria-expanded="false"
           />
           <button type="button" id="search-button">Buscar</button>
+          <div
+            class="search-suggest"
+            id="search-suggest"
+            role="listbox"
+            aria-label="Sugerencias de productos"
+            hidden
+          ></div>
         </div>
       </div>
     </header>
 
     <main class="catalog">
       <div class="section-title">
-        <h2>Catalogo en actualizacion</h2>
-        <span>Estamos ajustando precios</span>
+        <h2>Catalogo de productos</h2>
+        <span id="results-count">0 resultados</span>
       </div>
-      <section class="catalog-notice" aria-live="polite">
-        <img src="assets/img/ANUNCIO1.png" alt="Anuncio importante de Libreria Belen" />
-        <div class="catalog-notice-content">
-          <h3>Muy pronto volvemos con precios finales</h3>
-          <p>
-            Estamos actualizando nuestro catalogo para reflejar los precios
-            finales y nuevas promociones. Gracias por tu paciencia.
-          </p>
-          <a
-            class="btn-primary"
-            href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20el%20catalogo%20y%20precios%20actualizados."
-            target="_blank"
-            rel="noopener"
-          >
-            Consultar por WhatsApp
-          </a>
+      <div class="filters">
+        <div class="chips" role="tablist" aria-label="Categorias">
+          <button class="chip active" type="button" data-category="all">Todos</button>
+          <button class="chip" type="button" data-category="cuadernos">Cuadernos</button>
+          <button class="chip" type="button" data-category="papeleria">Papeleria</button>
+          <button class="chip" type="button" data-category="regalos">Regalos</button>
         </div>
-      </section>
+        <div class="filter-controls">
+          <label for="price-range">
+            Precio max
+            <input type="range" id="price-range" min="0" max="200" value="200" />
+            <span id="price-value">S/ 200</span>
+          </label>
+          <label for="rating-filter">
+            Rating
+            <select id="rating-filter">
+              <option value="0">Todos</option>
+              <option value="3">3+</option>
+              <option value="4">4+</option>
+              <option value="4.5">4.5+</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <section class="grid" id="product-grid"></section>
+      <p class="no-results" id="no-results" hidden>No se encontraron productos para mostrar.</p>
+      <div class="pagination" id="pagination" hidden>
+        <button class="page-btn" type="button" data-page="prev">Anterior</button>
+        <div class="page-numbers" id="page-numbers"></div>
+        <button class="page-btn" type="button" data-page="next">Siguiente</button>
+      </div>
+      <p class="page-status" id="page-status"></p>
     </main>
 
     <aside class="cart-panel" id="cart-panel" aria-hidden="true">
@@ -195,6 +207,11 @@
       </div>
     </footer>
 
+    <script defer src="assets/js/products.js"></script>
+    <script defer src="assets/js/render-products.js"></script>
+    <script defer src="assets/js/search.js"></script>
+    <script defer src="assets/js/search-suggest.js"></script>
+    <script defer src="assets/js/cards.js"></script>
     <script defer src="assets/js/cart.js"></script>
     <script defer src="assets/js/ui.js?v=20260115"></script>
     <script defer src="assets/js/pwa.js"></script>
