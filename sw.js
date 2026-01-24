@@ -1,4 +1,4 @@
-const CACHE_VERSION = "v1";
+const CACHE_VERSION = "v2";
 const STATIC_CACHE = `static-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
@@ -26,9 +26,14 @@ const PRECACHE_URLS = [
   "assets/js/pwa.js",
   "assets/data/featured-products.json",
   "assets/data/offers.json",
-  "assets/img/logonuevo.png",
+  "assets/img/logonuevo.webp",
   "assets/img/noise.svg",
   "assets/img/icon.svg",
+  "assets/img/imagen2.webp",
+  "assets/img/producto%20destacado%20uno.webp",
+  "assets/img/publicidad5.webp",
+  "assets/img/publicidad6.webp",
+  "assets/img/publicidad7.webp",
   "manifest.webmanifest"
 ];
 

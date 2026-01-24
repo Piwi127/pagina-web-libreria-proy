@@ -32,7 +32,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Acuarela%20Faber%20Castell%20Estuche%20X%2012%20Und.jpg",
+    "image": "assets/img/Acuarela%20Faber%20Castell%20Estuche%20X%2012%20Und.webp",
     "gallery": []
   },
   "acuarela-ove-grande-x-8-colores": {
@@ -67,7 +67,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Acuarela%20Ove%20Grande%20X%208%20Colores.jpg",
+    "image": "assets/img/Acuarela%20Ove%20Grande%20X%208%20Colores.webp",
     "gallery": []
   },
   "acuarelas-artesco-12-colores": {
@@ -102,7 +102,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Acuarelas%20Artesco%2012%20Colores.jpg",
+    "image": "assets/img/Acuarelas%20Artesco%2012%20Colores.webp",
     "gallery": []
   },
   "alfileres-artesco-28-mm-caja-x-50-gr": {
@@ -137,7 +137,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Alfileres%20Artesco%2028%20Mm%20Caja%20X%2050%20Gr.jpg",
+    "image": "assets/img/Alfileres%20Artesco%2028%20Mm%20Caja%20X%2050%20Gr.webp",
     "gallery": []
   },
   "archivador-plastificado-ove-a4-negro-con-lomo-ancho": {
@@ -172,7 +172,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Archivador%20Plastificado%20Ove%20A4%20Negro%20Con%20Lomo%20Ancho.jpg",
+    "image": "assets/img/Archivador%20Plastificado%20Ove%20A4%20Negro%20Con%20Lomo%20Ancho.webp",
     "gallery": []
   },
   "block-cuadriculado-justus-a4-5-perforaciones-50-hojas": {
@@ -207,7 +207,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Block%20Cuadriculado%20Justus%20A4%205%20Perforaciones%2050%20Hojas.jpg",
+    "image": "assets/img/Block%20Cuadriculado%20Justus%20A4%205%20Perforaciones%2050%20Hojas.webp",
     "gallery": []
   },
   "block-de-dibujo-anillado-20h-justus": {
@@ -242,7 +242,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Block%20De%20Dibujo%20Anillado%2020H%20Justus.jpg",
+    "image": "assets/img/Block%20De%20Dibujo%20Anillado%2020H%20Justus.webp",
     "gallery": []
   },
   "block-de-dibujo-empastado-ove-24-x-31-5-cm-20-hojas": {
@@ -277,7 +277,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Block%20De%20Dibujo%20Empastado%20Ove%2024%20X%2031.5%20Cm%2020%20Hojas.jpg",
+    "image": "assets/img/Block%20De%20Dibujo%20Empastado%20Ove%2024%20X%2031.5%20Cm%2020%20Hojas.webp",
     "gallery": []
   },
   "block-escolar-80h-period-cuadr-libra": {
@@ -312,7 +312,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Block%20De%20Papel%20Bond%20Cuadriculado%20Libra%2056%20G%2080%20Hojas.jpg",
+    "image": "assets/img/Block%20De%20Papel%20Bond%20Cuadriculado%20Libra%2056%20G%2080%20Hojas.webp",
     "gallery": []
   },
   "Bolígrafo-faber-castell-060-azul": {
@@ -347,7 +347,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Azul.jpg",
+    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Azul.webp",
     "gallery": []
   },
   "Bolígrafo-faber-castell-060-negro": {
@@ -382,7 +382,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Negro.jpg",
+    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Negro.webp",
     "gallery": []
   },
   "Bolígrafo-faber-castell-060-rojo": {
@@ -417,7 +417,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Rojo.jpg",
+    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Rojo.webp",
     "gallery": []
   },
   "Bolígrafo-faber-castell-trilux-031-punta-fina-azul-x-1-und": {
