@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Libreria Belen - Detalle de producto</title>
+    <title>Librería Belén - Detalle de producto</title>
     <meta
       name="description"
-      content="Detalle de producto con informacion, variantes y compras por WhatsApp."
+      content="Detalle de producto con información, variantes y compras por WhatsApp."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -20,35 +20,22 @@
     <meta name="theme-color" content="#0D615A" />
     <link rel="apple-touch-icon" href="assets/img/icon.svg" />
   </head>
-  <body class="maintenance">
-  <div class="maintenance-overlay" role="dialog" aria-modal="true" aria-live="polite">
-    <video class="maintenance-video" autoplay muted loop playsinline>
-      <source src="assets/video/video-pagina-en-mantenimiento.mp4" type="video/mp4" />
-      Tu navegador no soporta el video de mantenimiento.
-    </video>
-    <div class="maintenance-scrim" aria-hidden="true"></div>
-    <div class="maintenance-content">
-      <img class="maintenance-logo" src="assets/img/logonuevo.webp" alt="Libreria Belen" />
-      <h1>Estamos en mantenimiento</h1>
-      <p>Volvemos pronto. Mientras tanto, puedes escribirnos por WhatsApp.</p>
-      <a class="btn-primary" href="https://wa.me/51947872207" target="_blank" rel="noopener">Contactar por WhatsApp</a>
-    </div>
-  </div>
-    <header class="hero hero-small">
+  <body>
+<header class="hero hero-small">
       <div class="topbar">
         <div class="brand">
-          <img src="assets/img/logonuevo.webp" alt="Libreria Belen" />
+          <img src="assets/img/logonuevo.webp" alt="Librería Belén" />
         </div>
-        <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="primary-menu">Menu</button>
-        <nav class="menu" id="primary-menu" aria-label="Menu principal">
+        <button class="menu-toggle" type="button" aria-label="Abrir men?" aria-expanded="false" aria-controls="primary-menu">Men?</button>
+        <nav class="menu" id="primary-menu" aria-label="Men? principal">
           <a href="index.html">Inicio</a>
-          <a href="catalogo.html">Catalogo</a>
+          <a href="catalogo.html">Catálogo</a>
           <a href="ofertas.html">Ofertas</a>
           <a href="contacto.html">Contacto</a>
           <details class="menu-dropdown">
             <summary>Trabajos</summary>
             <div class="dropdown">
-              <a href="redaccion.html">Redaccion de documentos</a>
+              <a href="redaccion.html">Redacción de documentos</a>
               <a href="trabajos.html">Trabajos e investigaciones</a>
               <a href="otros-trabajos.html">Otros trabajos</a>
             </div>
@@ -78,7 +65,7 @@
           <h2 id="detail-title">Producto</h2>
           <div class="detail-rating" id="detail-rating">Rating 0.0</div>
           <p id="detail-description">
-            Descripcion completa del producto.
+            Descripción completa del producto.
           </p>
           <p id="detail-synopsis" class="detail-synopsis" hidden></p>
           <dl class="detail-specs" id="detail-specs"></dl>
@@ -109,18 +96,18 @@
         </div>
       </section>
       <section class="detail-reviews">
-        <h3>Resenas de clientes</h3>
+        <h3>Reseñas de clientes</h3>
         <div id="detail-reviews"></div>
       </section>
     </main>
     <footer class="site-footer">
       <div>
-        <h4>Libreria Belen</h4>
+        <h4>Librería Belén</h4>
         <p>Especialistas en lectura, estudio y regalos.</p>
         <p>Horario: Lun - Sab, 9:00 a 19:00</p>
       </div>
       <div>
-        <h4>Metodos de pago</h4>
+        <h4>Métodos de pago</h4>
         <p>Tarjetas, transferencia y efectivo.</p>
       </div>
       <div>
@@ -146,17 +133,17 @@
           </button>
         </div>
         <form class="checkout" id="checkout-form" hidden>
-          <h4>Datos para envio</h4>
+          <h4>Datos para envío</h4>
           <label>
             Nombre completo
             <input type="text" id="customer-name" required />
           </label>
           <label>
-            Direccion
+            Dirección
             <input type="text" id="customer-address" required />
           </label>
           <label>
-            Telefono
+            Teléfono
             <input type="tel" id="customer-phone" required />
           </label>
           <label>
@@ -191,7 +178,7 @@
     </aside>
     <a
       class="whatsapp-float"
-      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informacion%20sobre%20un%20producto."
+      href="https://wa.me/51947872207?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20un%20producto."
       target="_blank"
       rel="noopener"
       aria-label="Contactar por WhatsApp"
@@ -214,7 +201,7 @@
       if (!product) {
         const main = document.querySelector("main");
         if (main) {
-          main.innerHTML = `<p class="no-results">Producto no encontrado. <a href="catalogo.html">Volver al catalogo</a>.</p>`;
+          main.innerHTML = `<p class="no-results">Producto no encontrado. <a href="catalogo.html">Volver al catálogo</a>.</p>`;
         }
         console.warn("Producto no encontrado para id", requestedId);
         return;
@@ -255,7 +242,7 @@
       stock.className = merged.stock <= 3 ? "detail-stock low" : "detail-stock";
       tag.textContent = merged.tag === "oferta" ? "Oferta" : "Nuevo";
       tag.className = merged.tag === "oferta" ? "detail-tag sale" : "detail-tag";
-      document.title = `${merged.title} - Libreria Belen`;
+      document.title = `${merged.title} - Librería Belén`;
       const metaDescription = document.querySelector('meta[name="description"]');
       if (metaDescription) {
         metaDescription.content = `${merged.title}. ${merged.description}`;
@@ -311,7 +298,7 @@
         if (color) variantParts.push(`Color: ${color}`);
         if (size) variantParts.push(`Tamano: ${size}`);
         const lines = [
-          `Hola, quiero informacion sobre: ${merged.title}`,
+          `Hola, quiero información sobre: ${merged.title}`,
           `Precio: ${displayPrice}`,
           variantParts.length ? `Variante: ${variantParts.join(" | ")}` : "",
           `Link: ${window.location.href}`,
@@ -412,7 +399,7 @@
           "sku": merged.isbn || productId,
           "brand": {
             "@type": "Brand",
-            "name": merged.publisher || "Libreria Belen"
+            "name": merged.publisher || "Librería Belén"
           },
           "offers": {
             "@type": "Offer",
