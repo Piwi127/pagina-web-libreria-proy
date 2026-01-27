@@ -102,8 +102,9 @@
         </div>
       </section>
       <section class="detail-reviews">
-        <h3>Reseñas de clientes</h3>
-        <div id="detail-reviews"></div>
+        <h3>Descripción y uso</h3>
+        <p class="detail-usage-text" id="detail-usage-text"></p>
+        <div id="detail-usage-list"></div>
       </section>
     </main>
     <footer class="site-footer">
@@ -231,7 +232,8 @@
       const tag = document.getElementById("detail-tag");
       const colorSelect = document.getElementById("detail-color");
       const sizeSelect = document.getElementById("detail-size");
-      const reviews = document.getElementById("detail-reviews");
+      const usageText = document.getElementById("detail-usage-text");
+      const usageList = document.getElementById("detail-usage-list");
 
       image.src = merged.image;
       image.alt = merged.title;
@@ -335,14 +337,17 @@
       }
       updateVariant();
 
-      if (reviews) {
-        reviews.innerHTML = "";
-        if (Array.isArray(merged.reviews)) {
-          merged.reviews.forEach((review) => {
+      if (usageText) {
+        usageText.textContent = merged.longDescription || merged.description || "";
+      }
+      if (usageList) {
+        usageList.innerHTML = "";
+        if (Array.isArray(merged.usage)) {
+          merged.usage.forEach((item) => {
             const card = document.createElement("div");
             card.className = "review-card";
-            card.innerHTML = `<strong>${review.name}</strong><p>${review.text}</p>`;
-            reviews.appendChild(card);
+            card.innerHTML = `<p>${item}</p>`;
+            usageList.appendChild(card);
           });
         }
       }

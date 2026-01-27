@@ -1754,6 +1754,12 @@ textarea:focus-visible {
   margin: 0 0 16px;
 }
 
+.detail-usage-text {
+  margin: 0 0 16px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
 .review-card {
   background: #fffaf4;
   padding: 14px 16px;
