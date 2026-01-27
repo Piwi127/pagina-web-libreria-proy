@@ -1,5 +1,15 @@
 (() => {
   document.documentElement.classList.add("js");
+  // Disable right-click and image drag across the site (deterrent only).
+  document.addEventListener("contextmenu", (event) => {
+    event.preventDefault();
+  });
+  document.addEventListener("dragstart", (event) => {
+    const target = event.target;
+    if (target && target.tagName === "IMG") {
+      event.preventDefault();
+    }
+  });
   const prefersReduced = window.matchMedia("(prefers-reduced-motion: reduce)");
   const heroPlay = document.querySelector(".hero-play");
   const modal = document.getElementById("promo-modal");
@@ -190,69 +200,11 @@
     imageModalImg.alt = "";
   };
 
-  const modalKey = "promo-modal-last";
-  const toastKey = "promo-toast-seen";
-  const sessionExitKey = "promo-exit-seen";
-
-  const canShowModal = () => {
-    const last = Number(localStorage.getItem(modalKey) || "0");
-    const now = Date.now();
-    return now - last > 48 * 60 * 60 * 1000;
-  };
-
   const scheduleModal = () => {
-    if (!modal || prefersReduced.matches || !canShowModal()) return;
-    let shown = false;
-    const timer = setTimeout(() => {
-      if (shown) return;
-      shown = true;
-      try {
-        localStorage.setItem(modalKey, String(Date.now()));
-      } catch (error) {
-        console.warn("No se pudo guardar estado del modal", error);
-      }
-      openModal();
-    }, 9000);
-
-    const onScroll = () => {
-      if (shown) return;
-      const scrollPct =
-        (window.scrollY / (document.body.scrollHeight - window.innerHeight)) *
-        100;
-      if (scrollPct > 40) {
-        shown = true;
-        try {
-          localStorage.setItem(modalKey, String(Date.now()));
-        } catch (error) {
-          console.warn("No se pudo guardar estado del modal", error);
-        }
-        openModal();
-        window.removeEventListener("scroll", onScroll);
-        clearTimeout(timer);
-      }
-    };
-    window.addEventListener("scroll", onScroll);
-  };
-
-  const scheduleToast = () => {
-    if (!toast || sessionStorage.getItem(toastKey)) return;
+    if (!modal || prefersReduced.matches) return;
     setTimeout(() => {
-      showToast();
-      sessionStorage.setItem(toastKey, "1");
-    }, 6000);
-  };
-
-  const setupExitIntent = () => {
-    if (window.matchMedia("(pointer: fine)").matches === false) return;
-    if (!modal || sessionStorage.getItem(sessionExitKey)) return;
-    const onMouseLeave = (event) => {
-      if (event.clientY <= 0) {
-        sessionStorage.setItem(sessionExitKey, "1");
-        openModal();
-        document.removeEventListener("mouseleave", onMouseLeave);
-      }
-    };
-    document.addEventListener("mouseleave", onMouseLeave);
+      openModal();
+    }, 600);
   };
 
   const setupReveal = () => {
@@ -310,8 +262,6 @@
   setupParallax();
   setupMenuToggle();
   scheduleModal();
-  scheduleToast();
-  setupExitIntent();
 
   let playBound = false;
 

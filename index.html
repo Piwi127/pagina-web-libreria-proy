@@ -63,8 +63,8 @@
         <div class="brand">
           <img src="assets/img/logonuevo.webp" alt="Librería Belén" />
         </div>
-        <button class="menu-toggle" type="button" aria-label="Abrir men?" aria-expanded="false" aria-controls="primary-menu">Men?</button>
-        <nav class="menu" id="primary-menu" aria-label="Men? principal">
+        <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="primary-menu">Menú</button>
+        <nav class="menu" id="primary-menu" aria-label="Menú principal">
           <a href="index.html">Inicio</a>
           <a href="catalogo.html">Catálogo</a>
           <a href="ofertas.html">Ofertas</a>
@@ -147,7 +147,89 @@
           <a class="btn-ghost" href="catalogo.html">Ver catálogo</a>
         </div>
       </div>
+
     </header>
+
+    <div class="section-divider divider-mint" aria-hidden="true">
+      <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+        <path class="wave-fill" d="M0,48 C240,120 480,0 720,64 C960,128 1200,16 1440,80 L1440,120 L0,120 Z"></path>
+      </svg>
+    </div>
+
+    <section class="category-tiles reveal" id="categorias">
+      <div class="section-title">
+        <h2>Categorias destacadas</h2>
+        <span>Encuentra rapido lo que buscas</span>
+      </div>
+      <div class="category-grid">
+        <a class="category-tile tile-cuadernos" href="catalogo.html#product-grid">
+          <div class="category-tile-media">
+            <img
+              src="assets/img/Block%20De%20Dibujo%20Anillado%2020H%20Justus.webp"
+              alt="Cuadernos y blocks"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <div class="category-tile-body">
+            <h3>Cuadernos</h3>
+            <p>Blocks, anillados y empastados.</p>
+            <span class="category-cta">Ver productos</span>
+          </div>
+        </a>
+        <a class="category-tile tile-papeleria" href="catalogo.html#product-grid">
+          <div class="category-tile-media">
+            <img
+              src="assets/img/Acuarelas%20Artesco%2012%20Colores.webp"
+              alt="Papeleria y colores"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <div class="category-tile-body">
+            <h3>Papeleria</h3>
+            <p>Colores, lapiceros y utiles.</p>
+            <span class="category-cta">Explorar</span>
+          </div>
+        </a>
+        <a class="category-tile tile-regalos" href="catalogo.html#product-grid">
+          <div class="category-tile-media">
+            <img
+              src="assets/img/producto%20destacado%20uno.webp"
+              alt="Regalos y detalles"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <div class="category-tile-body">
+            <h3>Regalos</h3>
+            <p>Detalles con estilo para sorprender.</p>
+            <span class="category-cta">Ver ideas</span>
+          </div>
+        </a>
+        <a class="category-tile tile-redaccion" href="redaccion.html">
+          <div class="category-tile-media">
+            <img
+              src="assets/img/publicidad%20de%20trabajos%20de%20investigaci%C3%B3n.webp"
+              alt="Redaccion y trabajos"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+          <div class="category-tile-body">
+            <h3>Redaccion</h3>
+            <p>Documentos, revision y asesorias.</p>
+            <span class="category-cta">Ver servicios</span>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <div class="section-divider divider-cream" aria-hidden="true">
+      <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+        <path class="wave-fill" d="M0,96 C200,40 420,120 680,60 C940,0 1160,100 1440,40 L1440,120 L0,120 Z"></path>
+      </svg>
+    </div>
 
     <main class="catalog reveal">
       <div class="section-title">
@@ -173,6 +255,7 @@
               decoding="async"
             />
           </button>
+          <span class="price-sticker">S/ 29.90</span>
         </figure>
       </div>
       <section class="product-carousel reveal">
@@ -197,35 +280,32 @@
           <div class="product-swiper-meta" id="product-swiper-count" aria-live="polite"></div>
         </div>
       </section>
+
     </main>
+
+    <div class="section-divider divider-mint" aria-hidden="true">
+      <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+        <path class="wave-fill" d="M0,80 C220,40 420,120 720,64 C1020,8 1240,100 1440,52 L1440,120 L0,120 Z"></path>
+      </svg>
+    </div>
+
     <section class="campaigns reveal">
-      <div class="section-title">
-        <h2>Campañas escolares</h2>
-        <span>Regreso a clases con librería</span>
-      </div>
       <div class="campaign-card">
         <div>
-          <h3>Regreso a clases con Librería Belen</h3>
+          <h3>Regreso a clases con Librería Belén</h3>
           <p>Cuadernos, útiles y packs para volver al cole con todo.</p>
           <button class="btn-ghost">Ver campaña</button>
         </div>
       </div>
-      <div class="campaign-card alt">
-        <div>
-          <h3>Kit escolar esencial</h3>
-          <p>Combos de escritura, organización y lectura para el año escolar.</p>
-          <button class="btn-ghost">Descubrir</button>
-        </div>
-      </div>
     </section>
-    <section class="offers reveal" id="offers">
-      <div class="section-title">
-        <h2>Ofertas especiales</h2>
-        <span>Promociones limitadas</span>
-      </div>
-      <div class="offers-grid" id="offers-grid"></div>
-      <p class="no-results" id="offers-empty" hidden>Sin ofertas para mostrar.</p>
-    </section>
+
+    <div class="section-divider divider-peach" aria-hidden="true">
+      <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+        <path class="wave-fill" d="M0,60 C240,10 520,120 760,80 C1000,40 1200,110 1440,70 L1440,120 L0,120 Z"></path>
+      </svg>
+    </div>
+
+    
     <section class="contact reveal" id="contacto">
       <div class="section-title">
         <h2>Contacto</h2>
@@ -311,33 +391,24 @@
         <a href="#">TikTok</a>
       </div>
     </footer>
-    <div class="promo-toast" id="promo-toast" role="status" aria-live="polite">
-      <div>
-        <strong>Personaliza tu pedido</strong>
-        <p>Escríbenos y creamos algo unico para ti.</p>
-      </div>
-      <button type="button" data-toast-close aria-label="Cerrar">
-        ×
-      </button>
-    </div>
     <div
       class="promo-modal"
       id="promo-modal"
       role="dialog"
       aria-modal="true"
       aria-hidden="true"
-      aria-labelledby="promo-title"
+      aria-label="Anuncio principal"
     >
       <div class="promo-dialog">
         <button class="promo-close" type="button" aria-label="Cerrar">
           ×
         </button>
-        <h3 id="promo-title">15% en tu primera compra</h3>
-        <p>Usa el cupón PRIMERA15 y recibe envío rápido.</p>
-        <div class="promo-actions">
-          <button class="btn-primary">Aplicar cupon</button>
-          <button class="btn-ghost" data-promo-dismiss>No gracias</button>
-        </div>
+        <img
+          src="assets/img/producto destacado uno.png"
+          alt="Regreso a clases con Librería Belén"
+          loading="lazy"
+          decoding="async"
+        />
       </div>
     </div>
     <div
@@ -426,7 +497,6 @@
     </a>
     <script defer src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script defer src="assets/js/product-carousel.js"></script>
-    <script defer src="assets/js/render-offers.js"></script>
     <script defer src="assets/js/search-suggest.js"></script>
     <script defer src="assets/js/cart.js"></script>
     <script defer src="assets/js/cards.js"></script>

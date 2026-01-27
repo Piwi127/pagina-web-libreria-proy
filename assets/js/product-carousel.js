@@ -21,8 +21,12 @@
     card.dataset.stock = String(product.stock || 0);
     card.dataset.tag = product.tag || "";
 
-    const tagClass = product.tag === "oferta" ? "badge-sale" : "badge-new";
-    const tagText = product.tag === "oferta" ? "Oferta" : "Nuevo";
+    const ratingValue = Number(product.rating || 0);
+    const priceValue = Number(String(product.price || "").replace(/[^\d.]/g, ""));
+    const isOffer = product.tag === "oferta";
+    const isTop = ratingValue >= 4.5 && priceValue >= 8;
+    const tagClass = isOffer ? "badge-sale" : isTop ? "badge-top" : "badge-new";
+    const tagText = isOffer ? "Oferta" : isTop ? "Top" : "Nuevo";
     const stockText = product.stock <= 3 ? "Stock bajo" : "En stock";
     const stockClass = product.stock <= 3 ? "stock low" : "stock";
 
@@ -30,11 +34,21 @@
     badge.className = `badge ${tagClass}`;
     badge.textContent = tagText;
 
+    const imageWrap = document.createElement("div");
+    imageWrap.className = "image-frame";
     const image = document.createElement("img");
+    image.className = "product-image";
     image.src = product.image;
     image.alt = product.title;
     image.loading = "lazy";
     image.decoding = "async";
+    const logo = document.createElement("img");
+    logo.className = "image-logo";
+    logo.src = "assets/img/logonuevo.png";
+    logo.alt = "Librería Belén";
+    logo.loading = "lazy";
+    logo.decoding = "async";
+    imageWrap.append(image, logo);
 
     const quickView = document.createElement("span");
     quickView.className = "quick-view";
@@ -59,12 +73,12 @@
     priceRow.className = "price-row";
     const price = document.createElement("span");
     price.className = "price";
-    price.textContent = "Muy pronto";
+    price.textContent = "PROXIMAMENTE";
     priceRow.append(price);
 
     card.append(
       badge,
-      image,
+      imageWrap,
       quickView,
       title,
       description,

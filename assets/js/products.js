@@ -32,7 +32,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Acuarela%20Faber%20Castell%20Estuche%20X%2012%20Und.webp",
+    "image": "assets/img/products/acuarela-faber-castell-estuche-x-12-und.jpg",
     "gallery": []
   },
   "acuarela-ove-grande-x-8-colores": {
@@ -67,7 +67,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Acuarela%20Ove%20Grande%20X%208%20Colores.webp",
+    "image": "assets/img/products/acuarela-ove-grande-x-8-colores.jpg",
     "gallery": []
   },
   "acuarelas-artesco-12-colores": {
@@ -102,7 +102,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Acuarelas%20Artesco%2012%20Colores.webp",
+    "image": "assets/img/products/acuarelas-artesco-12-colores.jpg",
     "gallery": []
   },
   "alfileres-artesco-28-mm-caja-x-50-gr": {
@@ -137,7 +137,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Alfileres%20Artesco%2028%20Mm%20Caja%20X%2050%20Gr.webp",
+    "image": "assets/img/products/alfileres-artesco-28-mm-caja-x-50-gr.jpg",
     "gallery": []
   },
   "archivador-plastificado-ove-a4-negro-con-lomo-ancho": {
@@ -172,7 +172,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Archivador%20Plastificado%20Ove%20A4%20Negro%20Con%20Lomo%20Ancho.webp",
+    "image": "assets/img/products/archivador-plastificado-ove-a4-negro-con-lomo-ancho.jpg",
     "gallery": []
   },
   "block-cuadriculado-justus-a4-5-perforaciones-50-hojas": {
@@ -207,7 +207,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Block%20Cuadriculado%20Justus%20A4%205%20Perforaciones%2050%20Hojas.webp",
+    "image": "assets/img/products/block-cuadriculado-justus-a4-5-perforaciones-50-hojas.jpg",
     "gallery": []
   },
   "block-de-dibujo-anillado-20h-justus": {
@@ -277,11 +277,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Block%20De%20Dibujo%20Empastado%20Ove%2024%20X%2031.5%20Cm%2020%20Hojas.webp",
+    "image": "assets/img/products/block-de-dibujo-empastado-ove-24-x-31-5-cm-20-hojas.jpg",
     "gallery": []
   },
   "block-escolar-80h-period-cuadr-libra": {
-    "title": "Block De Papel Bond Cuadriculado Libra 56 G 80 Hojas",
+    "title": "Block Escolar 80H Period Cuadr Libra",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.18",
@@ -312,7 +312,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Block%20De%20Papel%20Bond%20Cuadriculado%20Libra%2056%20G%2080%20Hojas.webp",
+    "image": "assets/img/products/block-escolar-80h-period-cuadr-libra.jpg",
     "gallery": []
   },
   "Bolígrafo-faber-castell-060-azul": {
@@ -347,11 +347,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Azul.webp",
+    "image": "assets/img/products/Bolígrafo-faber-castell-060-azul.jpg",
     "gallery": []
   },
   "Bolígrafo-faber-castell-060-negro": {
-    "title": "Bolígrafo Faber Castell 060 Negro",
+    "title": "Bolígrafo Faber Castell 032-M Trilux Verde",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.87",
@@ -382,7 +382,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Negro.webp",
+    "image": "assets/img/products/Bolígrafo-faber-castell-060-negro.jpg",
     "gallery": []
   },
   "Bolígrafo-faber-castell-060-rojo": {
@@ -417,11 +417,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "assets/img/Bol%C3%ADgrafo%20Faber%20Castell%20060%20Rojo.webp",
+    "image": "assets/img/products/Bolígrafo-faber-castell-060-rojo.jpg",
     "gallery": []
   },
   "Bolígrafo-faber-castell-trilux-031-punta-fina-azul-x-1-und": {
-    "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Azul X 1 Und",
+    "title": "Bolígrafo Faber Castell 032-M Trilux Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.42",
@@ -452,11 +452,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-faber-castell-trilux-031-punta-fina-azul-x-1-und.jpg",
     "gallery": []
   },
   "Bolígrafo-faber-castell-trilux-031-punta-fina-negro-x-1-und": {
-    "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Negro X 1 Und",
+    "title": "Bolígrafo Faber Castell 032-M Trilux Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.42",
@@ -487,11 +487,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-faber-castell-trilux-031-punta-fina-negro-x-1-und.jpg",
     "gallery": []
   },
   "Bolígrafo-faber-castell-trilux-031-punta-fina-rojo-x-1-und": {
-    "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Rojo X 1 Und",
+    "title": "Bolígrafo Faber Castell 032-M Trilux Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.42",
@@ -522,11 +522,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-faber-castell-trilux-031-punta-fina-rojo-x-1-und.jpg",
     "gallery": []
   },
   "Bolígrafo-pilot-bp-sf-punta-fina-azul-x-1-und": {
-    "title": "Bolígrafo Pilot Bp-Sf Punta Fina Azul X 1 Und",
+    "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Azul X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.14",
@@ -557,7 +557,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-pilot-bp-sf-punta-fina-azul-x-1-und.jpg",
     "gallery": []
   },
   "Bolígrafo-pilot-bp-sf-punta-fina-negro-x-1-und": {
@@ -592,11 +592,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-pilot-bp-sf-punta-fina-negro-x-1-und.jpg",
     "gallery": []
   },
   "Bolígrafo-pilot-bp-sf-punta-fina-rojo-x-1-und": {
-    "title": "Bolígrafo Pilot Bp-Sf Punta Fina Rojo X 1 Und",
+    "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Azul X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.14",
@@ -627,11 +627,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-pilot-bp-sf-punta-fina-rojo-x-1-und.jpg",
     "gallery": []
   },
   "Bolígrafo-pilot-bp-sf-punta-fina-verde-x-1-und": {
-    "title": "Bolígrafo Pilot Bp-Sf Punta Fina Verde X 1 Und",
+    "title": "Bolígrafo 034 - Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.14",
@@ -662,11 +662,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-pilot-bp-sf-punta-fina-verde-x-1-und.jpg",
     "gallery": []
   },
   "Bolígrafo-stabilo-marathon-azul-retractil": {
-    "title": "Bolígrafo Stabilo Marathon Azul RetrActil",
+    "title": "Bolígrafo Stabilo Marathon Azul Retráctil",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.31",
@@ -697,11 +697,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-stabilo-marathon-azul-retractil.jpg",
     "gallery": []
   },
   "Bolígrafo-stabilo-marathon-negro-retractil": {
-    "title": "Bolígrafo Stabilo Marathon Negro RetrActil",
+    "title": "Bolígrafo Stabilo Marathon Negro Retráctil",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.31",
@@ -732,11 +732,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-stabilo-marathon-negro-retractil.jpg",
     "gallery": []
   },
   "Bolígrafo-stabilo-marathon-rojo-retractil": {
-    "title": "Bolígrafo Stabilo Marathon Rojo RetrActil",
+    "title": "Bolígrafo Stabilo Marathon Rojo Retráctil",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.31",
@@ -767,7 +767,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/Bolígrafo-stabilo-marathon-rojo-retractil.jpg",
     "gallery": []
   },
   "borrador-artesco-chico-blanco": {
@@ -802,11 +802,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/borrador-artesco-chico-blanco.jpg",
     "gallery": []
   },
   "borrador-brocha-retractil-ice-caja-x24-artesco": {
-    "title": "Borrador Brocha RetrActil Ice Caja X24 Artesco",
+    "title": "Borrador Artesco Grande Blanco",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.85",
@@ -837,11 +837,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/borrador-brocha-retractil-ice-caja-x24-artesco.jpg",
     "gallery": []
   },
   "cartulina-canson-150g-verde-amazonas": {
-    "title": "Cartulina Canson 150G Verde Amazonas",
+    "title": "Cartulina Canson 150G Verde Manzana",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.88",
@@ -872,11 +872,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-canson-150g-verde-amazonas.jpg",
     "gallery": []
   },
   "cartulina-colorline-azul-mar-150": {
-    "title": "Cartulina Colorline Azul Mar 150",
+    "title": "Cartulina Colorline Azul Mar 150 G",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.88",
@@ -907,7 +907,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-colorline-azul-mar-150.jpg",
     "gallery": []
   },
   "cartulina-colorline-fucsia-150-g": {
@@ -942,11 +942,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-colorline-fucsia-150-g.jpg",
     "gallery": []
   },
-  "cartulina-colorline-marra3n-150-g": {
-    "title": "Cartulina Colorline MarrA3n 150 G",
+  "cartulina-colorline-marron-150-g": {
+    "title": "Cartulina Colorline Marrón 150 G",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.88",
@@ -977,7 +977,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-colorline-marron-150-g.jpg",
     "gallery": []
   },
   "cartulina-colorline-rojo-tomate-150-g": {
@@ -1012,11 +1012,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-colorline-rojo-tomate-150-g.jpg",
     "gallery": []
   },
   "cartulina-escolar-amarillo-intenso-150-gr-50-x-65-cm": {
-    "title": "Cartulina Escolar Amarillo Intenso 150 Gr 50 X 65 Cm",
+    "title": "Cartulina Canson 150G Amarillo Limo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.52",
@@ -1047,7 +1047,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-escolar-amarillo-intenso-150-gr-50-x-65-cm.jpg",
     "gallery": []
   },
   "cartulina-escolar-amarillo-pastel-135-140-g": {
@@ -1082,7 +1082,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-escolar-amarillo-pastel-135-140-g.jpg",
     "gallery": []
   },
   "cartulina-escolar-blanco-140-g": {
@@ -1117,7 +1117,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-escolar-blanco-140-g.jpg",
     "gallery": []
   },
   "cartulina-escolar-celeste-pastel-135-140-g": {
@@ -1152,7 +1152,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-escolar-celeste-pastel-135-140-g.jpg",
     "gallery": []
   },
   "cartulina-escolar-naranja-150-gr-50-x-65-cm": {
@@ -1187,7 +1187,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-escolar-naranja-150-gr-50-x-65-cm.jpg",
     "gallery": []
   },
   "cartulina-escolar-rosado-pastel-135-140-g": {
@@ -1222,7 +1222,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-escolar-rosado-pastel-135-140-g.jpg",
     "gallery": []
   },
   "cartulina-escolar-verde-pastel-135-140-g": {
@@ -1257,7 +1257,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-escolar-verde-pastel-135-140-g.jpg",
     "gallery": []
   },
   "cartulina-negro-chica-50-x-65-cm": {
@@ -1292,11 +1292,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cartulina-negro-chica-50-x-65-cm.jpg",
     "gallery": []
   },
   "cinta-de-embalaje-yimi-2-x70-yd-transparente": {
-    "title": "Cinta De Embalaje Yimi 2''X70 Yd Transparente",
+    "title": "Cinta De Embalaje Pegafan Transparente 2'' X 110 Yd (Eco)",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.33",
@@ -1327,7 +1327,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cinta-de-embalaje-yimi-2-x70-yd-transparente.jpg",
     "gallery": []
   },
   "cola-artesco-con-aplicador-250-g": {
@@ -1362,7 +1362,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-artesco-con-aplicador-250-g.jpg",
     "gallery": []
   },
   "cola-artesco-con-aplicador-57-g": {
@@ -1397,7 +1397,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-artesco-con-aplicador-57-g.jpg",
     "gallery": []
   },
   "cola-faber-castell-pega-bien-x110g": {
@@ -1432,7 +1432,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-faber-castell-pega-bien-x110g.jpg",
     "gallery": []
   },
   "cola-faber-castell-pegabien-con-aplicador-250-gr": {
@@ -1467,7 +1467,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-faber-castell-pegabien-con-aplicador-250-gr.jpg",
     "gallery": []
   },
   "cola-x-1-2-kg-david": {
@@ -1502,7 +1502,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-x-1-2-kg-david.png",
     "gallery": []
   },
   "cola-x-23-cc-david": {
@@ -1537,7 +1537,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-x-23-cc-david.jpg",
     "gallery": []
   },
   "cola-x-250-gr-pote-layconsa": {
@@ -1572,11 +1572,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-x-250-gr-pote-layconsa.jpg",
     "gallery": []
   },
   "cola-x-35-gr-faber-castell-pegabien": {
-    "title": "Cola X 35 Gr Faber Castell Pegabien",
+    "title": "Cola X 35 Gr Faber Castell Pegabien   379635",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.85",
@@ -1607,7 +1607,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-x-35-gr-faber-castell-pegabien.jpg",
     "gallery": []
   },
   "cola-x-60-cc-david": {
@@ -1642,11 +1642,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cola-x-60-cc-david.jpg",
     "gallery": []
   },
   "colores-largos-artesco-triangulares-lapices-sacapuntas-x-12-und": {
-    "title": "Colores Largos Artesco Triangulares + LApices + Sacapuntas X 12 Und",
+    "title": "Colores Largos Artesco Triangulares + Lápices + Sacapuntas X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 5.15",
@@ -1677,7 +1677,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/colores-largos-artesco-triangulares-lapices-sacapuntas-x-12-und.jpg",
     "gallery": []
   },
   "colores-largos-faber-castell-triangulares-clasicos-x-12-und": {
@@ -1712,7 +1712,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/colores-largos-faber-castell-triangulares-clasicos-x-12-und.jpeg",
     "gallery": []
   },
   "cuaderno-cuadriculado-justus": {
@@ -1747,7 +1747,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-cuadriculado-justus.webp",
     "gallery": []
   },
   "cuaderno-cuadriculado-luxor": {
@@ -1782,11 +1782,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-cuadriculado-luxor.jpg",
     "gallery": []
   },
   "compas-escolar-layconsa-plastico-con-lapiz": {
-    "title": "Compas Escolar Layconsa Plastico Con Lapiz",
+    "title": "Compás De Plástico Artesco Con Lápiz",
     "short": "Escritura comoda para tareas y apuntes.",
     "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
     "price": "S/ 1.69",
@@ -1817,7 +1817,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/compas-escolar-layconsa-plastico-con-lapiz.jpg",
     "gallery": []
   },
   "corrector-mini-4ml": {
@@ -1852,11 +1852,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/corrector-mini-4ml.jpg",
     "gallery": []
   },
   "corrector-tipo-lapicero-artesco-punta-metalica": {
-    "title": "Corrector Tipo Lapicero Artesco Punta MetAlica",
+    "title": "Corrector Tipo Lapicero Artesco Punta Metálica",
     "short": "Escritura fluida para estudio y oficina.",
     "description": "Escritura fluida para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.06",
@@ -1887,11 +1887,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/corrector-tipo-lapicero-artesco-punta-metalica.jpg",
     "gallery": []
   },
   "corrector-tipo-lapicero-faber-castell-punta-metalica": {
-    "title": "Corrector Tipo Lapicero Faber Castell Punta MetAlica",
+    "title": "Corrector Tipo Lapicero Faber Castell Punta Metálica",
     "short": "Escritura fluida para estudio y oficina.",
     "description": "Escritura fluida para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.14",
@@ -1922,11 +1922,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/corrector-tipo-lapicero-faber-castell-punta-metalica.jpg",
     "gallery": []
   },
   "crayones-jumbo-artesco-estuche-de-plastico-x-12-und": {
-    "title": "Crayones Jumbo Artesco Estuche De PlAstico X 12 Und",
+    "title": "Crayones Delgados X 12 Und. Puppy",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 4.77",
@@ -1957,7 +1957,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/crayones-jumbo-artesco-estuche-de-plastico-x-12-und.jpg",
     "gallery": []
   },
   "cuaderno-cuadriculado-standford": {
@@ -1992,7 +1992,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-cuadriculado-standford.png",
     "gallery": []
   },
   "cuaderno-cuadriculado-a5-chico-justus": {
@@ -2027,7 +2027,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-cuadriculado-a5-chico-justus.jpg",
     "gallery": []
   },
   "cuaderno-cuadrimax-1x1-standford": {
@@ -2062,7 +2062,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-cuadrimax-1x1-standford.png",
     "gallery": []
   },
   "cuaderno-cuadrimax-2x2-standford": {
@@ -2097,7 +2097,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-cuadrimax-2x2-standford.jpg",
     "gallery": []
   },
   "cuaderno-rayado-justus": {
@@ -2132,7 +2132,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-rayado-justus.webp",
     "gallery": []
   },
   "cuaderno-rayado-luxor": {
@@ -2167,7 +2167,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-rayado-luxor.jpg",
     "gallery": []
   },
   "cuaderno-rayado-standford": {
@@ -2202,7 +2202,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-rayado-standford.jpeg",
     "gallery": []
   },
   "cuaderno-rayado-a5-chico-justus": {
@@ -2237,7 +2237,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-rayado-a5-chico-justus.jpg",
     "gallery": []
   },
   "cuaderno-triple-kids-con-sombra-alpha": {
@@ -2272,11 +2272,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-triple-kids-con-sombra-alpha.jpg",
     "gallery": []
   },
-  "cuaderno-triple-rengla3n-con-sombra-justus": {
-    "title": "Cuaderno Triple RenglA3n con Sombra - Justus",
+  "cuaderno-triple-renglon-con-sombra-justus": {
+    "title": "Cuaderno Triple Renglón con Sombra - Justus",
     "short": "Ideal para apuntes y organizacion diaria.",
     "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
     "price": "S/ 3.50",
@@ -2307,11 +2307,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-triple-renglon-con-sombra-justus.jpg",
     "gallery": []
   },
-  "cuaderno-triple-rengla3n-con-sombra-standford": {
-    "title": "Cuaderno Triple RenglA3n con Sombra - Standford",
+  "cuaderno-triple-renglon-con-sombra-standford": {
+    "title": "Cuaderno Triple Renglón con Sombra - Standford",
     "short": "Ideal para apuntes y organizacion diaria.",
     "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
     "price": "S/ 5.60",
@@ -2342,7 +2342,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/cuaderno-triple-renglon-con-sombra-standford.jpeg",
     "gallery": []
   },
   "engrapador-artesco-m-526-azul-25-hojas-con-sacagrapas": {
@@ -2377,7 +2377,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/engrapador-artesco-m-526-azul-25-hojas-con-sacagrapas.jpg",
     "gallery": []
   },
   "engrapador-ove-25-hojas-con-sacagrapas": {
@@ -2412,7 +2412,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/engrapador-ove-25-hojas-con-sacagrapas.jpg",
     "gallery": []
   },
   "folder-a-4-tapa-transparente-colores-surtidos": {
@@ -2447,11 +2447,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/folder-a-4-tapa-transparente-colores-surtidos.jpg",
     "gallery": []
   },
   "folder-artesco-a4-doble-tapa-con-gusano": {
-    "title": "Folder Artesco A4 Doble Tapa Con Gusano",
+    "title": "Folder Artesco A4 Amarillo Doble Tapa Con Gusano",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 4.61",
@@ -2482,11 +2482,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/folder-artesco-a4-doble-tapa-con-gusano.jpg",
     "gallery": []
   },
   "folder-artesco-duramax-fantasaa-a4-con-fastener-surtido": {
-    "title": "Folder Artesco Duramax FantasAa A4 Con Fastener Surtido",
+    "title": "Folder Artesco Duramax Fantasía A4 Con Fastener Surtido",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 3.65",
@@ -2517,7 +2517,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/folder-artesco-duramax-fantasaa-a4-con-fastener-surtido.jpg",
     "gallery": []
   },
   "forro-vinifan-a4-cristal": {
@@ -2552,7 +2552,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/forro-vinifan-a4-cristal.jpeg",
     "gallery": []
   },
   "forro-vinifan-oficio-cristal": {
@@ -2587,7 +2587,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/forro-vinifan-oficio-cristal.png",
     "gallery": []
   },
   "forro-vinifan-vinifancito-a4-cristal": {
@@ -2622,7 +2622,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/forro-vinifan-vinifancito-a4-cristal.jpeg",
     "gallery": []
   },
   "goma-en-barra-artesco-21-g": {
@@ -2657,7 +2657,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/goma-en-barra-artesco-21-g.jpg",
     "gallery": []
   },
   "goma-en-barra-artesco-40-g": {
@@ -2692,11 +2692,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/goma-en-barra-artesco-40-g.jpg",
     "gallery": []
   },
-  "goma-en-barra-artesco-nea3n-21-g": {
-    "title": "Goma En Barra Artesco NeA3n 21 G",
+  "goma-en-barra-artesco-neon-21-g": {
+    "title": "Goma En Barra Artesco Neón 21 G",
     "short": "Borrado limpio para el estudio.",
     "description": "Borrado limpio para el estudio. Disponible en Libreria Belen.",
     "price": "S/ 2.02",
@@ -2727,7 +2727,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/goma-en-barra-artesco-neon-21-g.jpg",
     "gallery": []
   },
   "goma-en-barra-faber-castell-40-g": {
@@ -2762,7 +2762,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/goma-en-barra-faber-castell-40-g.jpg",
     "gallery": []
   },
   "goma-en-barra-faber-castell-fix-21-g": {
@@ -2797,7 +2797,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/goma-en-barra-faber-castell-fix-21-g.jpg",
     "gallery": []
   },
   "grapas-26-6-x-5000-und-artesco": {
@@ -2832,11 +2832,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/grapas-26-6-x-5000-und-artesco.jpg",
     "gallery": []
   },
   "lapiz-2b-grafito-artesco-con-borrador-caja-x-12-un": {
-    "title": "LApiz 2B Grafito Artesco Con Borrador Caja X 12 Un",
+    "title": "Lápiz 2B Grafito Artesco Con Borrador Caja X 12 Und",
     "short": "Escritura comoda para tareas y apuntes.",
     "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
     "price": "S/ 3.61",
@@ -2867,11 +2867,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lapiz-2b-grafito-artesco-con-borrador-caja-x-12-un.jpg",
     "gallery": []
   },
   "lapiz-2b-tacnico-faber-castell-sin-borrador-caja-x-12-und": {
-    "title": "LApiz 2B TAcnico Faber Castell Sin Borrador Caja X 12 Und",
+    "title": "Lápiz 2B Técnico Artesco Con Borrador Caja X 12 Und",
     "short": "Escritura comoda para tareas y apuntes.",
     "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
     "price": "S/ 3.97",
@@ -2902,11 +2902,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lapiz-2b-tacnico-faber-castell-sin-borrador-caja-x-12-und.jpg",
     "gallery": []
   },
   "lapiz-hb-faber-castell-titan-con-borrador-caja-x-12-und": {
-    "title": "LApiz Hb Faber Castell Titan Con Borrador Caja X 12 Und",
+    "title": "Lápiz Hb Faber Castell Titan Con Borrador Caja X 12 Und",
     "short": "Escritura comoda para tareas y apuntes.",
     "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
     "price": "S/ 4.62",
@@ -2937,11 +2937,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lapiz-hb-faber-castell-titan-con-borrador-caja-x-12-und.jpg",
     "gallery": []
   },
   "lapiz-redondo-2-b-con-borrador-con-tabla-de-multiplicar-x-12-und": {
-    "title": "LApiz Redondo 2-B Con Borrador Con Tabla De Multiplicar X 12 Und.",
+    "title": "Lápiz Redondo 2-B Con Borrador Con Tabla De Multiplicar X 12 Und.",
     "short": "Escritura comoda para tareas y apuntes.",
     "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
     "price": "S/ 5.03",
@@ -2972,7 +2972,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lapiz-redondo-2-b-con-borrador-con-tabla-de-multiplicar-x-12-und.jpg",
     "gallery": []
   },
   "limpiatipos-artesco-sticky-tac": {
@@ -3007,11 +3007,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/limpiatipos-artesco-sticky-tac.jpg",
     "gallery": []
   },
   "lustre-color-anaranjado": {
-    "title": "Lustre color anaranjado",
+    "title": "Papel Lustre Naranja",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3042,7 +3042,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-anaranjado.jpg",
     "gallery": []
   },
   "lustre-color-azul": {
@@ -3077,11 +3077,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-azul.jpg",
     "gallery": []
   },
   "lustre-color-blanco": {
-    "title": "Lustre color blanco",
+    "title": "Papel Lustre Blanco",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3112,11 +3112,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-blanco.jpg",
     "gallery": []
   },
   "lustre-color-celeste": {
-    "title": "Lustre color celeste",
+    "title": "Papel Lustre Celeste",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3147,11 +3147,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-celeste.jpg",
     "gallery": []
   },
   "lustre-color-lila": {
-    "title": "Lustre color lila",
+    "title": "Papel Lustre Lila",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3182,11 +3182,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-lila.jpg",
     "gallery": []
   },
   "lustre-color-marron": {
-    "title": "Lustre color marron",
+    "title": "Papel Lustre Marrón",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3217,11 +3217,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-marron.jpg",
     "gallery": []
   },
   "lustre-color-morado": {
-    "title": "Lustre color morado",
+    "title": "Papel Lustre Morado",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3252,11 +3252,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-morado.jpg",
     "gallery": []
   },
   "lustre-color-negro": {
-    "title": "Lustre color negro",
+    "title": "Papel Lustre Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3287,11 +3287,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-negro.jpg",
     "gallery": []
   },
   "lustre-color-rojo": {
-    "title": "Lustre color Rojo",
+    "title": "Juego Didáctico Evaflex Base Diez Multibase Surtido",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3322,11 +3322,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-rojo.jpg",
     "gallery": []
   },
   "lustre-color-rosado": {
-    "title": "Lustre color rosado",
+    "title": "Papel Lustre Rosado",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3357,11 +3357,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-rosado.jpg",
     "gallery": []
   },
   "lustre-color-turquesa": {
-    "title": "Lustre color turquesa",
+    "title": "Papel Lustre Turquesa",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3392,11 +3392,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-turquesa.jpg",
     "gallery": []
   },
   "lustre-color-verde-agua": {
-    "title": "Lustre color verde agua",
+    "title": "Papel Lustre Verde Agua",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3427,11 +3427,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-verde-agua.jpg",
     "gallery": []
   },
   "lustre-color-verde-oscuro": {
-    "title": "Lustre color verde oscuro",
+    "title": "Juego Didáctico Evaflex Ábaco",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.18",
@@ -3462,7 +3462,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/lustre-color-verde-oscuro.jpg",
     "gallery": []
   },
   "maquina-toner-para-fotocopiadora": {
@@ -3497,7 +3497,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/maquina-toner-para-fotocopiadora.jpg",
     "gallery": []
   },
   "mica-portapapel-vinifan-a4-paquete-x-10-und": {
@@ -3532,7 +3532,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/mica-portapapel-vinifan-a4-paquete-x-10-und.png",
     "gallery": []
   },
   "papel-bond-56-g-61-x-86-cm-rollo-x-50-und": {
@@ -3567,11 +3567,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-bond-56-g-61-x-86-cm-rollo-x-50-und.png",
     "gallery": []
   },
   "papel-crepa-amarillo-x-10-unidades": {
-    "title": "Papel CrepA Amarillo X 10 Unidades",
+    "title": "Papel Crepé Amarillo X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3602,11 +3602,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-amarillo-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-azul-x-10-unidades": {
-    "title": "Papel CrepA Azul X 10 Unidades",
+    "title": "Papel Crepé Azul X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3637,11 +3637,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-azul-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-blanco-x-10-unidades": {
-    "title": "Papel CrepA Blanco X 10 Unidades",
+    "title": "Papel Crepé Blanco X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3672,11 +3672,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-blanco-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-celeste-x-10-unidades": {
-    "title": "Papel CrepA Celeste X 10 Unidades",
+    "title": "Papel Crepé Celeste X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3707,11 +3707,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-celeste-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-fucsia-x-10-unidades": {
-    "title": "Papel CrepA Fucsia X 10 Unidades",
+    "title": "Papel Crepé Fucsia X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3742,11 +3742,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-fucsia-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-lila-x-10-unidades": {
-    "title": "Papel CrepA Lila X 10 Unidades",
+    "title": "Papel Crepé Lila X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3777,11 +3777,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-lila-x-10-unidades.jpg",
     "gallery": []
   },
-  "papel-crepa-marra3n-x-10-unidades": {
-    "title": "Papel CrepA MarrA3n X 10 Unidades",
+  "papel-crepa-marron-x-10-unidades": {
+    "title": "Papel Crepé Marrón X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3812,11 +3812,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-marron-x-10-unidades.jpg",
     "gallery": []
   },
-  "papel-crepa-mela3n-x-10-unidades": {
-    "title": "Papel CrepA MelA3n X 10 Unidades",
+  "papel-crepa-melon-x-10-unidades": {
+    "title": "Papel Crepé Melon X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3847,11 +3847,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-melon-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-morado-x-10-unidades": {
-    "title": "Papel CrepA Morado X 10 Unidades",
+    "title": "Papel Crepé Morado X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3882,11 +3882,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-morado-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-naranja-x-10-unidades": {
-    "title": "Papel CrepA Naranja X 10 Unidades",
+    "title": "Papel Crepé Naranja X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3917,11 +3917,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-naranja-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-negro-x-10-unidades": {
-    "title": "Papel CrepA Negro X 10 Unidades",
+    "title": "Papel Crepé Negro X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3952,11 +3952,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-negro-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-rojo-x-10-unidades": {
-    "title": "Papel CrepA Rojo X 10 Unidades",
+    "title": "Papel Crep? Rojo X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -3987,11 +3987,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-rojo-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-rosado-x-10-unidades": {
-    "title": "Papel CrepA Rosado X 10 Unidades",
+    "title": "Papel Crepé Marrón X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -4022,11 +4022,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-rosado-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-verde-limon-x-10-unidades": {
-    "title": "Papel CrepA Verde  Limon X 10 Unidades",
+    "title": "Papel Crep? Verde  Limon X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -4057,11 +4057,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-verde-limon-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-crepa-verde-oscuro-x-10-unidades": {
-    "title": "Papel CrepA Verde Oscuro X 10 Unidades",
+    "title": "Papel Crep? Verde Oscuro X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.60",
@@ -4092,7 +4092,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-crepa-verde-oscuro-x-10-unidades.jpg",
     "gallery": []
   },
   "papel-fotocopia-chamex-a4-75gr-paquete-x-500-hojas": {
@@ -4127,7 +4127,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-fotocopia-chamex-a4-75gr-paquete-x-500-hojas.jpg",
     "gallery": []
   },
   "papel-kraft-monolucido-49-gr-70-x-100-cm": {
@@ -4162,7 +4162,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-kraft-monolucido-49-gr-70-x-100-cm.jpg",
     "gallery": []
   },
   "papel-lustre-amarillo": {
@@ -4197,7 +4197,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-lustre-amarillo.jpg",
     "gallery": []
   },
   "papel-seda-negro-cuadernillo-x-24-und": {
@@ -4232,11 +4232,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papel-seda-negro-cuadernillo-x-24-und.jpg",
     "gallery": []
   },
-  "papela3grafo-rayado-61-x-86-cm-56-g-rollo-x-50-un": {
-    "title": "PapelA3grafo Rayado 61 X 86 Cm 56 G Rollo X 50 Un",
+  "papelografo-rayado-61-x-86-cm-56-g-rollo-x-50-un": {
+    "title": "Papelógrafo Rayado 61 X 86 Cm 56 G Rollo X 50 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.19",
@@ -4267,7 +4267,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/papelografo-rayado-61-x-86-cm-56-g-rollo-x-50-un.png",
     "gallery": []
   },
   "perforador-artesco-m-208-11-hojas-celeste": {
@@ -4302,11 +4302,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/perforador-artesco-m-208-11-hojas-celeste.jpg",
     "gallery": []
   },
   "perforador-artesco-m-73-25-hojas-negro": {
-    "title": "Perforador Artesco M-73 25 Hojas Negro",
+    "title": "Perforador Escolar De Metal Faber Castell U10 10 Hojas",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 8.10",
@@ -4337,7 +4337,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/perforador-artesco-m-73-25-hojas-negro.jpg",
     "gallery": []
   },
   "perforador-escolar-artesco-m-01-11-hojas-azul": {
@@ -4372,7 +4372,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/perforador-escolar-artesco-m-01-11-hojas-azul.jpg",
     "gallery": []
   },
   "pioner-universal-ove-a4-2-anillos-45-mm-azul": {
@@ -4407,11 +4407,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/pioner-universal-ove-a4-2-anillos-45-mm-azul.jpg",
     "gallery": []
   },
   "pioner-universal-ove-a4-2-anillos-45-mm-blanco": {
-    "title": "Pioner Universal Ove A4 2 Anillos 45 Mm Blanco",
+    "title": "Pioner Universal Vinifan A4 2 Anillos 45 Mm Blanco",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 8.90",
@@ -4442,11 +4442,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/pioner-universal-ove-a4-2-anillos-45-mm-blanco.jpg",
     "gallery": []
   },
   "pioner-universal-ove-a4-2-anillos-45-mm-negro": {
-    "title": "Pioner Universal Ove A4 2 Anillos 45 Mm Negro",
+    "title": "Pioner Universal Artesco A4 2 Anillos 45 Mm Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 8.90",
@@ -4477,7 +4477,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/pioner-universal-ove-a4-2-anillos-45-mm-negro.jpg",
     "gallery": []
   },
   "plastilina-jumbo-artesco-x-12-und": {
@@ -4512,11 +4512,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plastilina-jumbo-artesco-x-12-und.jpg",
     "gallery": []
   },
-  "pluma3n-artesco-fineliner-triangular-x-12-und": {
-    "title": "PlumA3n Artesco Fineliner Triangular X 12 Und",
+  "plumon-artesco-fineliner-triangular-x-12-und": {
+    "title": "Plumón Artesco Fineliner Triangular X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 6.93",
@@ -4547,11 +4547,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-artesco-fineliner-triangular-x-12-und.webp",
     "gallery": []
   },
-  "pluma3n-delgado-artesco-max-45-x-12-und": {
-    "title": "PlumA3n Delgado Artesco Max 45 X 12 Und",
+  "plumon-delgado-artesco-max-45-x-12-und": {
+    "title": "Plumón Delgado Artesco Max 45 X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 4.27",
@@ -4582,11 +4582,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-delgado-artesco-max-45-x-12-und.jpg",
     "gallery": []
   },
-  "pluma3n-delgado-artesco-power-tips-punta-ca3nica-x-12-und": {
-    "title": "PlumA3n Delgado Artesco Power Tips Punta CA3nica X 12 Und",
+  "plumon-delgado-artesco-power-tips-punta-conica-x-12-und": {
+    "title": "Plumón Delgado Artesco Power Tips Punta Cónica X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 6.78",
@@ -4617,11 +4617,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-delgado-artesco-power-tips-punta-conica-x-12-und.png",
     "gallery": []
   },
-  "pluma3n-delgado-faber-castell-colorfest-x-12-und": {
-    "title": "PlumA3n Delgado Faber Castell Colorfest X 12 Und",
+  "plumon-delgado-faber-castell-colorfest-x-12-und": {
+    "title": "Plumón Delgado Faber Castell Colorfest X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 7.88",
@@ -4652,11 +4652,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-delgado-faber-castell-colorfest-x-12-und.jpg",
     "gallery": []
   },
-  "pluma3n-delgado-faber-castell-fiesta-45-estuche-ragido-x-12-und": {
-    "title": "PlumA3n Delgado Faber Castell Fiesta 45 Estuche RAgido X 12 Und",
+  "plumon-delgado-faber-castell-fiesta-45-estuche-ragido-x-12-und": {
+    "title": "Plumón Delgado Faber Castell Fiesta 45 Estuche Rígido X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 8.19",
@@ -4687,11 +4687,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-delgado-faber-castell-fiesta-45-estuche-ragido-x-12-und.jpg",
     "gallery": []
   },
-  "pluma3n-delgado-faber-castell-fiesta-45-estuche-x-12-und": {
-    "title": "PlumA3n Delgado Faber Castell Fiesta 45 Estuche X 12 Und",
+  "plumon-delgado-faber-castell-fiesta-45-estuche-x-12-und": {
+    "title": "Plumón Delgado Faber Castell Fiesta 45 Estuche X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 4.31",
@@ -4722,11 +4722,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-delgado-faber-castell-fiesta-45-estuche-x-12-und.webp",
     "gallery": []
   },
-  "pluma3n-delgado-faber-castell-fiesta-45-x-18-und": {
-    "title": "PlumA3n Delgado Faber Castell Fiesta 45 X 18 Und",
+  "plumon-delgado-faber-castell-fiesta-45-x-18-und": {
+    "title": "Plumón Delgado Faber Castell Fiesta 45 X 18 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 8.25",
@@ -4757,11 +4757,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-delgado-faber-castell-fiesta-45-x-18-und.jpg",
     "gallery": []
   },
-  "pluma3n-indeleble-delgado-ove-daoo-azul": {
-    "title": "PlumA3n Indeleble Delgado Ove DAoo Azul",
+  "plumon-indeleble-delgado-ove-daoo-azul": {
+    "title": "Plumón Indeleble Delgado Ove Dúo Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.07",
@@ -4792,11 +4792,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-indeleble-delgado-ove-daoo-azul.jpg",
     "gallery": []
   },
-  "pluma3n-indeleble-delgado-ove-daoo-negro": {
-    "title": "PlumA3n Indeleble Delgado Ove DAoo Negro",
+  "plumon-indeleble-delgado-ove-daoo-negro": {
+    "title": "Plumón Indeleble Delgado Ove Dúo Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.07",
@@ -4827,11 +4827,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-indeleble-delgado-ove-daoo-negro.jpg",
     "gallery": []
   },
-  "pluma3n-indeleble-delgado-ove-daoo-rojo": {
-    "title": "PlumA3n Indeleble Delgado Ove DAoo Rojo",
+  "plumon-indeleble-delgado-ove-daoo-rojo": {
+    "title": "Plumón Indeleble Delgado Ove Dúo Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.07",
@@ -4862,11 +4862,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-indeleble-delgado-ove-daoo-rojo.jpg",
     "gallery": []
   },
-  "pluma3n-indeleble-jumbo-ove-e23-azul": {
-    "title": "PlumA3n Indeleble Jumbo Ove E23 Azul",
+  "plumon-indeleble-jumbo-ove-e23-azul": {
+    "title": "Plumón Indeleble Grueso  Artesco Multimax A23 Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.66",
@@ -4897,11 +4897,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-indeleble-jumbo-ove-e23-azul.jpg",
     "gallery": []
   },
-  "pluma3n-indeleble-jumbo-ove-e23-negro": {
-    "title": "PlumA3n Indeleble Jumbo Ove E23 Negro",
+  "plumon-indeleble-jumbo-ove-e23-negro": {
+    "title": "Plumón Indeleble Grueso Artesco Multimax A23 Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.66",
@@ -4932,11 +4932,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-indeleble-jumbo-ove-e23-negro.jpg",
     "gallery": []
   },
-  "pluma3n-indeleble-jumbo-ove-e23-rojo": {
-    "title": "PlumA3n Indeleble Jumbo Ove E23 Rojo",
+  "plumon-indeleble-jumbo-ove-e23-rojo": {
+    "title": "Plumón Indeleble Grueso Artesco Multimax A23 Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.66",
@@ -4967,11 +4967,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-indeleble-jumbo-ove-e23-rojo.jpg",
     "gallery": []
   },
-  "pluma3n-jumbo-ove-47-azul-x-1-und": {
-    "title": "PlumA3n Jumbo Ove 47 Azul X 1 Und",
+  "plumon-jumbo-ove-47-azul-x-1-und": {
+    "title": "Plumón Para Pizarra Faber Castell 123 Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.87",
@@ -5002,11 +5002,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-jumbo-ove-47-azul-x-1-und.jpg",
     "gallery": []
   },
-  "pluma3n-jumbo-ove-47-negro-x-1-und": {
-    "title": "PlumA3n Jumbo Ove 47 Negro X 1 Und",
+  "plumon-jumbo-ove-47-negro-x-1-und": {
+    "title": "Plumón Para Pizarra Faber Castell 123 Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.87",
@@ -5037,11 +5037,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-jumbo-ove-47-negro-x-1-und.jpg",
     "gallery": []
   },
-  "pluma3n-jumbo-ove-47-rojo-x-1-und": {
-    "title": "PlumA3n Jumbo Ove 47 Rojo X 1 Und",
+  "plumon-jumbo-ove-47-rojo-x-1-und": {
+    "title": "Plumón Para Pizarra Faber Castell 123 Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.87",
@@ -5072,11 +5072,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-jumbo-ove-47-rojo-x-1-und.jpg",
     "gallery": []
   },
-  "pluma3n-jumbo-ove-47-verde-x-1-und": {
-    "title": "PlumA3n Jumbo Ove 47 Verde X 1 Und",
+  "plumon-jumbo-ove-47-verde-x-1-und": {
+    "title": "Plumón Para Pizarra Faber Castell 123 Verde",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.87",
@@ -5107,11 +5107,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-jumbo-ove-47-verde-x-1-und.jpg",
     "gallery": []
   },
-  "pluma3n-jumbo-ove-e47-x-12-und": {
-    "title": "PlumA3n Jumbo Ove E47 X 12 Und",
+  "plumon-jumbo-ove-e47-x-12-und": {
+    "title": "Plumón Jumbo Ove E47 X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 8.30",
@@ -5142,11 +5142,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-jumbo-ove-e47-x-12-und.jpg",
     "gallery": []
   },
-  "pluma3n-jumbo-ove-e47-x-6-und": {
-    "title": "PlumA3n Jumbo Ove E47 X 6 Und",
+  "plumon-jumbo-ove-e47-x-6-und": {
+    "title": "Plumón Jumbo Ove E47 X 6 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 4.20",
@@ -5177,11 +5177,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-jumbo-ove-e47-x-6-und.jpg",
     "gallery": []
   },
-  "pluma3n-para-pizarra-artesco-acrimax-123-azul": {
-    "title": "PlumA3n Para Pizarra Artesco Acrimax 123 Azul",
+  "plumon-para-pizarra-artesco-acrimax-123-azul": {
+    "title": "Plumón Para Pizarra Artesco Acrimax 123 Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.23",
@@ -5212,11 +5212,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-para-pizarra-artesco-acrimax-123-azul.jpg",
     "gallery": []
   },
-  "pluma3n-para-pizarra-artesco-acrimax-123-negro": {
-    "title": "PlumA3n Para Pizarra Artesco Acrimax 123 Negro",
+  "plumon-para-pizarra-artesco-acrimax-123-negro": {
+    "title": "Plumón Para Pizarra Artesco Acrimax 123 Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.23",
@@ -5247,11 +5247,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-para-pizarra-artesco-acrimax-123-negro.jpg",
     "gallery": []
   },
-  "pluma3n-para-pizarra-artesco-acrimax-123-rojo": {
-    "title": "PlumA3n Para Pizarra Artesco Acrimax 123 Rojo",
+  "plumon-para-pizarra-artesco-acrimax-123-rojo": {
+    "title": "Plumón Para Pizarra Artesco Acrimax 123 Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.23",
@@ -5282,11 +5282,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-para-pizarra-artesco-acrimax-123-rojo.jpg",
     "gallery": []
   },
-  "pluma3n-para-pizarra-artesco-acrimax-123-verde": {
-    "title": "PlumA3n Para Pizarra Artesco Acrimax 123 Verde",
+  "plumon-para-pizarra-artesco-acrimax-123-verde": {
+    "title": "Plumón Para Pizarra Artesco Acrimax 123 Verde",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.23",
@@ -5317,11 +5317,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/plumon-para-pizarra-artesco-acrimax-123-verde.jpg",
     "gallery": []
   },
   "resaltador-plumon-mini-grip-artesco-x6-pastel": {
-    "title": "Resaltador - Plumon Mini Grip Artesco X6 Pastel",
+    "title": "Resaltador - Plumón Mini Grip Artesco X6 Pastel",
     "short": "Subrayado claro y uniforme.",
     "description": "Subrayado claro y uniforme. Disponible en Libreria Belen.",
     "price": "S/ 3.36",
@@ -5352,7 +5352,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/resaltador-plumon-mini-grip-artesco-x6-pastel.jpg",
     "gallery": []
   },
   "resaltador-artesco-metalico-x-4-und": {
@@ -5387,7 +5387,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/resaltador-artesco-metalico-x-4-und.jpg",
     "gallery": []
   },
   "resaltador-ove-amarillo-x-1-und": {
@@ -5422,7 +5422,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/resaltador-ove-amarillo-x-1-und.jpg",
     "gallery": []
   },
   "resaltador-ove-naranja-x-1-und": {
@@ -5457,7 +5457,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/resaltador-ove-naranja-x-1-und.jpg",
     "gallery": []
   },
   "resaltador-ove-verde-x-1-und": {
@@ -5492,11 +5492,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/resaltador-ove-verde-x-1-und.jpg",
     "gallery": []
   },
   "resaltador-plumon-mini-grip-artesco-x6-neon": {
-    "title": "Resaltador Plumon Mini  Grip Artesco X6 Neon",
+    "title": "Resaltador Plumón Mini  Grip Artesco X6 Neón",
     "short": "Subrayado claro y uniforme.",
     "description": "Subrayado claro y uniforme. Disponible en Libreria Belen.",
     "price": "S/ 3.36",
@@ -5527,11 +5527,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/resaltador-plumon-mini-grip-artesco-x6-neon.jpg",
     "gallery": []
   },
   "set-de-alfileres-uso-diario-en-disco-paquete-x-12-und": {
-    "title": "Set de Alfileres Uso Diario en Disco Paquete X 12 Und",
+    "title": "Set De Alfileres Uso Diario En Disco Paquete X 12 Und",
     "short": "Fijacion practica para trabajos.",
     "description": "Fijacion practica para trabajos. Disponible en Libreria Belen.",
     "price": "S/ 4.70",
@@ -5562,7 +5562,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/set-de-alfileres-uso-diario-en-disco-paquete-x-12-und.jpg",
     "gallery": []
   },
   "silicona-de-barra-ove-delgada-800g": {
@@ -5597,7 +5597,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/silicona-de-barra-ove-delgada-800g.jpg",
     "gallery": []
   },
   "silicona-de-barra-ove-gruesa-800g": {
@@ -5632,11 +5632,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/silicona-de-barra-ove-gruesa-800g.jpg",
     "gallery": []
   },
   "silicona-laquida-artesco-100-ml": {
-    "title": "Silicona LAquida Artesco 100 Ml",
+    "title": "Silicona Líquida Artesco 100 Ml",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.16",
@@ -5667,11 +5667,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/silicona-laquida-artesco-100-ml.jpg",
     "gallery": []
   },
   "silicona-laquida-artesco-250-ml": {
-    "title": "Silicona LAquida Artesco 250 Ml",
+    "title": "Silicona Líquida Artesco 250 Ml",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 3.90",
@@ -5702,11 +5702,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/silicona-laquida-artesco-250-ml.jpg",
     "gallery": []
   },
   "silicona-laquida-artesco-30ml": {
-    "title": "Silicona LAquida Artesco 30Ml",
+    "title": "Silicona Líquida Artesco 30Ml",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.09",
@@ -5737,7 +5737,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/silicona-laquida-artesco-30ml.jpg",
     "gallery": []
   },
   "sobre-manila-graphos-a4-paquete-x-50-und": {
@@ -5772,11 +5772,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/sobre-manila-graphos-a4-paquete-x-50-und.jpg",
     "gallery": []
   },
-  "tajador-metal-depa3sito-doble-pastel-artesco-caja-x12": {
-    "title": "Tajador Metal DepA3sito Doble Pastel Artesco Caja X12",
+  "tajador-metal-deposito-doble-pastel-artesco-caja-x12": {
+    "title": "Tajador Plástico Depósito Doble Tambor Vinifan Caja X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 3.21",
@@ -5807,11 +5807,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/tajador-metal-deposito-doble-pastel-artesco-caja-x12.jpg",
     "gallery": []
   },
   "tajador-ove-plastico-caja-x-24": {
-    "title": "Tajador Ove PlAstico Caja X 24",
+    "title": "Tajador Ove Plástico Caja X 24",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 4.00",
@@ -5842,11 +5842,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/tajador-ove-plastico-caja-x-24.jpg",
     "gallery": []
   },
-  "tajador-plastico-depa3sito-doble-neon-vinifan-caja-x-12-und": {
-    "title": "Tajador PlAstico DepA3sito Doble Neon Vinifan Caja X 12 Und",
+  "tajador-plastico-deposito-doble-neon-vinifan-caja-x-12-und": {
+    "title": "Tajador Plástico Depósito Doble Neón Vinifan Caja X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 1.54",
@@ -5877,11 +5877,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/tajador-plastico-deposito-doble-neon-vinifan-caja-x-12-und.jpg",
     "gallery": []
   },
-  "tajador-plastico-depa3sito-simple-funky-borrador-vinifan-caja-x-12-und": {
-    "title": "Tajador PlAstico DepA3sito Simple Funky+ Borrador Vinifan Caja X 12 Und",
+  "tajador-plastico-deposito-simple-funky-borrador-vinifan-caja-x-12-und": {
+    "title": "Tajador Plástico Depósito Simple Funky+ Borrador Vinifan Caja X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 18.00",
@@ -5912,11 +5912,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/tajador-plastico-deposito-simple-funky-borrador-vinifan-caja-x-12-und.jpg",
     "gallery": []
   },
   "transportador-artesco": {
-    "title": "Transportador Artesco",
+    "title": "Transportador Artesco 180° X 10 Cm",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 0.61",
@@ -5947,7 +5947,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/transportador-artesco.jpg",
     "gallery": []
   },
   "chinches-dorados-ove-10-mm-x-100-und": {
@@ -5982,7 +5982,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/chinches-dorados-ove-10-mm-x-100-und.jpg",
     "gallery": []
   },
   "palito-de-chupete-dragon-paquete-x-50-colores": {
@@ -6017,7 +6017,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/palito-de-chupete-dragon-paquete-x-50-colores.jpg",
     "gallery": []
   },
   "palito-de-chupete-dragon-grueso-de-color-paquete-x-40-und": {
@@ -6052,7 +6052,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/palito-de-chupete-dragon-grueso-de-color-paquete-x-40-und.jpg",
     "gallery": []
   },
   "palito-de-chupete-natural-x-80-und": {
@@ -6087,7 +6087,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/palito-de-chupete-natural-x-80-und.webp",
     "gallery": []
   },
   "palito-de-chupete-grueso-natural": {
@@ -6122,7 +6122,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/palito-de-chupete-grueso-natural.webp",
     "gallery": []
   },
   "chinches-de-colores-ove-10-mm-x-100-und": {
@@ -6157,7 +6157,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/chinches-de-colores-ove-10-mm-x-100-und.jpg",
     "gallery": []
   },
   "chinches-de-colores-ove-push-pins-10-mm-x-50-und": {
@@ -6192,7 +6192,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/chinches-de-colores-ove-push-pins-10-mm-x-50-und.jpg",
     "gallery": []
   },
   "microporoso-escarchado-a4-surtido-x-10-und": {
@@ -6227,11 +6227,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/microporoso-escarchado-a4-surtido-x-10-und.jpg",
     "gallery": []
   },
-  "punza3n-evaflex-caja-x25": {
-    "title": "PunzA3n Evaflex Caja X25",
+  "punzon-evaflex-caja-x25": {
+    "title": "Punzón Evaflex Caja X25",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 39.57",
@@ -6262,11 +6262,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/punzon-evaflex-caja-x25.jpg",
     "gallery": []
   },
-  "tampa3n-artesco-negro-para-huella-digital": {
-    "title": "TampA3n Artesco Negro Para Huella Digital",
+  "tampon-artesco-negro-para-huella-digital": {
+    "title": "Tampón Artesco Negro Para Huella Digital",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.77",
@@ -6297,11 +6297,11 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/tampon-artesco-negro-para-huella-digital.jpg",
     "gallery": []
   },
   "tampon-para-huella-digital-azul-ove": {
-    "title": "Tampon Para Huella Digital Azul Ove",
+    "title": "Tampón Para Huella Digital Azul Ove",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
     "price": "S/ 2.70",
@@ -6332,7 +6332,7 @@
         "text": "Muy util para el dia a dia."
       }
     ],
-    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='560' height='400'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%23f6d8a6'/><stop offset='1' stop-color='%23ec6b5f'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><rect x='70' y='70' width='280' height='260' rx='18' fill='%23ffffff'/><rect x='110' y='130' width='200' height='12' fill='%23ec6b5f'/><rect x='110' y='170' width='150' height='12' fill='%23f6d8a6'/></svg>",
+    "image": "assets/img/products/tampon-para-huella-digital-azul-ove.jpg",
     "gallery": []
   }
 };
