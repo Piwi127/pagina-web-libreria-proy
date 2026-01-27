@@ -4,7 +4,7 @@
     "title": "Acuarela Faber Castell Estuche X 12 Und",
     "short": "Colores vivos para arte y escuela.",
     "description": "Estuche escolar de acuarelas con colores intensos, opacos y mezclables, solubles en agua.",
-    "longDescription": "Set de acuarelas pensado para trabajos escolares y actividades art?sticas, con colores vivos que se activan con agua y se pueden mezclar para crear nuevos tonos.",
+    "longDescription": "Set de acuarelas pensado para trabajos escolares y actividades artísticas, con colores vivos que se activan con agua y se pueden mezclar para crear nuevos tonos.",
     "price": "S/ 10.14",
     "rating": "4.5",
     "stock": 10,
@@ -23,7 +23,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Humedece el pincel y activa la pastilla con agua para pintar.", "Mezcla colores en la paleta para obtener nuevos matices.", "Ideal para tareas escolares y pr?cticas de dibujo y pintura."],
+    "usage": ["Humedece el pincel y activa la pastilla con agua para pintar.", "Mezcla colores en la paleta para obtener nuevos matices.", "Ideal para tareas escolares y prácticas de dibujo y pintura."],
     "reviews": [
       {
         "name": "Cliente",
@@ -60,7 +60,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Usa agua y pincel para activar cada color.", "Mezcla dos o m?s tonos para crear colores personalizados.", "Recomendado para clases de arte y manualidades."],
+    "usage": ["Usa agua y pincel para activar cada color.", "Mezcla dos o más tonos para crear colores personalizados.", "Recomendado para clases de arte y manualidades."],
     "reviews": [
       {
         "name": "Cliente",
@@ -77,8 +77,8 @@
   "acuarelas-artesco-12-colores": {
     "title": "Acuarelas Artesco 12 Colores",
     "short": "Colores vivos para arte y escuela.",
-    "description": "Acuarelas Artesco en set de 12 colores para uso escolar y art?stico.",
-    "longDescription": "Set de acuarelas Artesco de 12 colores dise?ado para trabajos escolares, con colores intensos que se activan con agua.",
+    "description": "Acuarelas Artesco en set de 12 colores para uso escolar y artístico.",
+    "longDescription": "Set de acuarelas Artesco de 12 colores diseñado para trabajos escolares, con colores intensos que se activan con agua.",
     "price": "S/ 6.87",
     "rating": "4.5",
     "stock": 10,
@@ -97,7 +97,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Activa las pastillas con un pincel h?medo.", "Usa papel para acuarela o cartulina lisa para mejores resultados.", "Perfecto para tareas escolares y proyectos creativos."],
+    "usage": ["Activa las pastillas con un pincel húmedo.", "Usa papel para acuarela o cartulina lisa para mejores resultados.", "Perfecto para tareas escolares y proyectos creativos."],
     "reviews": [
       {
         "name": "Cliente",
@@ -115,7 +115,7 @@
     "title": "Alfileres Artesco 28 Mm Caja X 50 Gr",
     "short": "Fijacion practica para trabajos.",
     "description": "Alfileres Artesco de 28 mm para fijar papeles, manualidades o tableros.",
-    "longDescription": "Alfileres de uso escolar y de oficina, ?tiles para sujetar documentos o elementos livianos en tableros y proyectos manuales.",
+    "longDescription": "Alfileres de uso escolar y de oficina, Útiles para sujetar documentos o elementos livianos en tableros y proyectos manuales.",
     "price": "S/ 1.25",
     "rating": "4.5",
     "stock": 10,
@@ -134,7 +134,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Sujeta hojas o cartulinas en paneles y tableros.", "?salos en proyectos de manualidades y maquetas.", "Ideal para organizaci?n en el aula o la oficina."],
+    "usage": ["Sujeta hojas o cartulinas en paneles y tableros.", "Úsalos en proyectos de manualidades y maquetas.", "Ideal para organización en el aula o la oficina."],
     "reviews": [
       {
         "name": "Cliente",
@@ -152,7 +152,7 @@
     "title": "Archivador Plastificado Ove A4 Negro Con Lomo Ancho",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Archivador A4 de lomo ancho para almacenar grandes cantidades de documentos.",
-    "longDescription": "Archivador tama?o A4 con lomo ancho y mecanismo de palanca, pensado para guardar y organizar documentos de forma segura.",
+    "longDescription": "Archivador tamaño A4 con lomo ancho y mecanismo de palanca, pensado para guardar y organizar documentos de forma segura.",
     "price": "S/ 3.80",
     "rating": "4.5",
     "stock": 10,
@@ -171,7 +171,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Archiva documentos A4 por temas o categor?as.", "Usa separadores y etiquetas para organizar mejor.", "Recomendado para oficina, colegio o archivo en casa."],
+    "usage": ["Archiva documentos A4 por temas o categorías.", "Usa separadores y etiquetas para organizar mejor.", "Recomendado para oficina, colegio o archivo en casa."],
     "reviews": [
       {
         "name": "Cliente",
@@ -189,7 +189,7 @@
     "title": "Block Cuadriculado Justus A4 5 Perforaciones 50 Hojas",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Block cuadriculado A4 de 50 hojas con 5 perforaciones para archivar.",
-    "longDescription": "Block cuadriculado en tama?o A4 con 50 hojas y perforaciones para anillar, ideal para matem?ticas y apuntes.",
+    "longDescription": "Block cuadriculado en tamaño A4 con 50 hojas y perforaciones para anillar, ideal para matemáticas y apuntes.",
     "price": "S/ 3.13",
     "rating": "4.5",
     "stock": 10,
@@ -208,7 +208,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Toma apuntes y resuelve ejercicios con gu?a cuadriculada.", "Archiva las hojas en anillados o archivadores.", "?til para colegio, universidad y oficina."],
+    "usage": ["Toma apuntes y resuelve ejercicios con guía cuadriculada.", "Archiva las hojas en anillados o archivadores.", "Útil para colegio, universidad y oficina."],
     "reviews": [
       {
         "name": "Cliente",
@@ -226,7 +226,7 @@
     "title": "Block De Dibujo Anillado 20H Justus",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Block de dibujo anillado de 20 hojas para bocetos y trabajos escolares.",
-    "longDescription": "Block de dibujo con 20 hojas y encuadernaci?n anillada para facilitar el giro y el uso continuo en clases de arte.",
+    "longDescription": "Block de dibujo con 20 hojas y encuadernación anillada para facilitar el giro y el uso continuo en clases de arte.",
     "price": "S/ 3.77",
     "rating": "4.5",
     "stock": 10,
@@ -245,7 +245,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Realiza bocetos, dibujos y ejercicios de arte.", "Ideal para clases de educaci?n art?stica.", "Permite arrancar hojas con facilidad cuando sea necesario."],
+    "usage": ["Realiza bocetos, dibujos y ejercicios de arte.", "Ideal para clases de educación artística.", "Permite arrancar hojas con facilidad cuando sea necesario."],
     "reviews": [
       {
         "name": "Cliente",
@@ -263,7 +263,7 @@
     "title": "Block De Dibujo Empastado Ove 24 X 31.5 Cm 20 Hojas",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Block de dibujo empastado de 20 hojas en formato 24 x 31.5 cm.",
-    "longDescription": "Block de dibujo empastado con 20 hojas para trabajos escolares y art?sticos, en tama?o amplio para mejor presentaci?n.",
+    "longDescription": "Block de dibujo empastado con 20 hojas para trabajos escolares y artísticos, en tamaño amplio para mejor presentación.",
     "price": "S/ 3.00",
     "rating": "4.5",
     "stock": 10,
@@ -282,7 +282,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?salo para dibujos, l?minas y proyectos art?sticos.", "Recomendado para t?cnicas en l?piz, t?mpera o acuarela ligera.", "Ideal para tareas de arte y manualidades."],
+    "usage": ["Úsalo para dibujos, láminas y proyectos artísticos.", "Recomendado para técnicas en lápiz, témpera o acuarela ligera.", "Ideal para tareas de arte y manualidades."],
     "reviews": [
       {
         "name": "Cliente",
@@ -300,7 +300,7 @@
     "title": "Block Escolar 80H Period Cuadr Libra",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Block escolar cuadriculado de 80 hojas para trabajos y apuntes diarios.",
-    "longDescription": "Block escolar con 80 hojas cuadriculadas, adecuado para actividades acad?micas y ejercicios matem?ticos.",
+    "longDescription": "Block escolar con 80 hojas cuadriculadas, adecuado para actividades académicas y ejercicios matemáticos.",
     "price": "S/ 1.18",
     "rating": "4.5",
     "stock": 10,
@@ -319,7 +319,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Toma apuntes y realiza ejercicios con orden en la cuadr?cula.", "Ideal para colegios y academias.", "?salo como block principal de clases."],
+    "usage": ["Toma apuntes y realiza ejercicios con orden en la cuadrícula.", "Ideal para colegios y academias.", "Úsalo como block principal de clases."],
     "reviews": [
       {
         "name": "Cliente",
@@ -336,8 +336,8 @@
   "Bolígrafo-faber-castell-060-azul": {
     "title": "Bolígrafo Faber Castell 060 Azul",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Faber-Castell 060 con tinta seca para escritura limpia y uniforme.",
-    "longDescription": "Bol?grafo de tinta seca con trazo fluido y constante, pensado para escritura diaria en estudio u oficina.",
+    "description": "Bolígrafo Faber-Castell 060 con tinta seca para escritura limpia y uniforme.",
+    "longDescription": "Bolígrafo de tinta seca con trazo fluido y constante, pensado para escritura diaria en estudio u oficina.",
     "price": "S/ 0.87",
     "rating": "4.5",
     "stock": 10,
@@ -373,8 +373,8 @@
   "Bolígrafo-faber-castell-060-negro": {
     "title": "Bolígrafo Faber Castell 032-M Trilux Verde",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Faber-Castell 060 con tinta seca de uso cotidiano.",
-    "longDescription": "Bol?grafo de tinta seca con escritura continua y limpia para trabajos escolares o de oficina.",
+    "description": "Bolígrafo Faber-Castell 060 con tinta seca de uso cotidiano.",
+    "longDescription": "Bolígrafo de tinta seca con escritura continua y limpia para trabajos escolares o de oficina.",
     "price": "S/ 0.87",
     "rating": "4.5",
     "stock": 10,
@@ -393,7 +393,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?salo para escribir apuntes y documentos importantes.", "Ideal para escritura diaria.", "Compatible con papel bond y cuadernos escolares."],
+    "usage": ["Úsalo para escribir apuntes y documentos importantes.", "Ideal para escritura diaria.", "Compatible con papel bond y cuadernos escolares."],
     "reviews": [
       {
         "name": "Cliente",
@@ -410,8 +410,8 @@
   "Bolígrafo-faber-castell-060-rojo": {
     "title": "Bolígrafo Faber Castell 060 Rojo",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Faber-Castell 060 con tinta seca para correcciones y anotaciones.",
-    "longDescription": "Bol?grafo de tinta seca con trazo suave, ?til para subrayados y correcciones en trabajos escolares.",
+    "description": "Bolígrafo Faber-Castell 060 con tinta seca para correcciones y anotaciones.",
+    "longDescription": "Bolígrafo de tinta seca con trazo suave, Útil para subrayados y correcciones en trabajos escolares.",
     "price": "S/ 0.87",
     "rating": "4.5",
     "stock": 10,
@@ -430,7 +430,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Ideal para correcciones y anotaciones en rojo.", "Escribe en papel bond o cuadernos sin manchar.", "?til para docentes y estudiantes."],
+    "usage": ["Ideal para correcciones y anotaciones en rojo.", "Escribe en papel bond o cuadernos sin manchar.", "Útil para docentes y estudiantes."],
     "reviews": [
       {
         "name": "Cliente",
@@ -447,8 +447,8 @@
   "Bolígrafo-faber-castell-trilux-031-punta-fina-azul-x-1-und": {
     "title": "Bolígrafo Faber Castell 032-M Trilux Azul",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Trilux de trazo fino con escritura fluida y cuerpo triangular ergon?mico.",
-    "longDescription": "Bol?grafo Faber-Castell Trilux con dise?o triangular para un agarre c?modo y trazo fino, ideal para largas sesiones de escritura.",
+    "description": "Bolígrafo Trilux de trazo fino con escritura fluida y cuerpo triangular ergonómico.",
+    "longDescription": "Bolígrafo Faber-Castell Trilux con diseño triangular para un agarre cómodo y trazo fino, ideal para largas sesiones de escritura.",
     "price": "S/ 0.42",
     "rating": "4.5",
     "stock": 10,
@@ -484,8 +484,8 @@
   "Bolígrafo-faber-castell-trilux-031-punta-fina-negro-x-1-und": {
     "title": "Bolígrafo Faber Castell 032-M Trilux Rojo",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Trilux de trazo fino con agarre triangular y tinta suave.",
-    "longDescription": "Bol?grafo Faber-Castell Trilux con dise?o triangular que mejora el agarre y permite escritura precisa.",
+    "description": "Bolígrafo Trilux de trazo fino con agarre triangular y tinta suave.",
+    "longDescription": "Bolígrafo Faber-Castell Trilux con diseño triangular que mejora el agarre y permite escritura precisa.",
     "price": "S/ 0.42",
     "rating": "4.5",
     "stock": 10,
@@ -504,7 +504,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Ideal para escritura clara y detallada.", "?til para notas escolares y documentos.", "C?modo para uso prolongado."],
+    "usage": ["Ideal para escritura clara y detallada.", "Útil para notas escolares y documentos.", "Cómodo para uso prolongado."],
     "reviews": [
       {
         "name": "Cliente",
@@ -521,8 +521,8 @@
   "Bolígrafo-faber-castell-trilux-031-punta-fina-rojo-x-1-und": {
     "title": "Bolígrafo Faber Castell 032-M Trilux Negro",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Trilux de trazo fino, pr?ctico para correcciones y anotaciones.",
-    "longDescription": "Bol?grafo Faber-Castell Trilux con cuerpo triangular y trazo fino para escritura precisa.",
+    "description": "Bolígrafo Trilux de trazo fino, práctico para correcciones y anotaciones.",
+    "longDescription": "Bolígrafo Faber-Castell Trilux con cuerpo triangular y trazo fino para escritura precisa.",
     "price": "S/ 0.42",
     "rating": "4.5",
     "stock": 10,
@@ -541,7 +541,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?salo para correcciones y anotaciones en rojo.", "Adecuado para escritura fina en papel.", "C?modo para uso diario."],
+    "usage": ["Úsalo para correcciones y anotaciones en rojo.", "Adecuado para escritura fina en papel.", "Cómodo para uso diario."],
     "reviews": [
       {
         "name": "Cliente",
@@ -558,8 +558,8 @@
   "Bolígrafo-pilot-bp-sf-punta-fina-azul-x-1-und": {
     "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Azul X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Pilot BP-SF de punta fina con tinta seca para escritura suave.",
-    "longDescription": "Bol?grafo Pilot BP-SF con punta fina y tinta seca, dise?ado para escritura fluida y controlada.",
+    "description": "Bolígrafo Pilot BP-SF de punta fina con tinta seca para escritura suave.",
+    "longDescription": "Bolígrafo Pilot BP-SF con punta fina y tinta seca, diseñado para escritura fluida y controlada.",
     "price": "S/ 2.14",
     "rating": "4.5",
     "stock": 10,
@@ -595,8 +595,8 @@
   "Bolígrafo-pilot-bp-sf-punta-fina-negro-x-1-und": {
     "title": "Bolígrafo Pilot Bp-Sf Punta Fina Negro X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Pilot BP-SF de punta fina para escritura precisa.",
-    "longDescription": "Bol?grafo de tinta seca con punta fina, pensado para escritura clara y controlada.",
+    "description": "Bolígrafo Pilot BP-SF de punta fina para escritura precisa.",
+    "longDescription": "Bolígrafo de tinta seca con punta fina, pensado para escritura clara y controlada.",
     "price": "S/ 2.14",
     "rating": "4.5",
     "stock": 10,
@@ -615,7 +615,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?til para documentos y apuntes.", "Escritura fina y continua.", "Adecuado para estudiantes y profesionales."],
+    "usage": ["Útil para documentos y apuntes.", "Escritura fina y continua.", "Adecuado para estudiantes y profesionales."],
     "reviews": [
       {
         "name": "Cliente",
@@ -632,8 +632,8 @@
   "Bolígrafo-pilot-bp-sf-punta-fina-rojo-x-1-und": {
     "title": "Bolígrafo Faber Castell Trilux 031 Punta Fina Azul X 1 Und",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Pilot BP-SF de punta fina para anotaciones y correcciones.",
-    "longDescription": "Bol?grafo de tinta seca con punta fina para escritura precisa y legible.",
+    "description": "Bolígrafo Pilot BP-SF de punta fina para anotaciones y correcciones.",
+    "longDescription": "Bolígrafo de tinta seca con punta fina para escritura precisa y legible.",
     "price": "S/ 2.14",
     "rating": "4.5",
     "stock": 10,
@@ -669,8 +669,8 @@
   "Bolígrafo-pilot-bp-sf-punta-fina-verde-x-1-und": {
     "title": "Bolígrafo 034 - Azul",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Pilot BP-SF de punta fina con tinta seca para escritura fluida.",
-    "longDescription": "Bol?grafo con punta fina y tinta seca, pensado para apuntes y anotaciones precisas.",
+    "description": "Bolígrafo Pilot BP-SF de punta fina con tinta seca para escritura fluida.",
+    "longDescription": "Bolígrafo con punta fina y tinta seca, pensado para apuntes y anotaciones precisas.",
     "price": "S/ 2.14",
     "rating": "4.5",
     "stock": 10,
@@ -689,7 +689,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?til para anotaciones con color verde.", "Trazo fino y legible.", "Ideal para estudiantes y oficinas."],
+    "usage": ["Útil para anotaciones con color verde.", "Trazo fino y legible.", "Ideal para estudiantes y oficinas."],
     "reviews": [
       {
         "name": "Cliente",
@@ -706,8 +706,8 @@
   "Bolígrafo-stabilo-marathon-azul-retractil": {
     "title": "Bolígrafo Stabilo Marathon Azul Retráctil",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Stabilo Marathon retr?ctil con escritura suave y duradera.",
-    "longDescription": "Bol?grafo retr?ctil Stabilo Marathon dise?ado para escritura c?moda y de larga duraci?n.",
+    "description": "Bolígrafo Stabilo Marathon retráctil con escritura suave y duradera.",
+    "longDescription": "Bolígrafo retráctil Stabilo Marathon diseñado para escritura cómoda y de larga duración.",
     "price": "S/ 2.31",
     "rating": "4.5",
     "stock": 10,
@@ -726,7 +726,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Escritura diaria en cuadernos y documentos.", "Ideal para uso intensivo gracias a su durabilidad.", "Sistema retr?ctil pr?ctico para transportar."],
+    "usage": ["Escritura diaria en cuadernos y documentos.", "Ideal para uso intensivo gracias a su durabilidad.", "Sistema retráctil práctico para transportar."],
     "reviews": [
       {
         "name": "Cliente",
@@ -743,8 +743,8 @@
   "Bolígrafo-stabilo-marathon-negro-retractil": {
     "title": "Bolígrafo Stabilo Marathon Negro Retráctil",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Stabilo Marathon retr?ctil para escritura continua y c?moda.",
-    "longDescription": "Bol?grafo retr?ctil con tinta suave, pensado para uso diario y prolongado.",
+    "description": "Bolígrafo Stabilo Marathon retráctil para escritura continua y cómoda.",
+    "longDescription": "Bolígrafo retráctil con tinta suave, pensado para uso diario y prolongado.",
     "price": "S/ 2.31",
     "rating": "4.5",
     "stock": 10,
@@ -763,7 +763,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?salo para apuntes y documentos.", "Pr?ctico para llevar en estuche o bolsillo.", "Escritura constante y fluida."],
+    "usage": ["Úsalo para apuntes y documentos.", "Práctico para llevar en estuche o bolsillo.", "Escritura constante y fluida."],
     "reviews": [
       {
         "name": "Cliente",
@@ -780,8 +780,8 @@
   "Bolígrafo-stabilo-marathon-rojo-retractil": {
     "title": "Bolígrafo Stabilo Marathon Rojo Retráctil",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Bol?grafo Stabilo Marathon retr?ctil, ideal para correcciones y anotaciones.",
-    "longDescription": "Bol?grafo retr?ctil con tinta suave y duradera para escritura en color rojo.",
+    "description": "Bolígrafo Stabilo Marathon retráctil, ideal para correcciones y anotaciones.",
+    "longDescription": "Bolígrafo retráctil con tinta suave y duradera para escritura en color rojo.",
     "price": "S/ 2.31",
     "rating": "4.5",
     "stock": 10,
@@ -800,7 +800,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Perfecto para correcciones y resaltados.", "Sistema retr?ctil para uso pr?ctico.", "Recomendado para escuela y oficina."],
+    "usage": ["Perfecto para correcciones y resaltados.", "Sistema retráctil para uso práctico.", "Recomendado para escuela y oficina."],
     "reviews": [
       {
         "name": "Cliente",
@@ -817,8 +817,8 @@
   "borrador-artesco-chico-blanco": {
     "title": "Borrador Artesco Chico Blanco",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Borrador Artesco blanco chico para borrar l?piz de grafito.",
-    "longDescription": "Borrador blanco compacto, ideal para borrar l?piz con suavidad en uso escolar.",
+    "description": "Borrador Artesco blanco chico para borrar lápiz de grafito.",
+    "longDescription": "Borrador blanco compacto, ideal para borrar lápiz con suavidad en uso escolar.",
     "price": "S/ 0.36",
     "rating": "4.5",
     "stock": 10,
@@ -837,7 +837,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Borra l?piz grafito en cuadernos y hojas.", "Recomendado para uso escolar diario.", "Tama?o peque?o para estuches."],
+    "usage": ["Borra lápiz grafito en cuadernos y hojas.", "Recomendado para uso escolar diario.", "Tamaño pequeño para estuches."],
     "reviews": [
       {
         "name": "Cliente",
@@ -854,8 +854,8 @@
   "borrador-brocha-retractil-ice-caja-x24-artesco": {
     "title": "Borrador Artesco Grande Blanco",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Borrador retr?ctil con brocha para limpiar residuos de borrado.",
-    "longDescription": "Borrador con mecanismo retr?ctil y brocha incorporada para retirar residuos de grafito tras borrar.",
+    "description": "Borrador retráctil con brocha para limpiar residuos de borrado.",
+    "longDescription": "Borrador con mecanismo retráctil y brocha incorporada para retirar residuos de grafito tras borrar.",
     "price": "S/ 1.85",
     "rating": "4.5",
     "stock": 10,
@@ -874,7 +874,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Borra l?piz y limpia la zona con la brocha integrada.", "Ideal para estuches y uso escolar.", "Mantiene la hoja limpia despu?s del borrado."],
+    "usage": ["Borra lápiz y limpia la zona con la brocha integrada.", "Ideal para estuches y uso escolar.", "Mantiene la hoja limpia después del borrado."],
     "reviews": [
       {
         "name": "Cliente",
@@ -911,7 +911,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Usa para recortes, carteles y presentaciones.", "Ideal para t?cnicas en l?piz de color y plum?n.", "Recomendada para trabajos escolares."],
+    "usage": ["Usa para recortes, carteles y presentaciones.", "Ideal para técnicas en lápiz de color y plumón.", "Recomendada para trabajos escolares."],
     "reviews": [
       {
         "name": "Cliente",
@@ -929,7 +929,7 @@
     "title": "Cartulina Colorline Azul Mar 150 G",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cartulina Colorline 150 g de color uniforme para manualidades.",
-    "longDescription": "Cartulina Colorline de 150 g con color homog?neo, adecuada para trabajos escolares y creativos.",
+    "longDescription": "Cartulina Colorline de 150 g con color homogéneo, adecuada para trabajos escolares y creativos.",
     "price": "S/ 1.88",
     "rating": "4.5",
     "stock": 10,
@@ -948,7 +948,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Perfecta para recortes, collage y maquetas.", "?sala en proyectos escolares y decorativos.", "Apta para l?pices de color y plumones."],
+    "usage": ["Perfecta para recortes, collage y maquetas.", "Úsala en proyectos escolares y decorativos.", "Apta para lápices de color y plumones."],
     "reviews": [
       {
         "name": "Cliente",
@@ -966,7 +966,7 @@
     "title": "Cartulina Colorline Fucsia 150 G",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cartulina Colorline 150 g con color vivo para proyectos creativos.",
-    "longDescription": "Cartulina Colorline de gramaje 150 g, ?til para trabajos escolares y manualidades de alta visibilidad.",
+    "longDescription": "Cartulina Colorline de gramaje 150 g, Útil para trabajos escolares y manualidades de alta visibilidad.",
     "price": "S/ 1.88",
     "rating": "4.5",
     "stock": 10,
@@ -985,7 +985,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Ideal para carteles y recortes llamativos.", "?til en collages y proyectos escolares.", "Compatible con l?pices y plumones."],
+    "usage": ["Ideal para carteles y recortes llamativos.", "Útil en collages y proyectos escolares.", "Compatible con lápices y plumones."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1022,7 +1022,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?sala en maquetas y trabajos escolares.", "Ideal para recortes y decoraciones.", "Apta para l?piz y plum?n."],
+    "usage": ["Úsala en maquetas y trabajos escolares.", "Ideal para recortes y decoraciones.", "Apta para lápiz y plumón."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1059,7 +1059,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?sala para carteles y decoraciones.", "Ideal para trabajos escolares y collage.", "Soporta trazos de plum?n y l?piz."],
+    "usage": ["Úsala para carteles y decoraciones.", "Ideal para trabajos escolares y collage.", "Soporta trazos de plumón y lápiz."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1077,7 +1077,7 @@
     "title": "Cartulina Canson 150G Amarillo Limo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cartulina escolar de 150 g en formato 50 x 65 cm para trabajos grandes.",
-    "longDescription": "Cartulina escolar de 150 g con tama?o amplio, ideal para carteles y presentaciones.",
+    "longDescription": "Cartulina escolar de 150 g con tamaño amplio, ideal para carteles y presentaciones.",
     "price": "S/ 0.52",
     "rating": "4.5",
     "stock": 10,
@@ -1096,7 +1096,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?sala en afiches y trabajos de exposici?n.", "Adecuada para recortes y manualidades.", "Ideal para actividades escolares."],
+    "usage": ["Úsala en afiches y trabajos de exposición.", "Adecuada para recortes y manualidades.", "Ideal para actividades escolares."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1133,7 +1133,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Ideal para trabajos escolares y decoraciones.", "?sala con l?pices de color y plumones.", "Buena rigidez para presentaciones."],
+    "usage": ["Ideal para trabajos escolares y decoraciones.", "Úsala con lápices de color y plumones.", "Buena rigidez para presentaciones."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1170,7 +1170,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?sala como base para dibujos y carteles.", "Ideal para trabajos escolares y manualidades.", "Apta para l?piz, plum?n y pintura ligera."],
+    "usage": ["Úsala como base para dibujos y carteles.", "Ideal para trabajos escolares y manualidades.", "Apta para lápiz, plumón y pintura ligera."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1188,7 +1188,7 @@
     "title": "Cartulina Escolar Celeste Pastel 135/140 G",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cartulina escolar 135/140 g para manualidades y trabajos escolares.",
-    "longDescription": "Cartulina escolar con gramaje medio, ?til para recortes y presentaciones.",
+    "longDescription": "Cartulina escolar con gramaje medio, Útil para recortes y presentaciones.",
     "price": "S/ 0.29",
     "rating": "4.5",
     "stock": 10,
@@ -1207,7 +1207,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Usa en carteles, recortes y collages.", "Ideal para trabajos escolares creativos.", "Apta para l?piz y plum?n."],
+    "usage": ["Usa en carteles, recortes y collages.", "Ideal para trabajos escolares creativos.", "Apta para lápiz y plumón."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1225,7 +1225,7 @@
     "title": "Cartulina Escolar Naranja 150 Gr 50 X 65 Cm",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cartulina escolar de 150 g en formato 50 x 65 cm para afiches.",
-    "longDescription": "Cartulina de tama?o grande y gramaje 150 g, ideal para presentaciones escolares y carteles.",
+    "longDescription": "Cartulina de tamaño grande y gramaje 150 g, ideal para presentaciones escolares y carteles.",
     "price": "S/ 0.52",
     "rating": "4.5",
     "stock": 10,
@@ -1244,7 +1244,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Perfecta para exposiciones y afiches.", "?sala para recortar y decorar.", "Buena rigidez para trabajos escolares."],
+    "usage": ["Perfecta para exposiciones y afiches.", "Úsala para recortar y decorar.", "Buena rigidez para trabajos escolares."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1262,7 +1262,7 @@
     "title": "Cartulina Escolar Rosado Pastel 135/140 G",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cartulina escolar 135/140 g para recortes y manualidades.",
-    "longDescription": "Cartulina escolar de gramaje medio, ?til para trabajos creativos y presentaciones.",
+    "longDescription": "Cartulina escolar de gramaje medio, Útil para trabajos creativos y presentaciones.",
     "price": "S/ 0.29",
     "rating": "4.5",
     "stock": 10,
@@ -1281,7 +1281,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?sala en proyectos escolares y decoraciones.", "Apta para l?piz de color y plumones.", "Ideal para collages y recortes."],
+    "usage": ["Úsala en proyectos escolares y decoraciones.", "Apta para lápiz de color y plumones.", "Ideal para collages y recortes."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1318,7 +1318,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Adecuada para recortes y carteles.", "?sala en proyectos de aula.", "Compatible con l?piz y plum?n."],
+    "usage": ["Adecuada para recortes y carteles.", "Úsala en proyectos de aula.", "Compatible con lápiz y plumón."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1336,7 +1336,7 @@
     "title": "Cartulina Negro Chica 50 X 65 Cm",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cartulina negra 50 x 65 cm para proyectos escolares y manualidades.",
-    "longDescription": "Cartulina en tama?o 50 x 65 cm, ?til para fondos, recortes y presentaciones con contraste.",
+    "longDescription": "Cartulina en tamaño 50 x 65 cm, Útil para fondos, recortes y presentaciones con contraste.",
     "price": "S/ 0.52",
     "rating": "4.5",
     "stock": 10,
@@ -1355,7 +1355,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Ideal como fondo para trabajos y maquetas.", "?til para recortes y siluetas.", "Recomendada para proyectos creativos."],
+    "usage": ["Ideal como fondo para trabajos y maquetas.", "Útil para recortes y siluetas.", "Recomendada para proyectos creativos."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1373,7 +1373,7 @@
     "title": "Cinta De Embalaje Pegafan Transparente 2'' X 110 Yd (Eco)",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cinta de embalaje transparente de 2 pulgadas para sellar cajas y paquetes.",
-    "longDescription": "Cinta de embalaje transparente para uso en cajas, paquetes y env?os, con buena adherencia.",
+    "longDescription": "Cinta de embalaje transparente para uso en cajas, paquetes y envíos, con buena adherencia.",
     "price": "S/ 1.33",
     "rating": "4.5",
     "stock": 10,
@@ -1392,7 +1392,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Sella cajas y paquetes para env?os.", "Ideal para oficina, almac?n y hogar.", "Funciona con dispensadores de cinta."],
+    "usage": ["Sella cajas y paquetes para envíos.", "Ideal para oficina, almacén y hogar.", "Funciona con dispensadores de cinta."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1409,8 +1409,8 @@
   "cola-artesco-con-aplicador-250-g": {
     "title": "Cola Artesco Con Aplicador 250 G",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Cola sint?tica Artesco con aplicador para trabajos escolares y manualidades.",
-    "longDescription": "Cola sint?tica con aplicador que facilita el uso en papel, cart?n y manualidades.",
+    "description": "Cola sintética Artesco con aplicador para trabajos escolares y manualidades.",
+    "longDescription": "Cola sintética con aplicador que facilita el uso en papel, cartón y manualidades.",
     "price": "S/ 2.42",
     "rating": "4.5",
     "stock": 10,
@@ -1429,7 +1429,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Pega papel y cartulina en trabajos escolares.", "?sala en manualidades y maquetas.", "Aplicador pr?ctico para dosificar."],
+    "usage": ["Pega papel y cartulina en trabajos escolares.", "Úsala en manualidades y maquetas.", "Aplicador práctico para dosificar."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1446,8 +1446,8 @@
   "cola-artesco-con-aplicador-57-g": {
     "title": "Cola Artesco Con Aplicador 57 G",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Cola sint?tica Artesco con aplicador, ideal para estuches escolares.",
-    "longDescription": "Cola sint?tica de tama?o pr?ctico con aplicador para trabajos escolares y manualidades.",
+    "description": "Cola sintética Artesco con aplicador, ideal para estuches escolares.",
+    "longDescription": "Cola sintética de tamaño práctico con aplicador para trabajos escolares y manualidades.",
     "price": "S/ 1.47",
     "rating": "4.5",
     "stock": 10,
@@ -1466,7 +1466,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Pega papel y cart?n de forma limpia.", "Ideal para uso escolar diario.", "Aplicador para controlar la cantidad."],
+    "usage": ["Pega papel y cartón de forma limpia.", "Ideal para uso escolar diario.", "Aplicador para controlar la cantidad."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1484,7 +1484,7 @@
     "title": "Cola Faber Castell Pega Bien X110G",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Pegamento Pega Bien de Faber-Castell para uso escolar y manualidades.",
-    "longDescription": "Pegamento Pega Bien de Faber-Castell dise?ado para pegar papel y cart?n en trabajos escolares.",
+    "longDescription": "Pegamento Pega Bien de Faber-Castell diseñado para pegar papel y cartón en trabajos escolares.",
     "price": "S/ 1.49",
     "rating": "4.5",
     "stock": 10,
@@ -1503,7 +1503,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Ideal para pegar papel, cartulina y materiales ligeros.", "Uso recomendado en colegio y hogar.", "Aplicaci?n sencilla y limpia."],
+    "usage": ["Ideal para pegar papel, cartulina y materiales ligeros.", "Uso recomendado en colegio y hogar.", "Aplicación sencilla y limpia."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1521,7 +1521,7 @@
     "title": "Cola Faber Castell Pegabien Con Aplicador 250 gr",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Pegamento Pega Bien de Faber-Castell con aplicador para manualidades.",
-    "longDescription": "Pegamento escolar con aplicador, ?til para trabajos de papel y cart?n con mejor dosificaci?n.",
+    "longDescription": "Pegamento escolar con aplicador, Útil para trabajos de papel y cartón con mejor dosificación.",
     "price": "S/ 2.53",
     "rating": "4.5",
     "stock": 10,
@@ -1557,7 +1557,7 @@
   "cola-x-1-2-kg-david": {
     "title": "Cola X 1/2 Kg David",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Cola blanca escolar para trabajos de papel, cart?n y madera ligera.",
+    "description": "Cola blanca escolar para trabajos de papel, cartón y madera ligera.",
     "longDescription": "Cola blanca tipo PVA adecuada para uso escolar y manualidades, con buena adherencia en superficies porosas.",
     "price": "S/ 3.96",
     "rating": "4.5",
@@ -1577,7 +1577,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Pega papel, cart?n y madera ligera.", "?sala en proyectos de manualidades y maquetas.", "Recomendada para uso escolar."],
+    "usage": ["Pega papel, cartón y madera ligera.", "Úsala en proyectos de manualidades y maquetas.", "Recomendada para uso escolar."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1594,8 +1594,8 @@
   "cola-x-23-cc-david": {
     "title": "Cola X 23 Cc David",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Cola blanca escolar en presentaci?n peque?a para estuches.",
-    "longDescription": "Cola blanca tipo PVA de tama?o compacto para pegar papel y cart?n en trabajos escolares.",
+    "description": "Cola blanca escolar en presentación pequeña para estuches.",
+    "longDescription": "Cola blanca tipo PVA de tamaño compacto para pegar papel y cartón en trabajos escolares.",
     "price": "S/ 0.39",
     "rating": "4.5",
     "stock": 10,
@@ -1614,7 +1614,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Ideal para tareas r?pidas en el aula.", "Pega papel y cartulina.", "Presentaci?n compacta para estuche."],
+    "usage": ["Ideal para tareas rápidas en el aula.", "Pega papel y cartulina.", "Presentación compacta para estuche."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1631,7 +1631,7 @@
   "cola-x-250-gr-pote-layconsa": {
     "title": "Cola X 250 Gr Pote Layconsa",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Cola blanca escolar para uso en papel, cart?n y manualidades.",
+    "description": "Cola blanca escolar para uso en papel, cartón y manualidades.",
     "longDescription": "Cola blanca tipo PVA en pote, adecuada para manualidades y trabajos escolares.",
     "price": "S/ 1.83",
     "rating": "4.5",
@@ -1651,7 +1651,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Pega papel, cart?n y madera ligera.", "?til en proyectos escolares y de manualidades.", "Aplicaci?n con brocha o esp?tula."],
+    "usage": ["Pega papel, cartón y madera ligera.", "Útil en proyectos escolares y de manualidades.", "Aplicación con brocha o espátula."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1668,8 +1668,8 @@
   "cola-x-35-gr-faber-castell-pegabien": {
     "title": "Cola X 35 Gr Faber Castell Pegabien   379635",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Pegamento Pega Bien de Faber-Castell en tama?o compacto.",
-    "longDescription": "Pegamento escolar de presentaci?n peque?a para pegar papel y cart?n con facilidad.",
+    "description": "Pegamento Pega Bien de Faber-Castell en tamaño compacto.",
+    "longDescription": "Pegamento escolar de presentación pequeña para pegar papel y cartón con facilidad.",
     "price": "S/ 0.85",
     "rating": "4.5",
     "stock": 10,
@@ -1688,7 +1688,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Ideal para estuches escolares.", "Pega papel y cartulina en tareas.", "Aplicaci?n limpia y pr?ctica."],
+    "usage": ["Ideal para estuches escolares.", "Pega papel y cartulina en tareas.", "Aplicación limpia y práctica."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1706,7 +1706,7 @@
     "title": "Cola X 60 Cc David",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Cola blanca escolar para proyectos y manualidades.",
-    "longDescription": "Cola blanca tipo PVA en formato mediano, ?til para pegar papel y cart?n.",
+    "longDescription": "Cola blanca tipo PVA en formato mediano, Útil para pegar papel y cartón.",
     "price": "S/ 0.64",
     "rating": "4.5",
     "stock": 10,
@@ -1725,7 +1725,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?sala en trabajos escolares.", "Pega papel y cartulina de forma uniforme.", "Ideal para manualidades."],
+    "usage": ["Úsala en trabajos escolares.", "Pega papel y cartulina de forma uniforme.", "Ideal para manualidades."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1742,8 +1742,8 @@
   "colores-largos-artesco-triangulares-lapices-sacapuntas-x-12-und": {
     "title": "Colores Largos Artesco Triangulares + Lápices + Sacapuntas X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Colores largos Artesco triangulares con dise?o ergon?mico para escritura c?moda.",
-    "longDescription": "Set de colores triangulares Artesco con forma ergon?mica para un mejor agarre y trazos uniformes.",
+    "description": "Colores largos Artesco triangulares con diseño ergonómico para escritura cómoda.",
+    "longDescription": "Set de colores triangulares Artesco con forma ergonómica para un mejor agarre y trazos uniformes.",
     "price": "S/ 5.15",
     "rating": "4.5",
     "stock": 10,
@@ -1762,7 +1762,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["Colorea y dibuja con mejor control del agarre.", "Ideal para ni?os y estudiantes.", "Incluye ?tiles para actividades escolares."],
+    "usage": ["Colorea y dibuja con mejor control del agarre.", "Ideal para niños y estudiantes.", "Incluye Útiles para actividades escolares."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1779,8 +1779,8 @@
   "colores-largos-faber-castell-triangulares-clasicos-x-12-und": {
     "title": "Colores Largos Faber Castell Triangulares ClAsicos X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Colores triangulares Faber-Castell de agarre c?modo y colores intensos.",
-    "longDescription": "Ecol?pices triangulares Faber-Castell con forma ergon?mica para un mejor agarre y colores brillantes.",
+    "description": "Colores triangulares Faber-Castell de agarre cómodo y colores intensos.",
+    "longDescription": "Ecolápices triangulares Faber-Castell con forma ergonómica para un mejor agarre y colores brillantes.",
     "price": "S/ 4.92",
     "rating": "4.5",
     "stock": 10,
@@ -1816,8 +1816,8 @@
   "cuaderno-cuadriculado-justus": {
     "title": "Cuaderno Cuadriculado - Justus",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Cuaderno cuadriculado Justus en tama?o A4 para apuntes y ejercicios.",
-    "longDescription": "Cuaderno cuadriculado tama?o A4, ideal para matem?ticas, apuntes y tareas escolares.",
+    "description": "Cuaderno cuadriculado Justus en tamaño A4 para apuntes y ejercicios.",
+    "longDescription": "Cuaderno cuadriculado tamaño A4, ideal para matemáticas, apuntes y tareas escolares.",
     "price": "S/ 3.50",
     "rating": "4.5",
     "stock": 10,
@@ -1836,7 +1836,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
-    "usage": ["?salo para ejercicios y apuntes con cuadr?cula.", "Ideal para colegio, universidad y oficina.", "Facilita el orden y la presentaci?n."],
+    "usage": ["Úsalo para ejercicios y apuntes con cuadrícula.", "Ideal para colegio, universidad y oficina.", "Facilita el orden y la presentación."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1853,7 +1853,8 @@
   "cuaderno-cuadriculado-luxor": {
     "title": "Cuaderno Cuadriculado - Luxor",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Luxor A4 con hoja cuadriculada para apuntes y ejercicios.",
+    "longDescription": "Cuaderno Luxor en tamaño A4 con formatos de línea disponibles (cuadriculado o rayado), pensado para uso escolar y organización de tareas.",
     "price": "S/ 2.10",
     "rating": "4.5",
     "stock": 10,
@@ -1872,6 +1873,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para ejercicios de matemáticas y apuntes con cuadrícula.", "Ideal para colegio y oficina por su formato A4.", "Mantén tus notas ordenadas por cursos o proyectos."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1888,7 +1890,8 @@
   "compas-escolar-layconsa-plastico-con-lapiz": {
     "title": "Compás De Plástico Artesco Con Lápiz",
     "short": "Escritura comoda para tareas y apuntes.",
-    "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
+    "description": "Compás plástico escolar de uso práctico, con lápiz para trazos circulares.",
+    "longDescription": "Compás escolar de plástico, fácil de usar y con bordes redondeados; incluye lápiz para dibujo geométrico y tareas de geometría.",
     "price": "S/ 1.69",
     "rating": "4.5",
     "stock": 10,
@@ -1907,6 +1910,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Traza círculos y arcos en trabajos de geometría.", "Ideal para alumnos de primaria y secundaria.", "Úsalo sobre cartulina o papel bond."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1923,7 +1927,8 @@
   "corrector-mini-4ml": {
     "title": "Corrector Mini 4Ml",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Corrector líquido mini de 4 ml con punta metálica para correcciones precisas.",
+    "longDescription": "Corrector mini portÚtil con punta metálica y secado rápido, diseñado para correcciones finas en trabajos escolares y de oficina.",
     "price": "S/ 0.70",
     "rating": "4.5",
     "stock": 10,
@@ -1942,6 +1947,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Corrige errores de escritura con precisión.", "Espera unos segundos a que seque antes de reescribir.", "Ideal para estuches por su tamaño compacto."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1958,7 +1964,8 @@
   "corrector-tipo-lapicero-artesco-punta-metalica": {
     "title": "Corrector Tipo Lapicero Artesco Punta Metálica",
     "short": "Escritura fluida para estudio y oficina.",
-    "description": "Escritura fluida para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Corrector Artesco tipo lapicero con punta metálica y secado rápido.",
+    "longDescription": "Corrector tipo lapicero Artesco con punta metálica, cuerpo ergonómico y secado rápido para correcciones limpias.",
     "price": "S/ 1.06",
     "rating": "4.5",
     "stock": 10,
@@ -1977,6 +1984,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Aplica el corrector con presión suave sobre el error.", "Deja secar y vuelve a escribir encima.", "Útil para trabajos escolares y oficina."],
     "reviews": [
       {
         "name": "Cliente",
@@ -1993,7 +2001,8 @@
   "corrector-tipo-lapicero-faber-castell-punta-metalica": {
     "title": "Corrector Tipo Lapicero Faber Castell Punta Metálica",
     "short": "Escritura fluida para estudio y oficina.",
-    "description": "Escritura fluida para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Corrector Faber-Castell tipo lápiz con punta fina para correcciones precisas.",
+    "longDescription": "Corrector líquido tipo lápiz con punta fina, cuerpo suave y secado rápido para uso escolar y de oficina.",
     "price": "S/ 1.14",
     "rating": "4.5",
     "stock": 10,
@@ -2012,6 +2021,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Corrige líneas finas con la punta tipo aguja.", "Espera el secado antes de reescribir.", "Ideal para tareas y documentos."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2028,7 +2038,8 @@
   "crayones-jumbo-artesco-estuche-de-plastico-x-12-und": {
     "title": "Crayones Delgados X 12 Und. Puppy",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Crayones de 12 colores en estuche plástico, de trazo suave y colores intensos.",
+    "longDescription": "Set de crayones de 12 colores con trazo uniforme, colores intensos y materiales no tóxicos, ideal para uso escolar.",
     "price": "S/ 4.77",
     "rating": "4.5",
     "stock": 10,
@@ -2047,6 +2058,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Colorea y dibuja con trazos suaves y uniformes.", "Recomendado para niños y actividades creativas.", "Guárdalos en el estuche para mantenerlos ordenados."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2063,7 +2075,8 @@
   "cuaderno-cuadriculado-standford": {
     "title": "Cuaderno Cuadriculado - Standford",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Standford con formato cuadriculado para apuntes y ejercicios.",
+    "longDescription": "Cuaderno escolar Standford con hojas cuadriculadas y tapa resistente, pensado para uso diario en el aula.",
     "price": "S/ 5.60",
     "rating": "4.5",
     "stock": 10,
@@ -2082,6 +2095,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para matemáticas y ejercicios con cuadrícula.", "Úsalo para apuntes y tareas escolares.", "Organiza tus cursos por cuaderno."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2098,7 +2112,8 @@
   "cuaderno-cuadriculado-a5-chico-justus": {
     "title": "Cuaderno Cuadriculado A5 chico - Justus",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Justus A5 chico con cuadriculado para notas rápidas.",
+    "longDescription": "Cuaderno Justus en tamaño A5, práctico para llevar y tomar apuntes con papel de buena blancura.",
     "price": "S/ 1.82",
     "rating": "4.5",
     "stock": 10,
@@ -2117,6 +2132,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para notas rápidas y ejercicios.", "Ideal para llevar en mochila o bolso.", "Apto para colegio y oficina."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2133,7 +2149,8 @@
   "cuaderno-cuadrimax-1x1-standford": {
     "title": "Cuaderno Cuadrimax 1x1 - Standford",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Standford con cuadrícula 1x1 para ejercicios y apuntes ordenados.",
+    "longDescription": "Cuaderno escolar Standford con formato cuadriculado, Útil para operaciones, gráficos y organización de contenidos.",
     "price": "S/ 5.60",
     "rating": "4.5",
     "stock": 10,
@@ -2152,6 +2169,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Resuelve ejercicios con cuadrícula 1x1.", "Útil para tablas, gráficos y diagramas.", "Recomendado para colegio."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2168,7 +2186,8 @@
   "cuaderno-cuadrimax-2x2-standford": {
     "title": "Cuaderno Cuadrimax 2x2 - Standford",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Standford con cuadrícula 2x2, ideal para nivel inicial.",
+    "longDescription": "Cuaderno cuadriculado 2x2 de Standford, pensado para trabajos escolares con cuadritos grandes para niños.",
     "price": "S/ 5.60",
     "rating": "4.5",
     "stock": 10,
@@ -2187,6 +2206,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Útil para niños en nivel inicial y primaria.", "Facilita la escritura y el trazado de números.", "Ideal para tareas con cuadros grandes."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2203,7 +2223,8 @@
   "cuaderno-rayado-justus": {
     "title": "Cuaderno Rayado - Justus",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Justus rayado para apuntes y tareas diarias.",
+    "longDescription": "Cuaderno Justus rayado con papel extra blanco y buena resistencia para uso escolar.",
     "price": "S/ 3.50",
     "rating": "4.5",
     "stock": 10,
@@ -2222,6 +2243,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para notas y tareas en líneas.", "Ideal para colegio y academia.", "Mantén tus apuntes organizados."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2238,7 +2260,8 @@
   "cuaderno-rayado-luxor": {
     "title": "Cuaderno Rayado - Luxor",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Luxor rayado A4 para escritura y apuntes.",
+    "longDescription": "Cuaderno Luxor en tamaño A4 con formato rayado, pensado para escritura diaria y organización de contenidos.",
     "price": "S/ 2.10",
     "rating": "4.5",
     "stock": 10,
@@ -2257,6 +2280,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Toma apuntes y redacta tareas en líneas.", "Útil para estudios y oficina.", "Ideal para cursos de letras."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2273,7 +2297,8 @@
   "cuaderno-rayado-standford": {
     "title": "Cuaderno Rayado - Standford",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Standford rayado para apuntes y trabajos escolares.",
+    "longDescription": "Cuaderno escolar Standford con formato rayado y tapa resistente, adecuado para uso diario.",
     "price": "S/ 5.60",
     "rating": "4.5",
     "stock": 10,
@@ -2292,6 +2317,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para escribir apuntes en líneas.", "Recomendado para tareas y dictados.", "Mantén tus cursos organizados."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2308,7 +2334,8 @@
   "cuaderno-rayado-a5-chico-justus": {
     "title": "Cuaderno Rayado A5 chico - Justus",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Justus A5 chico rayado para notas rápidas.",
+    "longDescription": "Cuaderno Justus en tamaño A5 con formato rayado, práctico para llevar y tomar apuntes.",
     "price": "S/ 1.82",
     "rating": "4.5",
     "stock": 10,
@@ -2327,6 +2354,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para notas rápidas y listas.", "Úsalo en el colegio, oficina o casa.", "Tamaño compacto para mochila."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2343,7 +2371,8 @@
   "cuaderno-triple-kids-con-sombra-alpha": {
     "title": "Cuaderno Triple kids con Sombra- Alpha",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Alpha Kids triple renglón con sombra para escritura escolar.",
+    "longDescription": "Cuaderno Alpha con formato triple renglón con sombra, hojas resistentes y tapa duradera, pensado para niños en edad escolar.",
     "price": "S/ 5.60",
     "rating": "4.5",
     "stock": 10,
@@ -2362,6 +2391,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para caligrafía y escritura guiada.", "Ayuda a mantener el tamaño de letra.", "Recomendado para primaria."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2378,7 +2408,8 @@
   "cuaderno-triple-renglon-con-sombra-justus": {
     "title": "Cuaderno Triple Renglón con Sombra - Justus",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Justus triple renglón con sombra para escritura guiada.",
+    "longDescription": "Cuaderno con formato triple renglón con sombra, pensado para apoyar la caligrafía y la escritura ordenada.",
     "price": "S/ 3.50",
     "rating": "4.5",
     "stock": 10,
@@ -2397,6 +2428,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para caligrafía en primaria.", "Ayuda a mantener la altura de letras.", "Ideal para tareas escolares."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2413,7 +2445,8 @@
   "cuaderno-triple-renglon-con-sombra-standford": {
     "title": "Cuaderno Triple Renglón con Sombra - Standford",
     "short": "Ideal para apuntes y organizacion diaria.",
-    "description": "Ideal para apuntes y organizacion diaria. Disponible en Libreria Belen.",
+    "description": "Cuaderno Standford triple renglón con sombra para escritura escolar.",
+    "longDescription": "Cuaderno Standford con formato triple renglón sombreado, Útil para caligrafía y escritura guiada.",
     "price": "S/ 5.60",
     "rating": "4.5",
     "stock": 10,
@@ -2432,6 +2465,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para niños que aprenden a escribir.", "Facilita el orden y el tamaño de letra.", "Úsalo en primaria."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2448,7 +2482,8 @@
   "engrapador-artesco-m-526-azul-25-hojas-con-sacagrapas": {
     "title": "Engrapador Artesco M-526 Azul 25 Hojas Con Sacagrapas",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Engrapador Artesco M-526 con sacagrapas, capacidad de hasta 25 hojas.",
+    "longDescription": "Engrapador de escritorio con estructura metálica, yunque giratorio y sacagrapas incorporado; usa grapas 26/6 y engrapa hasta 25 hojas.",
     "price": "S/ 8.21",
     "rating": "4.5",
     "stock": 10,
@@ -2467,6 +2502,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Une documentos de oficina y escuela.", "Usa grapas 26/6 para mejores resultados.", "Incluye sacagrapas para correcciones."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2483,7 +2519,8 @@
   "engrapador-ove-25-hojas-con-sacagrapas": {
     "title": "Engrapador Ove 25 Hojas Con Sacagrapas",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Engrapador de escritorio con capacidad de hasta 25 hojas y sacagrapas.",
+    "longDescription": "Engrapador de uso escolar u oficina, diseñado para unir documentos con una capacidad aproximada de 25 hojas.",
     "price": "S/ 7.30",
     "rating": "4.5",
     "stock": 10,
@@ -2502,6 +2539,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Engrapa documentos para mantenerlos ordenados.", "Úsalo en tareas escolares y oficina.", "Ideal para trabajos de varios folios."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2518,7 +2556,8 @@
   "folder-a-4-tapa-transparente-colores-surtidos": {
     "title": "Folder A-4 Tapa Transparente Colores Surtidos",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Folder A4 con tapa transparente en colores surtidos para organizar documentos.",
+    "longDescription": "Folder tamaño A4 con tapa transparente y colores surtidos, Útil para proteger y presentar documentos en oficina o escuela.",
     "price": "S/ 4.55",
     "rating": "4.5",
     "stock": 10,
@@ -2537,6 +2576,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Organiza documentos por temas o cursos.", "Protege hojas A4 con tapa transparente.", "Ideal para presentaciones y trabajos."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2553,7 +2593,8 @@
   "folder-artesco-a4-doble-tapa-con-gusano": {
     "title": "Folder Artesco A4 Amarillo Doble Tapa Con Gusano",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Folder Artesco A4 de doble tapa con gusano y bolsillos internos.",
+    "longDescription": "Folder A4 con doble tapa y gusano para sujetar hojas, incluye bolsillos internos y espacio para etiqueta.",
     "price": "S/ 4.61",
     "rating": "4.5",
     "stock": 10,
@@ -2572,6 +2613,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Guarda y sujeta documentos A4 de forma segura.", "Ideal para archivar trabajos y tareas.", "Úsalo en oficina o colegio."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2588,7 +2630,8 @@
   "folder-artesco-duramax-fantasaa-a4-con-fastener-surtido": {
     "title": "Folder Artesco Duramax Fantasía A4 Con Fastener Surtido",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Folder Duramax Artesco A4 con fastener y diseños surtidos.",
+    "longDescription": "Folder Duramax con fastener metálico, bolsillos internos y diseños surtidos, pensado para organizar documentos A4.",
     "price": "S/ 3.65",
     "rating": "4.5",
     "stock": 10,
@@ -2607,6 +2650,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Sujeta documentos con el fastener metálico.", "Guarda hojas y accesorios en bolsillos internos.", "Ideal para escuela y oficina."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2623,7 +2667,8 @@
   "forro-vinifan-a4-cristal": {
     "title": "Forro Vinifan A4 Cristal",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Forro Vinifan A4 cristal de alta transparencia y resistencia.",
+    "longDescription": "Forro cristal A4 Vinifan con gran durabilidad y brillo, ideal para forrar libros y cuadernos.",
     "price": "S/ 4.50",
     "rating": "4.5",
     "stock": 10,
@@ -2642,6 +2687,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Protege libros y cuadernos del desgaste.", "Aporta brillo y transparencia a las carátulas.", "Ideal para uso escolar."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2658,7 +2704,8 @@
   "forro-vinifan-oficio-cristal": {
     "title": "Forro Vinifan Oficio Cristal",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Forro Vinifan tamaño oficio con acabado cristal resistente.",
+    "longDescription": "Forro cristal Vinifan tamaño oficio, diseñado para proteger libros y cuadernos con alta transparencia.",
     "price": "S/ 9.00",
     "rating": "4.5",
     "stock": 10,
@@ -2677,6 +2724,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Forra cuadernos tamaño oficio.", "Protege la carátula y prolonga su vida Útil.", "Ideal para uso escolar."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2693,7 +2741,8 @@
   "forro-vinifan-vinifancito-a4-cristal": {
     "title": "Forro Vinifan Vinifancito A4 Cristal",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Forro Vinifancito A4 cristal para libros y cuadernos.",
+    "longDescription": "Forro cristal A4 con alta transparencia y brillo, pensado para proteger cuadernos y libros.",
     "price": "S/ 2.25",
     "rating": "4.5",
     "stock": 10,
@@ -2712,6 +2761,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Protege cuadernos A4 del desgaste.", "Fácil de limpiar y mantener.", "Aporta acabado brillante."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2728,7 +2778,8 @@
   "goma-en-barra-artesco-21-g": {
     "title": "Goma En Barra Artesco 21 G",
     "short": "Borrado limpio para el estudio.",
-    "description": "Borrado limpio para el estudio. Disponible en Libreria Belen.",
+    "description": "Goma en barra Artesco 21 g de pegado rápido y limpio.",
+    "longDescription": "Pegamento en barra de 21 g con base giratoria y tapa hermética; no forma grumos y no contiene disolventes.",
     "price": "S/ 1.50",
     "rating": "4.5",
     "stock": 10,
@@ -2747,6 +2798,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Pega papel, cartulina y cartón.", "Ideal para manualidades escolares.", "Uso limpio y sin derrames."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2763,7 +2815,8 @@
   "goma-en-barra-artesco-40-g": {
     "title": "Goma En Barra Artesco 40 G",
     "short": "Borrado limpio para el estudio.",
-    "description": "Borrado limpio para el estudio. Disponible en Libreria Belen.",
+    "description": "Goma en barra Artesco 40 g para pegado rápido en papel y cartón.",
+    "longDescription": "Pegamento en barra sin disolventes, de pegado rápido y limpio, adecuado para trabajos escolares y oficina.",
     "price": "S/ 2.51",
     "rating": "4.5",
     "stock": 10,
@@ -2782,6 +2835,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Pega papel y cartulina de forma uniforme.", "Ideal para proyectos escolares.", "Uso práctico y limpio."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2798,7 +2852,8 @@
   "goma-en-barra-artesco-neon-21-g": {
     "title": "Goma En Barra Artesco Neón 21 G",
     "short": "Borrado limpio para el estudio.",
-    "description": "Borrado limpio para el estudio. Disponible en Libreria Belen.",
+    "description": "Goma en barra Artesco 21 g, ideal para uso escolar y manualidades.",
+    "longDescription": "Pegamento en barra de 21 g con tapa hermética y pegado rápido, pensado para papel y cartón.",
     "price": "S/ 2.02",
     "rating": "4.5",
     "stock": 10,
@@ -2817,6 +2872,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Pega papel y cartulina en trabajos escolares.", "Úsala en manualidades y maquetas.", "Aplicación limpia y sin grumos."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2833,7 +2889,8 @@
   "goma-en-barra-faber-castell-40-g": {
     "title": "Goma En Barra Faber Castell 40 G",
     "short": "Borrado limpio para el estudio.",
-    "description": "Borrado limpio para el estudio. Disponible en Libreria Belen.",
+    "description": "Goma en barra Faber-Castell 40 g sin solventes y no tóxica.",
+    "longDescription": "Pegamento en barra Faber-Castell con glicerina, sin solventes, ideal para papel, cartulina y fotos.",
     "price": "S/ 2.59",
     "rating": "4.5",
     "stock": 10,
@@ -2852,6 +2909,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Pega papel y cartulina sin dejar restos.", "Ideal para colegio, oficina y hogar.", "Aplicación limpia y práctica."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2868,7 +2926,8 @@
   "goma-en-barra-faber-castell-fix-21-g": {
     "title": "Goma En Barra Faber Castell Fix 21 G",
     "short": "Borrado limpio para el estudio.",
-    "description": "Borrado limpio para el estudio. Disponible en Libreria Belen.",
+    "description": "Goma en barra Faber-Castell para pegado limpio en papel y cartulina.",
+    "longDescription": "Pegamento en barra sin solventes, pensado para uso escolar y de oficina en papel y cartulina.",
     "price": "S/ 1.55",
     "rating": "4.5",
     "stock": 10,
@@ -2887,6 +2946,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Pega hojas y cartulinas de forma uniforme.", "Ideal para trabajos escolares.", "Uso limpio y sin derrames."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2903,7 +2963,8 @@
   "grapas-26-6-x-5000-und-artesco": {
     "title": "Grapas 26/6 X 5000 Und Artesco",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Grapas 26/6 Artesco en caja de 5000 unidades.",
+    "longDescription": "Grapas tamaño 26/6, galvanizadas y resistentes, compatibles con engrapadoras estándar y Útiles para hasta 25 hojas.",
     "price": "S/ 2.42",
     "rating": "4.5",
     "stock": 10,
@@ -2922,6 +2983,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalas con engrapadoras 26/6.", "Ideal para oficina y colegio.", "Mantén documentos organizados."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2938,7 +3000,8 @@
   "lapiz-2b-grafito-artesco-con-borrador-caja-x-12-un": {
     "title": "Lápiz 2B Grafito Artesco Con Borrador Caja X 12 Und",
     "short": "Escritura comoda para tareas y apuntes.",
-    "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
+    "description": "Lápiz grafito 2B Artesco con borrador, presentación x12.",
+    "longDescription": "Lápiz Artesco 2B con cuerpo hexagonal y borrador incorporado, mina resistente y trazo uniforme.",
     "price": "S/ 3.61",
     "rating": "4.5",
     "stock": 10,
@@ -2957,6 +3020,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para escritura diaria y dibujo.", "Borra con facilidad gracias al borrador incorporado.", "Úsalo en colegio u oficina."],
     "reviews": [
       {
         "name": "Cliente",
@@ -2973,7 +3037,8 @@
   "lapiz-2b-tacnico-faber-castell-sin-borrador-caja-x-12-und": {
     "title": "Lápiz 2B Técnico Artesco Con Borrador Caja X 12 Und",
     "short": "Escritura comoda para tareas y apuntes.",
-    "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
+    "description": "Lápiz de grafito 2B para escritura y dibujo técnico.",
+    "longDescription": "Lápiz de grafito de calidad para escritura y dibujo técnico/artístico, con trazo uniforme y resistente.",
     "price": "S/ 3.97",
     "rating": "4.5",
     "stock": 10,
@@ -2992,6 +3057,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para dibujo técnico y bocetos.", "Ideal para escritura y sombreado.", "Recomendado para estudiantes y artistas."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3008,7 +3074,8 @@
   "lapiz-hb-faber-castell-titan-con-borrador-caja-x-12-und": {
     "title": "Lápiz Hb Faber Castell Titan Con Borrador Caja X 12 Und",
     "short": "Escritura comoda para tareas y apuntes.",
-    "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
+    "description": "Lápiz grafito Titan HB con borrador y cuerpo hexagonal.",
+    "longDescription": "Lápiz Faber-Castell Titan HB con borrador incorporado, diseño hexagonal y punta resistente para uso diario.",
     "price": "S/ 4.62",
     "rating": "4.5",
     "stock": 10,
@@ -3027,6 +3094,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para escritura cotidiana.", "Útil para tareas y ejercicios escolares.", "Borra fácilmente con su borrador integrado."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3043,7 +3111,8 @@
   "lapiz-redondo-2-b-con-borrador-con-tabla-de-multiplicar-x-12-und": {
     "title": "Lápiz Redondo 2-B Con Borrador Con Tabla De Multiplicar X 12 Und.",
     "short": "Escritura comoda para tareas y apuntes.",
-    "description": "Escritura comoda para tareas y apuntes. Disponible en Libreria Belen.",
+    "description": "Lápiz grafito 2B con borrador para escritura y ejercicios escolares.",
+    "longDescription": "Lápiz 2B de grafito con trazo suave, Útil para escritura y dibujo, con borrador incorporado.",
     "price": "S/ 5.03",
     "rating": "4.5",
     "stock": 10,
@@ -3062,6 +3131,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para escritura y dibujo.", "Ideal para tareas escolares.", "Borra con facilidad gracias al borrador."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3078,7 +3148,8 @@
   "limpiatipos-artesco-sticky-tac": {
     "title": "Limpiatipos Artesco Sticky Tac",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Limpiatipos Sticky Tac Artesco, removible y fácil de manipular.",
+    "longDescription": "Masa adhesiva removible para fijar papel, cartulina o papelógrafos en paredes o pizarras.",
     "price": "S/ 1.43",
     "rating": "4.5",
     "stock": 10,
@@ -3097,6 +3168,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Pega avisos y cartulinas sin dañar superficies.", "Ideal para presentaciones escolares.", "Removible y reutilizable."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3113,7 +3185,8 @@
   "lustre-color-anaranjado": {
     "title": "Papel Lustre Naranja",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre color anaranjado para manualidades y trabajos escolares.",
+    "longDescription": "Papel lustre de acabado brillante, recomendado para manualidades, forrado y proyectos escolares.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3132,6 +3205,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para recortes, collage y decoración.", "Úsalo en trabajos escolares y artísticos.", "Su acabado brillante resalta colores."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3148,7 +3222,8 @@
   "lustre-color-azul": {
     "title": "Lustre color azul",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre azul de acabado brillante para manualidades.",
+    "longDescription": "Papel lustre con superficie brillante, Útil en trabajos escolares, decoraciones y proyectos creativos.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3167,6 +3242,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Recorta y pega en manualidades.", "Útil para decoración y collages.", "Ideal para uso escolar."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3183,7 +3259,8 @@
   "lustre-color-blanco": {
     "title": "Papel Lustre Blanco",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre blanco de acabado brillante para trabajos escolares.",
+    "longDescription": "Papel lustre brillante, ideal para manualidades, forrado y proyectos creativos en el aula.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3202,6 +3279,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo como base para manualidades.", "Ideal para collages y decoración.", "Recomendado para uso escolar."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3218,7 +3296,8 @@
   "lustre-color-celeste": {
     "title": "Papel Lustre Celeste",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre celeste para manualidades y proyectos creativos.",
+    "longDescription": "Papel lustre con acabado brillante, recomendado para trabajos escolares y actividades artísticas.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3237,6 +3316,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para recortes y decoración.", "Úsalo en proyectos escolares.", "Acabado brillante y color vivo."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3253,7 +3333,8 @@
   "lustre-color-lila": {
     "title": "Papel Lustre Lila",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre lila para manualidades y uso escolar.",
+    "longDescription": "Papel lustre de acabado brillante, Útil para trabajos escolares, forrado y actividades creativas.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3272,6 +3353,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para manualidades y collages.", "Úsalo para decoración escolar.", "Color brillante y llamativo."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3288,7 +3370,8 @@
   "lustre-color-marron": {
     "title": "Papel Lustre Marrón",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre marrón para trabajos escolares y manualidades.",
+    "longDescription": "Papel lustre con superficie brillante, recomendado para proyectos escolares y decoraciones.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3307,6 +3390,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para recortes y maquetas.", "Ideal para trabajos artísticos.", "Acabado brillante."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3323,7 +3407,8 @@
   "lustre-color-morado": {
     "title": "Papel Lustre Morado",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre morado para actividades escolares y creativas.",
+    "longDescription": "Papel lustre brillante, Útil para manualidades, forrar y decorar proyectos escolares.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3342,6 +3427,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para collages y decoración.", "Úsalo en trabajos escolares.", "Color intenso y brillante."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3358,7 +3444,8 @@
   "lustre-color-negro": {
     "title": "Papel Lustre Negro",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre negro de acabado brillante para manualidades.",
+    "longDescription": "Papel lustre brillante en color negro, recomendado para proyectos escolares y decoraciones.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3377,6 +3464,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo como fondo para trabajos.", "Ideal para recortes y siluetas.", "Acabado brillante para mayor contraste."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3393,7 +3481,8 @@
   "lustre-color-rojo": {
     "title": "Juego Didáctico Evaflex Base Diez Multibase Surtido",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre rojo para manualidades y trabajos escolares.",
+    "longDescription": "Papel lustre con acabado brillante, ideal para proyectos escolares y decoración.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3412,6 +3501,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo en carteles y decoraciones.", "Ideal para collages y manualidades.", "Color vivo y brillante."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3428,7 +3518,8 @@
   "lustre-color-rosado": {
     "title": "Papel Lustre Rosado",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre rosado de acabado brillante para manualidades.",
+    "longDescription": "Papel lustre brillante recomendado para trabajos escolares, decoración y proyectos artísticos.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3447,6 +3538,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para recortes y decoración.", "Úsalo en proyectos escolares.", "Color brillante y uniforme."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3463,7 +3555,8 @@
   "lustre-color-turquesa": {
     "title": "Papel Lustre Turquesa",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre turquesa para manualidades y actividades creativas.",
+    "longDescription": "Papel lustre de acabado brillante, recomendado para trabajos escolares y decoraciones.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3482,6 +3575,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo en collages y manualidades.", "Ideal para decoración escolar.", "Acabado brillante y color vivo."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3498,7 +3592,8 @@
   "lustre-color-verde-agua": {
     "title": "Papel Lustre Verde Agua",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre verde agua para manualidades y trabajos escolares.",
+    "longDescription": "Papel lustre brillante para proyectos creativos, manualidades y uso escolar.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3517,6 +3612,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Ideal para recortes y decoración.", "Úsalo en trabajos artísticos.", "Color brillante y uniforme."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3533,7 +3629,8 @@
   "lustre-color-verde-oscuro": {
     "title": "Juego Didáctico Evaflex Ábaco",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Papel lustre verde oscuro para manualidades y proyectos escolares.",
+    "longDescription": "Papel lustre con acabado brillante, recomendado para uso escolar y actividades creativas.",
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -3552,6 +3649,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Úsalo para recortes y collages.", "Ideal para decoración y manualidades.", "Acabado brillante y resistente."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3568,7 +3666,8 @@
   "maquina-toner-para-fotocopiadora": {
     "title": "MAQUINA - Toner para fotocopiadora",
     "short": "Producto esencial para estudio y oficina.",
-    "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "description": "Cartucho de tóner para fotocopiadora e impresora láser.",
+    "longDescription": "El tóner es un consumible de impresoras láser y fotocopiadoras; contiene polvo de tóner que se fija al papel durante la impresión.",
     "price": "S/ 120.00",
     "rating": "4.5",
     "stock": 10,
@@ -3587,6 +3686,7 @@
       "Ideal para estudio, oficina o regalo.",
       "Disponibilidad sujeta a stock."
     ],
+    "usage": ["Reemplaza el cartucho cuando la impresión salga tenue.", "Úsalo en equipos compatibles con tu modelo.", "Manipula el tóner con cuidado para evitar derrames."],
     "reviews": [
       {
         "name": "Cliente",
@@ -3604,6 +3704,8 @@
     "title": "Mica Portapapel Vinifan A4 Paquete X 10 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Mica portapapel tama?o A4 en pl?stico transparente para proteger y presentar documentos, ideal para oficina y colegio.",
+    "usage": ["Guarda hojas A4 sin doblarlas.", "?sala para presentar informes o trabajos.", "L?mpiala con un pa?o para mantener la transparencia."],
     "price": "S/ 4.09",
     "rating": "4.5",
     "stock": 10,
@@ -3639,6 +3741,8 @@
     "title": "Papel Bond 56 G 61 X 86 Cm Rollo X 50 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel bond de 56 g/m? en formato 61 x 86 cm, presentado en rollo, apto para impresi?n y trabajos generales.",
+    "usage": ["Corta hojas a medida para impresiones o planos.", "Ideal para libros, folletos o trabajos escolares.", "Gu?rdalo en un lugar seco para conservarlo."],
     "price": "S/ 0.15",
     "rating": "4.5",
     "stock": 10,
@@ -3674,6 +3778,8 @@
     "title": "Papel Crepé Amarillo X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? amarillo en paquete de 10 unidades, textura arrugada y el?stica para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3709,6 +3815,8 @@
     "title": "Papel Crepé Azul X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? azul en paquete de 10 unidades, ligero y poroso, ideal para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3744,6 +3852,8 @@
     "title": "Papel Crepé Blanco X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? blanco en paquete de 10 unidades, textura arrugada y el?stica para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3779,6 +3889,8 @@
     "title": "Papel Crepé Celeste X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? celeste en paquete de 10 unidades, flexible y resistente para manualidades y decoraciones.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3814,6 +3926,8 @@
     "title": "Papel Crepé Fucsia X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? fucsia en paquete de 10 unidades, textura arrugada y el?stica para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3849,6 +3963,8 @@
     "title": "Papel Crepé Lila X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? lila en paquete de 10 unidades, ligero y poroso, ideal para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3884,6 +4000,8 @@
     "title": "Papel Crepé Marrón X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? marr?n en paquete de 10 unidades, flexible y el?stico para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3919,6 +4037,8 @@
     "title": "Papel Crepé Melon X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? mel?n en paquete de 10 unidades, textura arrugada y el?stica para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3954,6 +4074,8 @@
     "title": "Papel Crepé Morado X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? morado en paquete de 10 unidades, ligero y poroso, ideal para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -3989,6 +4111,8 @@
     "title": "Papel Crepé Naranja X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? naranja en paquete de 10 unidades, flexible y el?stico para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -4024,6 +4148,8 @@
     "title": "Papel Crepé Negro X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? negro en paquete de 10 unidades, textura arrugada y el?stica para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -4056,9 +4182,11 @@
     "gallery": []
   },
   "papel-crepa-rojo-x-10-unidades": {
-    "title": "Papel Crep? Rojo X 10 Unidades",
+    "title": "Papel Crepé Rojo X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? rojo en paquete de 10 unidades, ligero y poroso, ideal para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -4094,6 +4222,8 @@
     "title": "Papel Crepé Marrón X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? rosado en paquete de 10 unidades, flexible y el?stico para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -4126,9 +4256,11 @@
     "gallery": []
   },
   "papel-crepa-verde-limon-x-10-unidades": {
-    "title": "Papel Crep? Verde  Limon X 10 Unidades",
+    "title": "Papel Crepé Verde  Limón X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? verde lim?n en paquete de 10 unidades, textura arrugada y el?stica para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -4161,9 +4293,11 @@
     "gallery": []
   },
   "papel-crepa-verde-oscuro-x-10-unidades": {
-    "title": "Papel Crep? Verde Oscuro X 10 Unidades",
+    "title": "Papel Crepé Verde Oscuro X 10 Unidades",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel crep? verde oscuro en paquete de 10 unidades, ligero y poroso, ideal para manualidades y decoraci?n.",
+    "usage": ["Crea flores, guirnaldas y adornos.", "Se estira y modela f?cilmente.", "Combina colores para decoraciones tem?ticas."],
     "price": "S/ 2.60",
     "rating": "4.5",
     "stock": 10,
@@ -4199,6 +4333,8 @@
     "title": "Papel Fotocopia Chamex A4 75Gr Paquete X 500 Hojas",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel fotocopia Chamex tama?o A4 de 75 g/m? en resma de 500 hojas, apto para impresoras l?ser e inkjet.",
+    "usage": ["Imprime y fotocopia documentos del d?a a d?a.", "?salo en oficina, colegio o casa.", "Gu?rdalo en un lugar seco para mantenerlo blanco y liso."],
     "price": "S/ 10.20",
     "rating": "4.5",
     "stock": 10,
@@ -4234,6 +4370,8 @@
     "title": "Papel Kraft Monolucido 49 Gr 70 X 100 Cm",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel kraft en pliego de 70 x 100 cm, ideal para forrar, envolver y realizar manualidades o trabajos creativos.",
+    "usage": ["Forra cuadernos y libros escolares.", "?salo para envolturas y empaques.", "Recorta y pega en proyectos de manualidades."],
     "price": "S/ 0.19",
     "rating": "4.5",
     "stock": 10,
@@ -4269,6 +4407,8 @@
     "title": "Papel Lustre - Amarillo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel lustre amarillo con acabado brillante, pensado para manualidades, decoraci?n y trabajos escolares.",
+    "usage": ["Recorta y pega en collages y maquetas.", "Ideal para decoraciones llamativas.", "Dale brillo a tarjetas y proyectos escolares."],
     "price": "S/ 0.18",
     "rating": "4.5",
     "stock": 10,
@@ -4304,6 +4444,8 @@
     "title": "Papel Seda Negro Cuadernillo X 24 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel seda negro en cuadernillo, liviano y suave, ideal para envolturas, decoraci?n y manualidades.",
+    "usage": ["Envuelve regalos y detalles delicados.", "?salo como relleno decorativo.", "Recorta y da volumen a manualidades."],
     "price": "S/ 1.95",
     "rating": "4.5",
     "stock": 10,
@@ -4339,6 +4481,8 @@
     "title": "Papelógrafo Rayado 61 X 86 Cm 56 G Rollo X 50 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Papel?grafo rayado de 61 x 86 cm y 56 g/m?, pensado para presentaciones y trabajos escolares.",
+    "usage": ["?salo en atril para exposiciones.", "Escribe con plumones para mayor visibilidad.", "Arranca hojas seg?n la necesidad de la clase."],
     "price": "S/ 0.19",
     "rating": "4.5",
     "stock": 10,
@@ -4374,6 +4518,8 @@
     "title": "Perforador Artesco M-208 11 Hojas Celeste",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Perforador Artesco de dos huecos con estructura met?lica, resistente y durable para uso escolar u oficina.",
+    "usage": ["Alinea las hojas antes de perforar.", "Perfora documentos para archivarlos.", "Limpia el dep?sito de residuos peri?dicamente."],
     "price": "S/ 5.65",
     "rating": "4.5",
     "stock": 10,
@@ -4409,6 +4555,8 @@
     "title": "Perforador Escolar De Metal Faber Castell U10 10 Hojas",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Perforador met?lico Faber-Castell U-10 para 10 hojas, con estructura met?lica y sistema para eliminar desperdicios.",
+    "usage": ["Perfora hasta 10 hojas para archivarlas.", "Ajusta la gu?a para distintos tama?os de papel.", "Vac?a el dep?sito de residuos despu?s de usar."],
     "price": "S/ 8.10",
     "rating": "4.5",
     "stock": 10,
@@ -4444,6 +4592,8 @@
     "title": "Perforador Escolar Artesco M-01 11 Hojas Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Perforador escolar Artesco M-01 con estructura met?lica, dise?ado para perforar aproximadamente 11 hojas.",
+    "usage": ["Perfora hojas para archivar en pioner.", "?salo en tareas y documentos escolares.", "Mant?n limpia la base de residuos."],
     "price": "S/ 5.31",
     "rating": "4.5",
     "stock": 10,
@@ -4479,6 +4629,8 @@
     "title": "Pioner Universal Ove A4 2 Anillos 45 Mm Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Pioner universal A4 de 2 anillos de 45 mm, con cubierta resistente e ideal para archivar documentos.",
+    "usage": ["Archiva hojas perforadas de tama?o A4.", "Usa separadores para organizar por temas.", "Rotula el lomo para identificar el contenido."],
     "price": "S/ 8.90",
     "rating": "4.5",
     "stock": 10,
@@ -4514,6 +4666,8 @@
     "title": "Pioner Universal Vinifan A4 2 Anillos 45 Mm Blanco",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Pioner universal A4 de 2 anillos de 45 mm, con cubierta resistente e ideal para archivar documentos.",
+    "usage": ["Archiva hojas perforadas de tama?o A4.", "Usa separadores para organizar por temas.", "Rotula el lomo para identificar el contenido."],
     "price": "S/ 8.90",
     "rating": "4.5",
     "stock": 10,
@@ -4549,6 +4703,8 @@
     "title": "Pioner Universal Artesco A4 2 Anillos 45 Mm Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Pioner universal A4 de 2 anillos de 45 mm, con cubierta resistente e ideal para archivar documentos.",
+    "usage": ["Archiva hojas perforadas de tama?o A4.", "Usa separadores para organizar por temas.", "Rotula el lomo para identificar el contenido."],
     "price": "S/ 8.90",
     "rating": "4.5",
     "stock": 10,
@@ -4584,6 +4740,8 @@
     "title": "Plastilina Jumbo Artesco X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plastilina jumbo en caja de 12 unidades con colores surtidos, suave para moldear y no se reseca f?cilmente.",
+    "usage": ["Modela figuras y personajes.", "Mezcla colores para crear nuevos tonos.", "Guarda las barras en su estuche tras usar."],
     "price": "S/ 3.01",
     "rating": "4.5",
     "stock": 10,
@@ -4619,6 +4777,8 @@
     "title": "Plumón Artesco Fineliner Triangular X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones fineliner Artesco con cuerpo triangular y punta microfibra para trazos finos, en estuche de 12 colores.",
+    "usage": ["Dibuja y escribe con trazos precisos.", "Ideal para detalles y delineado.", "Cierra bien las tapas para evitar secado."],
     "price": "S/ 6.93",
     "rating": "4.5",
     "stock": 10,
@@ -4654,6 +4814,8 @@
     "title": "Plumón Delgado Artesco Max 45 X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones delgados Artesco Max 45 en estuche de 12 colores, con colores intensos y punta resistente.",
+    "usage": ["Colorea y resalta con trazos finos.", "?tiles para tareas escolares y dibujos.", "L?valos de manos con agua y jab?n si es necesario."],
     "price": "S/ 4.27",
     "rating": "4.5",
     "stock": 10,
@@ -4689,6 +4851,8 @@
     "title": "Plumón Delgado Artesco Power Tips Punta Cónica X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones Artesco Power Tips con punta c?nica de 4.5 mm, permiten trazos delgados y gruesos, ideales para lettering.",
+    "usage": ["Inclina la punta para variar el grosor del trazo.", "?salos en lettering, dibujo y escritura.", "Cierra bien el plum?n para conservar la tinta."],
     "price": "S/ 6.78",
     "rating": "4.5",
     "stock": 10,
@@ -4724,6 +4888,8 @@
     "title": "Plumón Delgado Faber Castell Colorfest X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones Faber-Castell Colorfest en estuche de 12 unidades, pensados para colorear y escribir en trabajos escolares.",
+    "usage": ["Colorea y dibuja en hojas y cartulinas.", "?salos en tareas y proyectos creativos.", "Gu?rdalos en su estuche para mantener el orden."],
     "price": "S/ 7.88",
     "rating": "4.5",
     "stock": 10,
@@ -4759,6 +4925,8 @@
     "title": "Plumón Delgado Faber Castell Fiesta 45 Estuche Rígido X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones Faber-Castell Fiesta 45 en estuche r?gido de 12 unidades, con colores vivos y tinta a base de colorantes alimentarios.",
+    "usage": ["Dibuja, pinta y colorea con tonos vivos.", "?salos en mandalas, apuntes o trabajos creativos.", "Mant?n las tapas cerradas para conservar la tinta."],
     "price": "S/ 8.19",
     "rating": "4.5",
     "stock": 10,
@@ -4794,6 +4962,8 @@
     "title": "Plumón Delgado Faber Castell Fiesta 45 Estuche X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones Faber-Castell Fiesta 45 en estuche de 12 unidades, con colores vivos y tinta a base de colorantes alimentarios.",
+    "usage": ["Dibuja, pinta y colorea con tonos vivos.", "?salos en mandalas, apuntes o trabajos creativos.", "Mant?n las tapas cerradas para conservar la tinta."],
     "price": "S/ 4.31",
     "rating": "4.5",
     "stock": 10,
@@ -4829,6 +4999,8 @@
     "title": "Plumón Delgado Faber Castell Fiesta 45 X 18 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones Faber-Castell Fiesta 45 en presentaci?n m?ltiple, con colores vivos y tinta a base de colorantes alimentarios.",
+    "usage": ["Dibuja, pinta y colorea con tonos vivos.", "?salos en mandalas, apuntes o trabajos creativos.", "Mant?n las tapas cerradas para conservar la tinta."],
     "price": "S/ 8.25",
     "rating": "4.5",
     "stock": 10,
@@ -4864,6 +5036,8 @@
     "title": "Plumón Indeleble Delgado Ove Dúo Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n indeleble de tinta permanente y secado r?pido, apto para marcar sobre m?ltiples superficies.",
+    "usage": ["Marca cajas, cart?n o pl?stico.", "Deja secar la tinta para mayor fijaci?n.", "?salo en rotulado y se?alizaci?n."],
     "price": "S/ 1.07",
     "rating": "4.5",
     "stock": 10,
@@ -4899,6 +5073,8 @@
     "title": "Plumón Indeleble Delgado Ove Dúo Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n indeleble de tinta permanente y secado r?pido, apto para marcar sobre m?ltiples superficies.",
+    "usage": ["Marca cajas, cart?n o pl?stico.", "Deja secar la tinta para mayor fijaci?n.", "?salo en rotulado y se?alizaci?n."],
     "price": "S/ 1.07",
     "rating": "4.5",
     "stock": 10,
@@ -4934,6 +5110,8 @@
     "title": "Plumón Indeleble Delgado Ove Dúo Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n indeleble de tinta permanente y secado r?pido, apto para marcar sobre m?ltiples superficies.",
+    "usage": ["Marca cajas, cart?n o pl?stico.", "Deja secar la tinta para mayor fijaci?n.", "?salo en rotulado y se?alizaci?n."],
     "price": "S/ 1.07",
     "rating": "4.5",
     "stock": 10,
@@ -4969,6 +5147,8 @@
     "title": "Plumón Indeleble Grueso  Artesco Multimax A23 Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n indeleble grueso de tinta permanente resistente al agua, dise?ado para marcar diversas superficies.",
+    "usage": ["?salo en cart?n, pl?stico, metal o vidrio.", "Deja secar la tinta para que sea duradera.", "Ideal para rotulaci?n y se?al?tica."],
     "price": "S/ 0.66",
     "rating": "4.5",
     "stock": 10,
@@ -5004,6 +5184,8 @@
     "title": "Plumón Indeleble Grueso Artesco Multimax A23 Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n indeleble grueso de tinta permanente resistente al agua, dise?ado para marcar diversas superficies.",
+    "usage": ["?salo en cart?n, pl?stico, metal o vidrio.", "Deja secar la tinta para que sea duradera.", "Ideal para rotulaci?n y se?al?tica."],
     "price": "S/ 0.66",
     "rating": "4.5",
     "stock": 10,
@@ -5039,6 +5221,8 @@
     "title": "Plumón Indeleble Grueso Artesco Multimax A23 Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n indeleble grueso de tinta permanente resistente al agua, dise?ado para marcar diversas superficies.",
+    "usage": ["?salo en cart?n, pl?stico, metal o vidrio.", "Deja secar la tinta para que sea duradera.", "Ideal para rotulaci?n y se?al?tica."],
     "price": "S/ 0.66",
     "rating": "4.5",
     "stock": 10,
@@ -5074,6 +5258,8 @@
     "title": "Plumón Para Pizarra Faber Castell 123 Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n para pizarra blanca tipo jumbo, tinta de color intenso y borrado en seco, ideal para presentaciones.",
+    "usage": ["Escribe en pizarras blancas y borra en seco.", "?salo en clases, reuniones o notas r?pidas.", "Gu?rdalo en posici?n horizontal."],
     "price": "S/ 0.87",
     "rating": "4.5",
     "stock": 10,
@@ -5109,6 +5295,8 @@
     "title": "Plumón Para Pizarra Faber Castell 123 Rojo",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n para pizarra blanca tipo jumbo, tinta de color intenso y borrado en seco, ideal para presentaciones.",
+    "usage": ["Escribe en pizarras blancas y borra en seco.", "?salo en clases, reuniones o notas r?pidas.", "Gu?rdalo en posici?n horizontal."],
     "price": "S/ 0.87",
     "rating": "4.5",
     "stock": 10,
@@ -5144,6 +5332,8 @@
     "title": "Plumón Para Pizarra Faber Castell 123 Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n para pizarra blanca tipo jumbo, tinta de color intenso y borrado en seco, ideal para presentaciones.",
+    "usage": ["Escribe en pizarras blancas y borra en seco.", "?salo en clases, reuniones o notas r?pidas.", "Gu?rdalo en posici?n horizontal."],
     "price": "S/ 0.87",
     "rating": "4.5",
     "stock": 10,
@@ -5179,6 +5369,8 @@
     "title": "Plumón Para Pizarra Faber Castell 123 Verde",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n para pizarra blanca tipo jumbo, tinta de color intenso y borrado en seco, ideal para presentaciones.",
+    "usage": ["Escribe en pizarras blancas y borra en seco.", "?salo en clases, reuniones o notas r?pidas.", "Gu?rdalo en posici?n horizontal."],
     "price": "S/ 0.87",
     "rating": "4.5",
     "stock": 10,
@@ -5214,6 +5406,8 @@
     "title": "Plumón Jumbo Ove E47 X 12 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones jumbo para pizarra blanca con tinta de color intenso y borrado en seco.",
+    "usage": ["Escribe en pizarras blancas y borra en seco.", "?salos en clases, reuniones o notas r?pidas.", "Gu?rdalos en posici?n horizontal."],
     "price": "S/ 8.30",
     "rating": "4.5",
     "stock": 10,
@@ -5249,6 +5443,8 @@
     "title": "Plumón Jumbo Ove E47 X 6 Und",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plumones jumbo para pizarra blanca con tinta de color intenso y borrado en seco.",
+    "usage": ["Escribe en pizarras blancas y borra en seco.", "?salos en clases, reuniones o notas r?pidas.", "Gu?rdalos en posici?n horizontal."],
     "price": "S/ 4.20",
     "rating": "4.5",
     "stock": 10,
@@ -5284,6 +5480,8 @@
     "title": "Plumón Para Pizarra Artesco Acrimax 123 Azul",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n para pizarra blanca de tinta intensa y borrado en seco, adecuado para uso escolar y de oficina.",
+    "usage": ["Escribe en pizarras blancas y borra en seco.", "?salo en clases o presentaciones.", "Gu?rdalo en posici?n horizontal."],
     "price": "S/ 1.23",
     "rating": "4.5",
     "stock": 10,
@@ -5319,6 +5517,8 @@
     "title": "Plumón Para Pizarra Artesco Acrimax 123 Negro",
     "short": "Producto esencial para estudio y oficina.",
     "description": "Producto esencial para estudio y oficina. Disponible en Libreria Belen.",
+    "longDescription": "Plum?n para pizarra blanca de tinta intensa y borrado en seco, adecuado para uso escolar y de oficina.",
+    "usage": ["Escribe en pizarras blancas y borra en seco.", "?salo en clases o presentaciones.", "Gu?rdalo en posici?n horizontal."],
     "price": "S/ 1.23",
     "rating": "4.5",
     "stock": 10,
