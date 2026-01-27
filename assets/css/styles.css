@@ -195,38 +195,6 @@ img {
   animation-play-state: paused;
 }
 
-.maintenance-banner {
-  margin: 0;
-  padding: 16px 6vw;
-  background: linear-gradient(90deg, rgba(249, 115, 22, 0.12), rgba(15, 118, 110, 0.12));
-  border-bottom: 1px solid rgba(15, 118, 110, 0.18);
-}
-
-.maintenance-banner-content {
-  max-width: 1100px;
-  margin: 0 auto;
-  display: flex;
-  gap: 12px;
-  align-items: center;
-  font-weight: 600;
-  color: var(--ink);
-}
-
-.maintenance-banner-content p {
-  margin: 0;
-}
-
-.maintenance-tag {
-  display: inline-block;
-  padding: 4px 10px;
-  border-radius: var(--r-pill);
-  background: rgba(15, 118, 110, 0.15);
-  color: var(--accent-dark);
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
 
 .hero-search {
   display: flex;
@@ -2735,10 +2703,6 @@ body.maintenance > :not(.maintenance-overlay) {
     width: 100%;
   }
 
-  .maintenance-banner-content {
-    flex-direction: column;
-    align-items: flex-start;
-  }
 
   .section-title {
     flex-direction: column;

@@ -20,7 +20,17 @@
     <meta name="theme-color" content="#0D615A" />
     <link rel="apple-touch-icon" href="assets/img/icon.svg" />
   </head>
-  <body>
+  <body class="maintenance">
+    <div class="maintenance-overlay" role="dialog" aria-modal="true" aria-label="Sitio en mantenimiento">
+      <video class="maintenance-video" src="assets/video/video-pagina-en-mantenimiento.mp4" autoplay muted loop playsinline></video>
+      <div class="maintenance-scrim"></div>
+      <div class="maintenance-content">
+        <img class="maintenance-logo" src="assets/img/logonuevo.webp" alt="Libreria Belen" />
+        <h1>Estamos en mantenimiento</h1>
+        <p>Algunas funciones pueden no estar disponibles. Para pedidos urgentes, escribe por WhatsApp.</p>
+      </div>
+    </div>
+
 <header class="hero hero-small">
       <div class="topbar">
         <div class="brand">
@@ -51,14 +61,7 @@
       </div>
     </header>
 
-    <section class="maintenance-banner" aria-live="polite">
-      <div class="maintenance-banner-content">
-        <span class="maintenance-tag">Aviso</span>
-        <p><strong>Estamos en mantenimiento.</strong> Algunas funciones pueden no estar disponibles. Para pedidos urgentes, escribe por WhatsApp.</p>
-      </div>
-    </section>
-
-    <main class="detail">
+<main class="detail">
       <section class="detail-card">
         <div class="detail-gallery">
           <img id="detail-image" alt="" loading="lazy" decoding="async" />
