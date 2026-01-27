@@ -1,4 +1,4 @@
-const CACHE_VERSION = "v56";
+const CACHE_VERSION = "v59";
 const STATIC_CACHE = `static-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
