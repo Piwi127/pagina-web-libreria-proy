@@ -2443,7 +2443,7 @@ textarea:focus-visible {
   display: none;
   align-items: stretch;
   justify-content: flex-end;
-  z-index: 1000;
+  z-index: 6000;
 }
 
 .cart-panel.open {
